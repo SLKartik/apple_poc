@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+    <showcaseTemplate mode="showcase">
+        <banner>
+            <title style="font-weight:light; color:rgb(128,128,128)">Select user profile</title>
+        </banner>
+        <carousel>
+            <section>
+                <lockup onselect="profileSelect('Mike')">
+                    <img src="http://192.168.43.140:9001/backend/resources/images/m.png" width="200" height="200" />
+                    <title style="font-weight:light; color:rgb(128,128,128)">Mike</title>
+                </lockup>
+                <lockup onselect="profileSelect('Sarah')">
+                    <img src="http://192.168.43.140:9001/backend/resources/images/s.png" width="200" height="200" />
+                    <title style="font-weight:light; color:rgb(128,128,128)">Sarah</title>
+                </lockup>
+                <lockup onselect="profileSelect('Sarah')">
+                    <img src="http://192.168.43.140:9001/backend/resources/images/j.png" width="200" height="200" />
+                    <title style="font-weight:light; color:rgb(128,128,128)">Jake</title>
+                </lockup>
+            </section>
+        </carousel>
+    </showcaseTemplate>
+</document>

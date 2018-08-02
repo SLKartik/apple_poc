@@ -1,0 +1,1519 @@
+Oct 10, 2017 12:43:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:43:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 12:44:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:44:04 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 12:44:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:44:28 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:44:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:44:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:44:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:44:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:44:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:44:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:44:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:44:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:44:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:44:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:45:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:45:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'portal'
+Oct 10, 2017 12:45:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:45:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:45:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:45:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:45:09 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:45:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:45:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'scfmock'
+Oct 10, 2017 12:45:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:45:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:45:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'portal'
+Oct 10, 2017 12:45:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:45:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 12:45:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 12:45:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'scfmock'
+Oct 10, 2017 12:45:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:45:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:45:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:45:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:45:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:49:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:49:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 12:49:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:49:32 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 12:49:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:49:37 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:49:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:49:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:49:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:49:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:49:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:49:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:49:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:49:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:49:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:49:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:49:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:49:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'portal'
+Oct 10, 2017 12:49:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:49:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:49:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:50:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:50:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:50:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:50:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'scfmock'
+Oct 10, 2017 12:53:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:53:19 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 12:53:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:53:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 12:53:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:53:27 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:53:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:53:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:53:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:53:36 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:53:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:53:38 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:53:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:53:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:53:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:53:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:53:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:53:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'portal'
+Oct 10, 2017 12:53:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:53:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:53:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:53:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:53:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 12:53:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 12:53:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'scfmock'
+Oct 10, 2017 1:03:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 1:03:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 1:03:28 PM org.apache.catalina.core.StandardContext listenerStop
+SEVERE: Exception sending context destroyed event to listener instance of class com.ericsson.iptv.portal.module.register.AppServletContextListener
+java.lang.NoClassDefFoundError: com/ericsson/iptv/portal/common/artifacts/ComparableVersion$StringItem
+	at com.ericsson.iptv.portal.common.artifacts.ComparableVersion.parseItem(ComparableVersion.java:385)
+	at com.ericsson.iptv.portal.common.artifacts.ComparableVersion.parseVersion(ComparableVersion.java:373)
+	at com.ericsson.iptv.portal.common.artifacts.ComparableVersion.<init>(ComparableVersion.java:305)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.getManagers(MBeanManagerBase.java:358)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.invokeOnAllManagers(MBeanManagerBase.java:480)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.broadcast(MBeanManagerBase.java:599)
+	at com.ericsson.iptv.portal.fw.notification.mbean.NotificationManagerImpl.notification(NotificationManagerImpl.java:72)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.contextDestroyed(ArtifactBase.java:106)
+	at org.apache.catalina.core.StandardContext.listenerStop(StandardContext.java:5157)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5830)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.ClassNotFoundException: com.ericsson.iptv.portal.common.artifacts.ComparableVersion$StringItem
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	... 23 more
+
+Oct 10, 2017 1:03:42 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:03:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:03:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'portal'
+Oct 10, 2017 1:03:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:03:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'scfmock'
+Oct 10, 2017 1:03:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:03:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:03:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:03:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:03:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:03:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:03:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:03:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:03:54 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:03:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:03:58 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:04:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:04:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:04:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:04:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:04:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:04:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 1:04:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:04:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 1:04:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:04:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 1:04:28 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Error configuring application listener of class com.ericsson.iptv.portal.module.register.AppServletContextListener
+java.lang.ClassNotFoundException: com.ericsson.iptv.portal.module.register.AppServletContextListener
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1892)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1735)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClass(DefaultInstanceManager.java:495)
+	at org.apache.catalina.core.DefaultInstanceManager.loadClassMaybePrivileged(DefaultInstanceManager.java:477)
+	at org.apache.catalina.core.DefaultInstanceManager.newInstance(DefaultInstanceManager.java:113)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:5026)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5633)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:145)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:1015)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:991)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:1127)
+	at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:2020)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 10, 2017 1:04:28 PM org.apache.catalina.core.StandardContext listenerStart
+SEVERE: Skipped installing application listeners due to previous error(s)
+Oct 10, 2017 1:04:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:04:29 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'portal'
+Oct 10, 2017 1:04:30 PM org.apache.catalina.core.ApplicationDispatcher invoke
+SEVERE: Servlet.service() for servlet stbportal threw exception
+java.lang.IllegalStateException: No MBean managers for type Config
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.invoke(MBeanManagerBase.java:584)
+	at com.ericsson.iptv.portal.fw.config.mbean.FwConfigUser.getConfig(FwConfigUser.java:53)
+	at com.ericsson.iptv.portal.fw.backend.gzip.GZIPServletFilter.isGzipEnabled(GZIPServletFilter.java:70)
+	at com.ericsson.iptv.portal.fw.backend.gzip.GZIPServletFilter.doFilter(GZIPServletFilter.java:82)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.startup.DisableDirectoryListings.doFilter(DisableDirectoryListings.java:114)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.cache.StaticDataCacheControl.doFilter(StaticDataCacheControl.java:83)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalFilter(ServletFilterManager.java:80)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalPerformAction(ServletFilterManager.java:89)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:328)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter$FilterChainImpl.doFilter(PortalServletFilter.java:76)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter.doFilter(PortalServletFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:743)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:485)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:410)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:337)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalForwardRequest(ArtifactBase.java:325)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalPerformAction(ArtifactBase.java:351)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:328)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$4.invokeOn(MBeanManagerBase.java:621)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.invokeOnSingleManager(MBeanManagerBase.java:516)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.broadcast(MBeanManagerBase.java:618)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.forwardRequest(ArtifactBase.java:424)
+	at com.ericsson.iptv.portal.proxy.ProxyServlet.service(ProxyServlet.java:130)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:318)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 10, 2017 1:04:30 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [private] in context with path [/private] threw exception
+java.lang.IllegalStateException: No MBean managers for type Config
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.invoke(MBeanManagerBase.java:584)
+	at com.ericsson.iptv.portal.fw.config.mbean.FwConfigUser.getConfig(FwConfigUser.java:53)
+	at com.ericsson.iptv.portal.fw.backend.gzip.GZIPServletFilter.isGzipEnabled(GZIPServletFilter.java:70)
+	at com.ericsson.iptv.portal.fw.backend.gzip.GZIPServletFilter.doFilter(GZIPServletFilter.java:82)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.startup.DisableDirectoryListings.doFilter(DisableDirectoryListings.java:114)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.cache.StaticDataCacheControl.doFilter(StaticDataCacheControl.java:83)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalFilter(ServletFilterManager.java:80)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalPerformAction(ServletFilterManager.java:89)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:328)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter$FilterChainImpl.doFilter(PortalServletFilter.java:76)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter.doFilter(PortalServletFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:743)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:485)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:410)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:337)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalForwardRequest(ArtifactBase.java:325)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalPerformAction(ArtifactBase.java:351)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:328)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$4.invokeOn(MBeanManagerBase.java:621)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.invokeOnSingleManager(MBeanManagerBase.java:516)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.broadcast(MBeanManagerBase.java:618)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.forwardRequest(ArtifactBase.java:424)
+	at com.ericsson.iptv.portal.proxy.ProxyServlet.service(ProxyServlet.java:130)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:318)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 10, 2017 1:04:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:04:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:04:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:04:34 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'scfmock'
+Oct 10, 2017 1:04:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:04:41 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:04:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:04:43 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:04:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:04:45 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:04:47 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:04:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 1:04:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:04:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:04:50 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:04:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'portal'
+Oct 10, 2017 1:04:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:04:53 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:04:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:04:55 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'scfmock'
+Oct 10, 2017 1:04:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:04:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:04:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:04:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:04:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'portal'
+Oct 10, 2017 1:04:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:04:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 1:04:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 1:04:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:04:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'scfmock'
+Oct 10, 2017 1:05:00 PM org.apache.catalina.core.ApplicationDispatcher invoke
+SEVERE: Servlet.service() for servlet stbportal threw exception
+java.lang.IllegalStateException: No MBean managers for type Config
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.invoke(MBeanManagerBase.java:584)
+	at com.ericsson.iptv.portal.fw.config.mbean.FwConfigUser.getConfig(FwConfigUser.java:53)
+	at com.ericsson.iptv.portal.fw.backend.gzip.GZIPServletFilter.isGzipEnabled(GZIPServletFilter.java:70)
+	at com.ericsson.iptv.portal.fw.backend.gzip.GZIPServletFilter.doFilter(GZIPServletFilter.java:82)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.startup.DisableDirectoryListings.doFilter(DisableDirectoryListings.java:114)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.cache.StaticDataCacheControl.doFilter(StaticDataCacheControl.java:83)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalFilter(ServletFilterManager.java:80)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalPerformAction(ServletFilterManager.java:89)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter$FilterChainImpl.doFilter(PortalServletFilter.java:76)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter.doFilter(PortalServletFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:743)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:485)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:410)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:337)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalForwardRequest(ArtifactBase.java:325)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalPerformAction(ArtifactBase.java:351)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:328)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$4.invokeOn(MBeanManagerBase.java:621)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.invokeOnSingleManager(MBeanManagerBase.java:516)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.broadcast(MBeanManagerBase.java:618)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.forwardRequest(ArtifactBase.java:424)
+	at com.ericsson.iptv.portal.proxy.ProxyServlet.service(ProxyServlet.java:130)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 10, 2017 1:05:00 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [private] in context with path [/private] threw exception
+java.lang.IllegalStateException: No MBean managers for type Config
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.invoke(MBeanManagerBase.java:584)
+	at com.ericsson.iptv.portal.fw.config.mbean.FwConfigUser.getConfig(FwConfigUser.java:53)
+	at com.ericsson.iptv.portal.fw.backend.gzip.GZIPServletFilter.isGzipEnabled(GZIPServletFilter.java:70)
+	at com.ericsson.iptv.portal.fw.backend.gzip.GZIPServletFilter.doFilter(GZIPServletFilter.java:82)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.startup.DisableDirectoryListings.doFilter(DisableDirectoryListings.java:114)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.cache.StaticDataCacheControl.doFilter(StaticDataCacheControl.java:83)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalFilter(ServletFilterManager.java:80)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalPerformAction(ServletFilterManager.java:89)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter$FilterChainImpl.doFilter(PortalServletFilter.java:76)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter.doFilter(PortalServletFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:743)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:485)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:410)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:337)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalForwardRequest(ArtifactBase.java:325)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalPerformAction(ArtifactBase.java:351)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:328)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$4.invokeOn(MBeanManagerBase.java:621)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.invokeOnSingleManager(MBeanManagerBase.java:516)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.broadcast(MBeanManagerBase.java:618)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.forwardRequest(ArtifactBase.java:424)
+	at com.ericsson.iptv.portal.proxy.ProxyServlet.service(ProxyServlet.java:130)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 10, 2017 1:06:01 PM org.apache.catalina.core.ApplicationDispatcher invoke
+SEVERE: Servlet.service() for servlet stbportal threw exception
+java.lang.IllegalStateException: No MBean managers for type Config
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.invoke(MBeanManagerBase.java:584)
+	at com.ericsson.iptv.portal.fw.config.mbean.FwConfigUser.getConfig(FwConfigUser.java:53)
+	at com.ericsson.iptv.portal.fw.backend.gzip.GZIPServletFilter.isGzipEnabled(GZIPServletFilter.java:70)
+	at com.ericsson.iptv.portal.fw.backend.gzip.GZIPServletFilter.doFilter(GZIPServletFilter.java:82)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.startup.DisableDirectoryListings.doFilter(DisableDirectoryListings.java:114)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.cache.StaticDataCacheControl.doFilter(StaticDataCacheControl.java:83)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalFilter(ServletFilterManager.java:80)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalPerformAction(ServletFilterManager.java:89)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter$FilterChainImpl.doFilter(PortalServletFilter.java:76)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter.doFilter(PortalServletFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:743)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:485)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:410)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:337)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalForwardRequest(ArtifactBase.java:325)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalPerformAction(ArtifactBase.java:351)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$4.invokeOn(MBeanManagerBase.java:621)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.invokeOnSingleManager(MBeanManagerBase.java:516)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.broadcast(MBeanManagerBase.java:618)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.forwardRequest(ArtifactBase.java:424)
+	at com.ericsson.iptv.portal.proxy.ProxyServlet.service(ProxyServlet.java:130)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 10, 2017 1:06:01 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [private] in context with path [/private] threw exception
+java.lang.IllegalStateException: No MBean managers for type Config
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.invoke(MBeanManagerBase.java:584)
+	at com.ericsson.iptv.portal.fw.config.mbean.FwConfigUser.getConfig(FwConfigUser.java:53)
+	at com.ericsson.iptv.portal.fw.backend.gzip.GZIPServletFilter.isGzipEnabled(GZIPServletFilter.java:70)
+	at com.ericsson.iptv.portal.fw.backend.gzip.GZIPServletFilter.doFilter(GZIPServletFilter.java:82)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.startup.DisableDirectoryListings.doFilter(DisableDirectoryListings.java:114)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.cache.StaticDataCacheControl.doFilter(StaticDataCacheControl.java:83)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalFilter(ServletFilterManager.java:80)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalPerformAction(ServletFilterManager.java:89)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter$FilterChainImpl.doFilter(PortalServletFilter.java:76)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter.doFilter(PortalServletFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:743)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:485)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:410)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:337)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalForwardRequest(ArtifactBase.java:325)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalPerformAction(ArtifactBase.java:351)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$4.invokeOn(MBeanManagerBase.java:621)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.invokeOnSingleManager(MBeanManagerBase.java:516)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.broadcast(MBeanManagerBase.java:618)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.forwardRequest(ArtifactBase.java:424)
+	at com.ericsson.iptv.portal.proxy.ProxyServlet.service(ProxyServlet.java:130)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 10, 2017 1:07:00 PM org.apache.catalina.core.ApplicationDispatcher invoke
+SEVERE: Servlet.service() for servlet stbportal threw exception
+java.lang.IllegalStateException: No MBean managers for type Config
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.invoke(MBeanManagerBase.java:584)
+	at com.ericsson.iptv.portal.fw.config.mbean.FwConfigUser.getConfig(FwConfigUser.java:53)
+	at com.ericsson.iptv.portal.fw.backend.gzip.GZIPServletFilter.isGzipEnabled(GZIPServletFilter.java:70)
+	at com.ericsson.iptv.portal.fw.backend.gzip.GZIPServletFilter.doFilter(GZIPServletFilter.java:82)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.startup.DisableDirectoryListings.doFilter(DisableDirectoryListings.java:114)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.cache.StaticDataCacheControl.doFilter(StaticDataCacheControl.java:83)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalFilter(ServletFilterManager.java:80)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalPerformAction(ServletFilterManager.java:89)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter$FilterChainImpl.doFilter(PortalServletFilter.java:76)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter.doFilter(PortalServletFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:743)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:485)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:410)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:337)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalForwardRequest(ArtifactBase.java:325)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalPerformAction(ArtifactBase.java:351)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$4.invokeOn(MBeanManagerBase.java:621)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.invokeOnSingleManager(MBeanManagerBase.java:516)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.broadcast(MBeanManagerBase.java:618)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.forwardRequest(ArtifactBase.java:424)
+	at com.ericsson.iptv.portal.proxy.ProxyServlet.service(ProxyServlet.java:130)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 10, 2017 1:07:00 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [private] in context with path [/private] threw exception
+java.lang.IllegalStateException: No MBean managers for type Config
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.invoke(MBeanManagerBase.java:584)
+	at com.ericsson.iptv.portal.fw.config.mbean.FwConfigUser.getConfig(FwConfigUser.java:53)
+	at com.ericsson.iptv.portal.fw.backend.gzip.GZIPServletFilter.isGzipEnabled(GZIPServletFilter.java:70)
+	at com.ericsson.iptv.portal.fw.backend.gzip.GZIPServletFilter.doFilter(GZIPServletFilter.java:82)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.startup.DisableDirectoryListings.doFilter(DisableDirectoryListings.java:114)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.cache.StaticDataCacheControl.doFilter(StaticDataCacheControl.java:83)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalFilter(ServletFilterManager.java:80)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalPerformAction(ServletFilterManager.java:89)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter$FilterChainImpl.doFilter(PortalServletFilter.java:76)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter.doFilter(PortalServletFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:743)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:485)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:410)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:337)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalForwardRequest(ArtifactBase.java:325)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalPerformAction(ArtifactBase.java:351)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$4.invokeOn(MBeanManagerBase.java:621)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.invokeOnSingleManager(MBeanManagerBase.java:516)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.broadcast(MBeanManagerBase.java:618)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.forwardRequest(ArtifactBase.java:424)
+	at com.ericsson.iptv.portal.proxy.ProxyServlet.service(ProxyServlet.java:130)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+
+Oct 10, 2017 1:07:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:07:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:07:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'portal'
+Oct 10, 2017 1:07:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 1:07:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 1:07:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'scfmock'
+Oct 10, 2017 1:07:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:07:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:07:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:07:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:07:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 1:07:51 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:07:52 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 1:07:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:07:56 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:08:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:08:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:08:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:08:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:08:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:08:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:08:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:08:10 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:08:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:08:12 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'portal'
+Oct 10, 2017 1:08:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:08:14 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 1:08:16 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 1:08:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'scfmock'
+Oct 10, 2017 3:28:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:28:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:28:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:28:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:28:48 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'portal'
+Oct 10, 2017 3:28:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:28:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 3:28:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 3:28:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:28:49 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'scfmock'
+Oct 10, 2017 3:28:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 3:28:59 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 3:29:01 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 3:29:02 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 3:29:05 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 3:29:06 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:29:11 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 3:29:11 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:29:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 3:29:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:29:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 3:29:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:29:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 3:29:18 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:29:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 3:29:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'portal'
+Oct 10, 2017 3:29:21 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 3:29:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:29:23 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 3:29:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'scfmock'
+Oct 10, 2017 3:29:25 PM org.apache.catalina.core.ApplicationDispatcher invoke
+SEVERE: Servlet.service() for servlet stbportal threw exception
+java.lang.RuntimeException: org.apache.catalina.connector.ClientAbortException: java.net.SocketException: Software caused connection abort: socket write error
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalFilter(ServletFilterManager.java:82)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalPerformAction(ServletFilterManager.java:89)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter$FilterChainImpl.doFilter(PortalServletFilter.java:76)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:68)
+	at com.ericsson.iptv.portal.fw.backend.gzip.GZIPServletFilter.doFilter(GZIPServletFilter.java:88)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.startup.DisableDirectoryListings.doFilter(DisableDirectoryListings.java:114)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.cache.StaticDataCacheControl.doFilter(StaticDataCacheControl.java:83)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalFilter(ServletFilterManager.java:80)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalPerformAction(ServletFilterManager.java:89)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:328)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter$FilterChainImpl.doFilter(PortalServletFilter.java:76)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter.doFilter(PortalServletFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:743)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:485)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:410)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:337)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalForwardRequest(ArtifactBase.java:325)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalPerformAction(ArtifactBase.java:351)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:328)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$4.invokeOn(MBeanManagerBase.java:621)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.invokeOnSingleManager(MBeanManagerBase.java:516)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.broadcast(MBeanManagerBase.java:618)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.forwardRequest(ArtifactBase.java:424)
+	at com.ericsson.iptv.portal.proxy.ProxyServlet.service(ProxyServlet.java:130)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.catalina.connector.ClientAbortException: java.net.SocketException: Software caused connection abort: socket write error
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:370)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:334)
+	at org.apache.catalina.connector.Response.flushBuffer(Response.java:595)
+	at org.apache.catalina.connector.ResponseFacade.flushBuffer(ResponseFacade.java:306)
+	at javax.servlet.ServletResponseWrapper.flushBuffer(ServletResponseWrapper.java:160)
+	at javax.servlet.ServletResponseWrapper.flushBuffer(ServletResponseWrapper.java:160)
+	at javax.servlet.ServletResponseWrapper.flushBuffer(ServletResponseWrapper.java:160)
+	at com.ericsson.iptv.portal.fw.spring.ExceptionView.renderMergedOutputModel(ExceptionView.java:140)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:264)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1201)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:986)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:933)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:851)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:953)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:844)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:829)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter$FilterChainImpl.doFilter(PortalServletFilter.java:78)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:68)
+	at com.ericsson.iptv.portal.fw.cors.AbstractCorsRequestFilter.doFilter(AbstractCorsRequestFilter.java:130)
+	at com.ericsson.iptv.portal.mock.cors.CorsRequestFilter.doFilter(CorsRequestFilter.java:57)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:317)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:183)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:80)
+	at com.ericsson.iptv.portal.common.backend.mock.MockMBeanInterceptor.performAction(MockMBeanInterceptor.java:55)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:621)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:610)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:161)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:91)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+	at com.sun.proxy.$Proxy59.doFilter(Unknown Source)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalFilter(ServletFilterManager.java:80)
+	... 61 more
+Caused by: java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:216)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:487)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:120)
+	at org.apache.coyote.http11.AbstractHttp11Processor.action(AbstractHttp11Processor.java:828)
+	at org.apache.coyote.Response.action(Response.java:173)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:366)
+	... 110 more
+
+Oct 10, 2017 3:29:25 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [private] in context with path [/private] threw exception
+java.lang.RuntimeException: org.apache.catalina.connector.ClientAbortException: java.net.SocketException: Software caused connection abort: socket write error
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalFilter(ServletFilterManager.java:82)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalPerformAction(ServletFilterManager.java:89)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter$FilterChainImpl.doFilter(PortalServletFilter.java:76)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:68)
+	at com.ericsson.iptv.portal.fw.backend.gzip.GZIPServletFilter.doFilter(GZIPServletFilter.java:88)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.startup.DisableDirectoryListings.doFilter(DisableDirectoryListings.java:114)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.cache.StaticDataCacheControl.doFilter(StaticDataCacheControl.java:83)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalFilter(ServletFilterManager.java:80)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalPerformAction(ServletFilterManager.java:89)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:328)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter$FilterChainImpl.doFilter(PortalServletFilter.java:76)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter.doFilter(PortalServletFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:743)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:485)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:410)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:337)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalForwardRequest(ArtifactBase.java:325)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalPerformAction(ArtifactBase.java:351)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:328)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$4.invokeOn(MBeanManagerBase.java:621)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.invokeOnSingleManager(MBeanManagerBase.java:516)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.broadcast(MBeanManagerBase.java:618)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.forwardRequest(ArtifactBase.java:424)
+	at com.ericsson.iptv.portal.proxy.ProxyServlet.service(ProxyServlet.java:130)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.catalina.connector.ClientAbortException: java.net.SocketException: Software caused connection abort: socket write error
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:370)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:334)
+	at org.apache.catalina.connector.Response.flushBuffer(Response.java:595)
+	at org.apache.catalina.connector.ResponseFacade.flushBuffer(ResponseFacade.java:306)
+	at javax.servlet.ServletResponseWrapper.flushBuffer(ServletResponseWrapper.java:160)
+	at javax.servlet.ServletResponseWrapper.flushBuffer(ServletResponseWrapper.java:160)
+	at javax.servlet.ServletResponseWrapper.flushBuffer(ServletResponseWrapper.java:160)
+	at com.ericsson.iptv.portal.fw.spring.ExceptionView.renderMergedOutputModel(ExceptionView.java:140)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:264)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1201)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:986)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:933)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:851)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:953)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:844)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:829)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter$FilterChainImpl.doFilter(PortalServletFilter.java:78)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:68)
+	at com.ericsson.iptv.portal.fw.cors.AbstractCorsRequestFilter.doFilter(AbstractCorsRequestFilter.java:130)
+	at com.ericsson.iptv.portal.mock.cors.CorsRequestFilter.doFilter(CorsRequestFilter.java:57)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:317)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:183)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:80)
+	at com.ericsson.iptv.portal.common.backend.mock.MockMBeanInterceptor.performAction(MockMBeanInterceptor.java:55)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:621)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:610)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:161)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:91)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+	at com.sun.proxy.$Proxy59.doFilter(Unknown Source)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalFilter(ServletFilterManager.java:80)
+	... 61 more
+Caused by: java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:216)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:487)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:120)
+	at org.apache.coyote.http11.AbstractHttp11Processor.action(AbstractHttp11Processor.java:828)
+	at org.apache.coyote.Response.action(Response.java:173)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:366)
+	... 110 more
+
+Oct 10, 2017 3:31:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:31:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:31:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:31:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:31:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'portal'
+Oct 10, 2017 3:31:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:31:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 3:31:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 3:31:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:31:40 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'scfmock'
+Oct 10, 2017 3:32:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 3:32:00 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 3:32:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 3:32:03 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'dispatcherServlet'
+Oct 10, 2017 3:32:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 3:32:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:32:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 3:32:13 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:32:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 3:32:15 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:32:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 3:32:17 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:32:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 3:32:20 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:32:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 3:32:22 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'portal'
+Oct 10, 2017 3:32:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 3:32:24 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'stbportal'
+Oct 10, 2017 3:32:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: No Spring WebApplicationInitializer types detected on classpath
+Oct 10, 2017 3:32:26 PM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'scfmock'
+Oct 10, 2017 3:32:27 PM org.apache.catalina.core.ApplicationDispatcher invoke
+SEVERE: Servlet.service() for servlet stbportal threw exception
+java.lang.RuntimeException: org.apache.catalina.connector.ClientAbortException: java.net.SocketException: Software caused connection abort: socket write error
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalFilter(ServletFilterManager.java:82)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalPerformAction(ServletFilterManager.java:89)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:328)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter$FilterChainImpl.doFilter(PortalServletFilter.java:76)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:68)
+	at com.ericsson.iptv.portal.fw.backend.gzip.GZIPServletFilter.doFilter(GZIPServletFilter.java:88)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.startup.DisableDirectoryListings.doFilter(DisableDirectoryListings.java:114)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.cache.StaticDataCacheControl.doFilter(StaticDataCacheControl.java:83)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalFilter(ServletFilterManager.java:80)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalPerformAction(ServletFilterManager.java:89)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter$FilterChainImpl.doFilter(PortalServletFilter.java:76)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter.doFilter(PortalServletFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:743)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:485)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:410)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:337)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalForwardRequest(ArtifactBase.java:325)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalPerformAction(ArtifactBase.java:351)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$4.invokeOn(MBeanManagerBase.java:621)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.invokeOnSingleManager(MBeanManagerBase.java:516)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.broadcast(MBeanManagerBase.java:618)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.forwardRequest(ArtifactBase.java:424)
+	at com.ericsson.iptv.portal.proxy.ProxyServlet.service(ProxyServlet.java:130)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.catalina.connector.ClientAbortException: java.net.SocketException: Software caused connection abort: socket write error
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:370)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:334)
+	at org.apache.catalina.connector.Response.flushBuffer(Response.java:595)
+	at org.apache.catalina.connector.ResponseFacade.flushBuffer(ResponseFacade.java:306)
+	at javax.servlet.ServletResponseWrapper.flushBuffer(ServletResponseWrapper.java:160)
+	at javax.servlet.ServletResponseWrapper.flushBuffer(ServletResponseWrapper.java:160)
+	at javax.servlet.ServletResponseWrapper.flushBuffer(ServletResponseWrapper.java:160)
+	at com.ericsson.iptv.portal.fw.spring.ExceptionView.renderMergedOutputModel(ExceptionView.java:140)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:264)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1201)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:986)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:933)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:851)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:953)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:844)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:829)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter$FilterChainImpl.doFilter(PortalServletFilter.java:78)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:68)
+	at com.ericsson.iptv.portal.fw.cors.AbstractCorsRequestFilter.doFilter(AbstractCorsRequestFilter.java:130)
+	at com.ericsson.iptv.portal.mock.cors.CorsRequestFilter.doFilter(CorsRequestFilter.java:57)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:317)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:183)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:80)
+	at com.ericsson.iptv.portal.common.backend.mock.MockMBeanInterceptor.performAction(MockMBeanInterceptor.java:55)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:621)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:610)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:161)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:91)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+	at com.sun.proxy.$Proxy59.doFilter(Unknown Source)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalFilter(ServletFilterManager.java:80)
+	... 60 more
+Caused by: java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:216)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:487)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:120)
+	at org.apache.coyote.http11.AbstractHttp11Processor.action(AbstractHttp11Processor.java:828)
+	at org.apache.coyote.Response.action(Response.java:173)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:366)
+	... 109 more
+
+Oct 10, 2017 3:32:27 PM org.apache.catalina.core.StandardWrapperValve invoke
+SEVERE: Servlet.service() for servlet [private] in context with path [/private] threw exception
+java.lang.RuntimeException: org.apache.catalina.connector.ClientAbortException: java.net.SocketException: Software caused connection abort: socket write error
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalFilter(ServletFilterManager.java:82)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalPerformAction(ServletFilterManager.java:89)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:328)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter$FilterChainImpl.doFilter(PortalServletFilter.java:76)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:68)
+	at com.ericsson.iptv.portal.fw.backend.gzip.GZIPServletFilter.doFilter(GZIPServletFilter.java:88)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.startup.DisableDirectoryListings.doFilter(DisableDirectoryListings.java:114)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.backend.cache.StaticDataCacheControl.doFilter(StaticDataCacheControl.java:83)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalFilter(ServletFilterManager.java:80)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalPerformAction(ServletFilterManager.java:89)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter$FilterChainImpl.doFilter(PortalServletFilter.java:76)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter.doFilter(PortalServletFilter.java:93)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.ApplicationDispatcher.invoke(ApplicationDispatcher.java:743)
+	at org.apache.catalina.core.ApplicationDispatcher.processRequest(ApplicationDispatcher.java:485)
+	at org.apache.catalina.core.ApplicationDispatcher.doForward(ApplicationDispatcher.java:410)
+	at org.apache.catalina.core.ApplicationDispatcher.forward(ApplicationDispatcher.java:337)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalForwardRequest(ArtifactBase.java:325)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.internalPerformAction(ArtifactBase.java:351)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.performAction(MBeanManagerBase.java:536)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:549)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$1.compareTo(MBeanManagerBase.java:546)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$Manager.invoke(MBeanManagerBase.java:318)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase$4.invokeOn(MBeanManagerBase.java:621)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.invokeOnSingleManager(MBeanManagerBase.java:516)
+	at com.ericsson.iptv.portal.fw.mbean.MBeanManagerBase.broadcast(MBeanManagerBase.java:618)
+	at com.ericsson.iptv.portal.fw.artifact.ArtifactBase.forwardRequest(ArtifactBase.java:424)
+	at com.ericsson.iptv.portal.proxy.ProxyServlet.service(ProxyServlet.java:130)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:219)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:110)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:506)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:169)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:962)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:445)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1115)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:637)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.catalina.connector.ClientAbortException: java.net.SocketException: Software caused connection abort: socket write error
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:370)
+	at org.apache.catalina.connector.OutputBuffer.flush(OutputBuffer.java:334)
+	at org.apache.catalina.connector.Response.flushBuffer(Response.java:595)
+	at org.apache.catalina.connector.ResponseFacade.flushBuffer(ResponseFacade.java:306)
+	at javax.servlet.ServletResponseWrapper.flushBuffer(ServletResponseWrapper.java:160)
+	at javax.servlet.ServletResponseWrapper.flushBuffer(ServletResponseWrapper.java:160)
+	at javax.servlet.ServletResponseWrapper.flushBuffer(ServletResponseWrapper.java:160)
+	at com.ericsson.iptv.portal.fw.spring.ExceptionView.renderMergedOutputModel(ExceptionView.java:140)
+	at org.springframework.web.servlet.view.AbstractView.render(AbstractView.java:264)
+	at org.springframework.web.servlet.DispatcherServlet.render(DispatcherServlet.java:1201)
+	at org.springframework.web.servlet.DispatcherServlet.processDispatchResult(DispatcherServlet.java:986)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:933)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:851)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:953)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:844)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:624)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:829)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:731)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:303)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at com.ericsson.iptv.portal.fw.servlet.PortalServletFilter$FilterChainImpl.doFilter(PortalServletFilter.java:78)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:68)
+	at com.ericsson.iptv.portal.fw.cors.AbstractCorsRequestFilter.doFilter(AbstractCorsRequestFilter.java:130)
+	at com.ericsson.iptv.portal.mock.cors.CorsRequestFilter.doFilter(CorsRequestFilter.java:57)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:317)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:183)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:150)
+	at org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.proceed(MethodInvocationProceedingJoinPoint.java:80)
+	at com.ericsson.iptv.portal.common.backend.mock.MockMBeanInterceptor.performAction(MockMBeanInterceptor.java:55)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethodWithGivenArgs(AbstractAspectJAdvice.java:621)
+	at org.springframework.aop.aspectj.AbstractAspectJAdvice.invokeAdviceMethod(AbstractAspectJAdvice.java:610)
+	at org.springframework.aop.aspectj.AspectJAroundAdvice.invoke(AspectJAroundAdvice.java:65)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:161)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:91)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:204)
+	at com.sun.proxy.$Proxy59.doFilter(Unknown Source)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager$FilterChainImpl.doFilter(ServletFilterManager.java:66)
+	at com.ericsson.iptv.portal.fw.servlet.mbean.ServletFilterManager.internalFilter(ServletFilterManager.java:80)
+	... 60 more
+Caused by: java.net.SocketException: Software caused connection abort: socket write error
+	at java.net.SocketOutputStream.socketWrite0(Native Method)
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)
+	at org.apache.coyote.http11.InternalOutputBuffer.realWriteBytes(InternalOutputBuffer.java:216)
+	at org.apache.tomcat.util.buf.ByteChunk.flushBuffer(ByteChunk.java:487)
+	at org.apache.coyote.http11.InternalOutputBuffer.flush(InternalOutputBuffer.java:120)
+	at org.apache.coyote.http11.AbstractHttp11Processor.action(AbstractHttp11Processor.java:828)
+	at org.apache.coyote.Response.action(Response.java:173)
+	at org.apache.catalina.connector.OutputBuffer.doFlush(OutputBuffer.java:366)
+	... 109 more
+

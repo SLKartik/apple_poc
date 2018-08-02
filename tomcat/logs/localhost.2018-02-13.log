@@ -1,0 +1,20 @@
+Feb 13, 2018 1:08:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Feb 13, 2018 1:08:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Feb 13, 2018 1:08:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Feb 13, 2018 1:08:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Feb 13, 2018 1:08:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'portal'
+Feb 13, 2018 1:08:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Feb 13, 2018 1:08:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'dispatcherServlet'
+Feb 13, 2018 1:08:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'dispatcherServlet'
+Feb 13, 2018 1:08:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'stbportal'
+Feb 13, 2018 1:08:57 PM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'scfmock'

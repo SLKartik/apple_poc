@@ -1,0 +1,58 @@
+Apr 24, 2018 7:37:08 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.82
+Apr 24, 2018 7:37:08 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Sep 29 2017 12:23:15 UTC
+Apr 24, 2018 7:37:08 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.82.0
+Apr 24, 2018 7:37:08 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Mac OS X
+Apr 24, 2018 7:37:08 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.13.4
+Apr 24, 2018 7:37:08 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          x86_64
+Apr 24, 2018 7:37:08 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre
+Apr 24, 2018 7:37:08 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_161-b12
+Apr 24, 2018 7:37:08 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Apr 24, 2018 7:37:08 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /Users/mmp-testlab/Documents/Karthik_Workspace/MCS_584/MCS/tomcat
+Apr 24, 2018 7:37:08 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /Users/mmp-testlab/Documents/Karthik_Workspace/MCS_584/MCS/tomcat
+Apr 24, 2018 7:37:08 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/Users/mmp-testlab/Documents/Karthik_Workspace/MCS_584/MCS/tomcat/conf/logging.properties
+Apr 24, 2018 7:37:08 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Apr 24, 2018 7:37:08 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Apr 24, 2018 7:37:08 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/Users/mmp-testlab/Documents/Karthik_Workspace/MCS_584/MCS/tomcat/endorsed
+Apr 24, 2018 7:37:08 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/Users/mmp-testlab/Documents/Karthik_Workspace/MCS_584/MCS/tomcat
+Apr 24, 2018 7:37:08 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/Users/mmp-testlab/Documents/Karthik_Workspace/MCS_584/MCS/tomcat
+Apr 24, 2018 7:37:08 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/Users/mmp-testlab/Documents/Karthik_Workspace/MCS_584/MCS/tomcat/temp
+Apr 24, 2018 7:37:08 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/mmp-testlab/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+Apr 24, 2018 7:37:08 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8186"]
+Apr 24, 2018 7:37:08 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Apr 24, 2018 7:37:08 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 702 ms
+Apr 24, 2018 7:37:08 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Apr 24, 2018 7:37:08 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.82
+Apr 24, 2018 7:37:08 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/mmp-testlab/Documents/Karthik_Workspace/MCS_584/MCS/tomcat/webapps/vid
+Apr 24, 2018 7:37:09 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/mmp-testlab/Documents/Karthik_Workspace/MCS_584/MCS/tomcat/webapps/vid has finished in 259 ms
+Apr 24, 2018 7:37:09 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8186"]
+Apr 24, 2018 7:37:09 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Apr 24, 2018 7:37:09 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 308 ms

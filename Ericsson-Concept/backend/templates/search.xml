@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+    <searchTemplate>
+        <searchField />
+        <collectionList>
+            <shelf>
+                <header>
+                    <title>Popular</title>
+                </header>
+                <section>
+                    <lockup onselect= "loadProductPage('moonlight','5')">
+                        <img src="http://192.168.43.140:9001/backend/resources/images/5.jpg" width="182" height="274" />
+                        <title style="font-weight:light">Moonlight</title>
+                    </lockup>
+                    <lockup onselect = "loadProductPage('john+wick','7')">
+                        <img src="http://192.168.43.140:9001/backend/resources/images/7.jpg"  width="182" height="274" />
+                        <title style="font-weight:light">John Wick</title>
+                    </lockup>
+                    <lockup onselect = "loadProductPage('star+wars+the+last+jedi','2')">
+                        <img src="http://192.168.43.140:9001/backend/resources/images/2.jpg"  width="182" height="274" />
+                        <title style="font-weight:light">Star Wars: The Last Jedi</title>
+                    </lockup>
+                </section>
+            </shelf>
+        </collectionList>
+    </searchTemplate>
+</document>

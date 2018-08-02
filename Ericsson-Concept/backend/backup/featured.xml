@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+    <stackTemplate>
+        <banner>
+            <title style="font-weight:regular">Featured</title>
+        </banner>
+        <collectionList>
+            <carousel>
+                <section>
+                    <lockup onselect="getDocument('backend/templates/productPage.xml')">
+                        <img src="http://localhost:9001/backend/resources/images/tdk.jpg" width="1500" height="500" />
+<!--                        <title>Scene 1</title>-->
+                    </lockup>
+                    <lockup onselect="getDocument('backend/templates/productPage.xml')">
+                        <img src="http://localhost:9001/backend/resources/images/punch.jpg" width="1500" height="500" />
+<!--                        <title>Scene 2</title>-->
+                    </lockup>
+                    <lockup onselect="getDocument('backend/templates/productPage.xml')">
+                        <img src="http://localhost:9001/backend/resources/images/coco2.jpg" width="1500" height="500" />
+<!--                        <title>Scene 3</title>-->
+                    </lockup>
+                    <lockup onselect="getDocument('backend/templates/productPage.xml')">
+                        <img src="http://localhost:9001/backend/resources/images/beauty.jpg" width="1500" height="500" />
+<!--                        <title>Scene 4</title>-->
+                    </lockup>
+                </section>
+            </carousel>
+            <shelf>
+                <header>
+                    <title style="font-weight:regular">My List</title>
+                </header>
+                <section>
+                    <lockup onselect="getDocument('backend/templates/productPage.xml')">
+                        <img src="http://localhost:9001/backend/resources/images/logan.jpg" width="150" height="224"/>
+                        
+                    </lockup>
+                    <lockup onselect="getDocument('backend/templates/productPage.xml')">
+                        <img src='/backend/resources/images/logan.jpg' width="150" height="224" />
+                        
+                    </lockup>
+                </section>
+            </shelf>
+            <shelf>
+                <header>
+                    <title style="font-weight:regular">New Releases</title>
+                </header>
+                <section>
+                    <lockup onselect="pushPage(productPage())">
+                        <img src="${baseURL}images/thor.jpg" width="150" height="224"/>
+                        
+                    </lockup>
+                    <lockup onselect="pushPage(productPage())">
+                        <img src="${baseURL}images/logan.jpg" width="150" height="224" />
+                        
+                    </lockup>
+                </section>
+            </shelf>
+            <shelf>
+                <header>
+                    <title style="font-weight:regular">Continue Watching</title>
+                </header>
+                <section>
+                    <lockup onselect="pushPage(productPage())">
+                        <img src="${baseURL}images/thor.jpg" width="150" height="224"/>
+                        
+                    </lockup>
+                    <lockup onselect="pushPage(productPage())">
+                        <img src="${baseURL}images/logan.jpg" width="150" height="224" />
+                        
+                    </lockup>
+                </section>
+            </shelf>
+            <shelf>
+                <header>
+                    <title style="font-weight:regular">Popular Movies</title>
+                </header>
+                <section>
+                    <lockup onselect="pushPage(productPage())">
+                        <img src="${baseURL}images/thor.jpg" width="150" height="224"/>
+                        
+                    </lockup>
+                    <lockup onselect="pushPage(productPage())">
+                        <img src="${baseURL}images/logan.jpg" width="150" height="224" />
+                        
+                    </lockup>
+                </section>
+            </shelf>
+            <shelf>
+                <header>
+                    <title style="font-weight:regular">Popular TV Shows</title>
+                </header>
+                <section>
+                    <lockup onselect="playMedia('path to video', 'video')">
+                        <img src="${baseURL}images/iron.jpg" width="150" height="224"/>
+                        
+                    </lockup>
+                    <lockup onselect="playMedia('path to video', 'video')">
+                        <img src="${baseURL}images/coco.jpg" width="150" height="224" />
+                        
+                    </lockup>
+                </section>
+            </shelf>
+        </collectionList>
+    </stackTemplate>
+</document>

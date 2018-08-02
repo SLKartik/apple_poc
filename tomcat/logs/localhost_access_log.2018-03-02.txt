@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [02/Mar/2018:00:45:01 +0530] "POST /portal-coreapps-backend-mock-war-17.0.22/public/longPoll.ajax HTTP/1.1" 200 20
+0:0:0:0:0:0:0:1 - - [02/Mar/2018:03:45:13 +0530] "POST /portal-coreapps-backend-mock-war-17.0.22/public/longPoll.ajax?loadBalancingPolicy=jsonredirect HTTP/1.1" 200 114
+0:0:0:0:0:0:0:1 - - [02/Mar/2018:03:45:13 +0530] "POST /public/portal-coreapps-backend-mock-war/getCdsData.ajax?equipmentId=OJme9a/ihAH4cAE6aejGjE99MWo=-1519730860588 HTTP/1.1" 200 56
+0:0:0:0:0:0:0:1 - - [02/Mar/2018:05:45:25 +0530] "POST /portal-coreapps-backend-mock-war-17.0.22/public/longPoll.ajax HTTP/1.1" 200 20
+0:0:0:0:0:0:0:1 - - [02/Mar/2018:05:45:25 +0530] "POST /portal-coreapps-backend-mock-war-17.0.22/public/longPoll.ajax?loadBalancingPolicy=jsonredirect HTTP/1.1" 200 114
+0:0:0:0:0:0:0:1 - - [02/Mar/2018:07:45:37 +0530] "POST /portal-coreapps-backend-mock-war-17.0.22/public/longPoll.ajax HTTP/1.1" 200 20
+0:0:0:0:0:0:0:1 - - [02/Mar/2018:07:45:37 +0530] "POST /portal-coreapps-backend-mock-war-17.0.22/public/longPoll.ajax?loadBalancingPolicy=jsonredirect HTTP/1.1" 200 114
+0:0:0:0:0:0:0:1 - - [02/Mar/2018:07:45:38 +0530] "POST /public/portal-coreapps-backend-mock-war/getCdsData.ajax?equipmentId=OJme9a/ihAH4cAE6aejGjE99MWo=-1519730860588 HTTP/1.1" 200 56
+0:0:0:0:0:0:0:1 - - [02/Mar/2018:09:45:49 +0530] "POST /portal-coreapps-backend-mock-war-17.0.22/public/longPoll.ajax HTTP/1.1" 200 20
+0:0:0:0:0:0:0:1 - - [02/Mar/2018:09:45:49 +0530] "POST /portal-coreapps-backend-mock-war-17.0.22/public/longPoll.ajax?loadBalancingPolicy=jsonredirect HTTP/1.1" 200 114
+0:0:0:0:0:0:0:1 - - [02/Mar/2018:10:45:26 +0530] "POST /portal-coreapps-backend-mock-war-17.0.22/public/longPoll.ajax HTTP/1.1" 200 20
+0:0:0:0:0:0:0:1 - - [02/Mar/2018:10:45:26 +0530] "POST /portal-coreapps-backend-mock-war-17.0.22/public/longPoll.ajax?loadBalancingPolicy=jsonredirect HTTP/1.1" 200 114
+0:0:0:0:0:0:0:1 - - [02/Mar/2018:10:45:27 +0530] "POST /public/portal-coreapps-backend-mock-war/getCdsData.ajax?equipmentId=OJme9a/ihAH4cAE6aejGjE99MWo=-1519730860588 HTTP/1.1" 200 56

@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [06/Jul/2018:03:18:48 +0530] "GET /public/portal-coreapps-backend-mock-war/epg/getProgramsForTimeSlot.ajax?language=en-US&start=1530193500000&length=1800000&version=1 HTTP/1.1" 404 -
+0:0:0:0:0:0:0:1 - - [06/Jul/2018:03:18:49 +0530] "POST /private/portal-fw-war/batchLog.ajax?__device=OJme9a%2FihAH4cAE6aejGjE99MWo%3D&__user=user1 HTTP/1.1" 404 -

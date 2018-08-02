@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+    <paradeTemplate>
+        <list>
+            <header>
+                <title style="font-weight:regular">Genre</title>
+            </header>
+            <section>
+                <listItemLockup>
+                    <title style="font-weight:regular">Action</title>
+                </listItemLockup>
+                <listItemLockup>
+                    <title style="font-weight:regular">Comedy</title>
+                </listItemLockup>
+                <listItemLockup>
+                    <title style="font-weight:regular">Horror</title>
+                </listItemLockup>
+                <listItemLockup>
+                    <title style="font-weight:regular">Kids</title>
+                </listItemLockup>
+                <listItemLockup>
+                    <title style="font-weight:regular">Drama</title>
+                </listItemLockup>
+            </section>
+            <relatedContent>
+                <imgDeck>
+                    <img src="http://192.168.43.140:9001/backend/resources/images/1.jpg"/>
+                    <img src="http://192.168.43.140:9001/backend/resources/images/2.jpg"/>
+                    <img src="http://192.168.43.140:9001/backend/resources/images/3.jpg"/>
+                    <img src="http://192.168.43.140:9001/backend/resources/images/4.jpg"/>
+                    <img src="http://192.168.43.140:9001/backend/resources/images/5.jpg"/>
+                    <img src="http://192.168.43.140:9001/backend/resources/images/6.jpg"/>
+                    <img src="http://192.168.43.140:9001/backend/resources/images/7.jpg"/>
+                    <img src="http://192.168.43.140:9001/backend/resources/images/8.jpg"/>
+                    <img src="http://192.168.43.140:9001/backend/resources/images/9.jpg"/>
+                    <img src="http://192.168.43.140:9001/backend/resources/images/10.jpg"/>
+                    <img src="http://192.168.43.140:9001/backend/resources/images/11.jpg"/>
+                    <img src="http://192.168.43.140:9001/backend/resources/images/12.jpg"/>
+                </imgDeck>
+            </relatedContent>
+        </list>
+    </paradeTemplate>
+</document>

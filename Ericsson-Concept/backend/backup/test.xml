@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+    <stackTemplate>
+        <banner>
+            <title>JSON Shelf</title>
+        </banner>
+        <collectionList>
+            <shelf>
+                <prototypes>
+                    <lockup prototype="My List">
+                        <img binding="@src:{url};" width="200" height="300"/>
+                        <title binding="textContent:{title};" />
+                    </lockup>
+                </prototypes>
+                <section binding="items:{images};" />
+            </shelf>
+            <shelf>
+                <prototypes>
+                    <lockup prototype="Featured">
+                        <img binding="@src:{url};" width="200" height="300"/>
+                        <title binding="textContent:{title};" />
+                    </lockup>
+                </prototypes>
+                <section binding="items:{images};" />
+            </shelf>
+            <shelf>
+                <prototypes>
+                    <lockup prototype="artwork">
+                        <img binding="@src:{url};" width="200" height="300"/>
+                        <title binding="textContent:{title};" />
+                    </lockup>
+                </prototypes>
+                <section binding="items:{images};" />
+            </shelf>
+        </collectionList>
+    </stackTemplate>
+</document>

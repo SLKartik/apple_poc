@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+   
+    <alertTemplate>
+<!--        <background>-->
+<!--            <img src="http://192.168.43.140:9001/backend/resources/images/wide.jpg"/>-->
+<!--        </background>-->
+        <title>Update Available</title>
+        <description>Get the latest version</description>
+        <button>
+            <text>Update Now</text>
+        </button>
+        <button>
+            <text>Cancel</text>
+        </button>
+    </alertTemplate>
+</document>
+

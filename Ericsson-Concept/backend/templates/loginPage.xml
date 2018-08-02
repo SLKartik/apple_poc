@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+    <formTemplate>
+        <banner>
+            <img src="http://192.168.43.140:9001/backend/resources/images/m.png" width="800" height="400"/>
+            <description style="font-weight:regular">Enter password for access</description>
+        </banner>
+        <textField secure="true" id="passkey"></textField>
+        <footer>
+            <button onselect="loadUserDetails()">
+                <text>Submit</text>
+            </button>
+        </footer>
+    </formTemplate>
+</document>

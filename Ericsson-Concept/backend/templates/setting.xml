@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+    <listTemplate>
+        <banner>
+            <title>Settings</title>
+        </banner>
+        <list>
+            <section>
+                <listItemLockup onselect="getDocument('backend/templates/accountDetails.xml')">
+                    <row>
+                    <title style="font-weight:regular">Account Settings</title>
+                    <badge style="tv-align:'right'; margin:10" src="resource://list-chevron"/>
+                    </row>
+                    <relatedContent>
+                        <lockup>
+                            <img src="http://192.168.43.140:9001/backend/resources/images/Ericsson.png" width="857" height="482" />
+<!--                            <title>Account Settings</title>-->
+                            <description style="font-weight:light; text-align:center">Tweak your account settings.</description>
+                        </lockup>
+                    </relatedContent>
+                </listItemLockup>
+                <listItemLockup onselect="logout()">
+                    <row>
+                    <title style="font-weight:regular">Switch Profile</title>
+                    <badge style="tv-align:'right'; margin:10" src="resource://list-chevron"/>
+                    </row>
+                    <relatedContent>
+                        <lockup>
+                            <img src="http://192.168.43.140:9001/backend/resources/images/Ericsson.png" width="857" height="482" />
+<!--                            <title>Switch to other profiles</title>-->
+                            <description style="font-weight:light; text-align:center">Note: This will log you out of your current profile.</description>
+                        </lockup>
+                    </relatedContent>
+                </listItemLockup>
+                <listItemLockup onselect="getDocument('backend/templates/checkVersion.xml')">
+                    <row>
+                        <title style="font-weight:regular">About</title>
+                        <badge style="tv-align:'right'; margin:10" src="resource://list-chevron"/>
+                    </row>
+                    <relatedContent>
+                        <lockup>
+                            <img src="http://192.168.43.140:9001/backend/resources/images/Ericsson.png" width="857" height="482" />
+<!--                            <title>About Us</title>-->
+                            <description style="font-weight:light; text-align:center">Check for any updates.</description>
+                        </lockup>
+                    </relatedContent>
+                </listItemLockup>
+                <listItemLockup onselect="logout()">
+                    <row>
+                    <title style="font-weight:regular">Logout</title>
+                    </row>
+                    <relatedContent>
+                        <lockup>
+                            <img src="http://192.168.43.140:9001/backend/resources/images/Ericsson.png" width="857" height="482" />
+<!--                            <title></title>-->
+                        <description style="font-weight:light; text-align:center">Note: All unsaved changes will be erased.</description>
+                        </lockup>
+                    </relatedContent>
+                </listItemLockup>
+            </section>
+        </list>
+    </listTemplate>
+</document>
+

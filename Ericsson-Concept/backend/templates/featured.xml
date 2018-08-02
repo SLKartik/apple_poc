@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+    <stackTemplate>
+        <banner>
+            <title>Featured</title>
+        </banner>
+        <collectionList>
+            <carousel>
+                <section>
+                    <lockup onselect="loadProductPage('blade+runner+2049','10')">
+                        <img src="http://192.168.43.140:9001/backend/resources/images/wide3.jpg" width="1120" height="500" />
+                        <!--                        <title>Scene 3</title>-->
+                    </lockup>
+                    <lockup onselect="loadProductPage('logan','13')">
+                        <img src="http://192.168.43.140:9001/backend/resources/images/wide4.jpg" width="1120" height="500" />
+                        <!--                        <title>Scene 4</title>-->
+                    </lockup>
+                    <lockup onselect="loadProductPage('john+wick','7')">
+                        <img src="http://192.168.43.140:9001/backend/resources/images/wide5.jpg" width="1120" height="500" />
+                        <!--                        <title>Scene 4</title>-->
+                    </lockup>
+                    <lockup onselect="loadProductPage('inception','3')">
+                        <img src="http://192.168.43.140:9001/backend/resources/images/wide1.jpg" width="1120" height="500" />
+                        <!--                        <title>Scene 1</title>-->
+                    </lockup>
+                    <lockup onselect="loadProductPage('star+wars+the+last+jedi','2')">
+                        <img src="http://192.168.43.140:9001/backend/resources/images/wide6.jpg" width="1120" height="500" />
+                        <!--                        <title>Scene 4</title>-->
+                    </lockup>
+                    <lockup onselect="loadProductPage('spider-man+homecoming','1')">
+                        <img src="http://192.168.43.140:9001/backend/resources/images/wide2.jpg" width="1120" height="500" />
+                        <!--                        <title>Scene 2</title>-->
+                    </lockup>
+                </section>
+            </carousel>
+                <shelf>
+                    <header>
+                        <title style="font-weight:semibold">My List</title>
+                    </header>
+                    <section binding="items:{images};">
+                    <prototypes>
+                        <lockup prototype="favorites" binding="@onselect:{onselect};">
+                            <img binding="@src:{url};" width="200" height="300"/>
+                            <title style="font-weight:light;" binding="textContent:{title};" />
+                        </lockup>
+                    </prototypes>
+                    </section>
+                </shelf>
+                <shelf>
+                    <header>
+                        <title style="font-weight:semibold">New Releases</title>
+                    </header>
+                    <section binding="items:{images};">
+                        <prototypes>
+                            <lockup prototype="artwork" binding="@onselect:{onselect};">
+                                <img binding="@src:{url};" width="200" height="300"/>
+                                <title style="font-weight:light;" binding="textContent:{title};" />
+                            </lockup>
+                        </prototypes>
+                    </section>
+                </shelf>
+                <shelf>
+                    <header>
+                        <title style="font-weight:semibold">Continue Watching</title>
+                    </header>
+                    <section binding="items:{images};">
+                        <prototypes>
+                            <lockup prototype="continue" binding="@onselect:{onselect};">
+                                <img binding="@src:{url};" width="200" height="300"/>
+                                <overlay>
+                                    <background><img src="http://192.168.43.140:9001/backend/resources/images/overlay.png" width="200" height="300"/></background>
+                                    <progressBar style="tv-position:'footer'; tv-align:'left'" binding="@value:{watchtime}" />
+                                </overlay>
+                                <title style="font-weight:light;" binding="textContent:{title};" />
+                            </lockup>
+                        </prototypes>
+                    </section>
+                </shelf>
+                <shelf>
+                    <header>
+                        <title style="font-weight:semibold">Popular Movies</title>
+                    </header>
+                    <section binding="items:{images};">
+                        <prototypes>
+                            <lockup prototype="artwork" binding="@onselect:{onselect};">
+                                <img binding="@src:{url};" width="200" height="300"/>
+                                <title style="font-weight:light;" binding="textContent:{title};" />
+                            </lockup>
+                        </prototypes>
+                    </section>
+                </shelf>
+        </collectionList>
+    </stackTemplate>
+</document>

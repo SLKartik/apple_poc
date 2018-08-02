@@ -1,0 +1,54 @@
+Nov 29, 2017 6:51:39 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [17 2017-11-28 15:22:52.700][subscriber1000] [http://10.157.11.57:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.coreapps.common.data.mock.LongPollSsp: Notification HTTP long poll response failed
+Nov 29, 2017 6:51:39 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [20 2017-11-28 15:22:55.289][subscriber1000] [http://10.157.11.57:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.coreapps.common.data.mock.LongPollSsp: Notification HTTP long poll response failed
+Nov 29, 2017 8:32:40 AM com.ericsson.iptv.portal.fw.constraint.mbean.ConstraintManager getDeviceConstraints
+INFO: cookie.value=%7B%22build-mode%22%3A%5B%22live%22%5D%2C%22capability%22%3A%5B%22storage%22%2C%22http%22%5D%2C%22markup%22%3A%5B%22html%22%5D%2C%22run-mode%22%3A%5B%22twoway%22%5D%2C%22browser%22%3A%5B%22firefox%22%5D%2C%22backend%22%3A%5B%22mock%22%5D%2C%22pluginArchitecture%22%3A%5B%22NPAPI%22%5D%2C%22device%22%3A%5B%22ott_web%22%2C%22web%22%2C%22helper%22%5D%7D
+Nov 29, 2017 8:47:38 AM com.ericsson.iptv.portal.fw.constraint.mbean.ConstraintManager getDeviceConstraints
+INFO: cookie.value=%7B%22build-mode%22%3A%5B%22live%22%5D%2C%22capability%22%3A%5B%22storage%22%2C%22http%22%5D%2C%22markup%22%3A%5B%22html%22%5D%2C%22run-mode%22%3A%5B%22twoway%22%5D%2C%22browser%22%3A%5B%22firefox%22%5D%2C%22backend%22%3A%5B%22mock%22%5D%2C%22pluginArchitecture%22%3A%5B%22NPAPI%22%5D%2C%22device%22%3A%5B%22ott_web%22%2C%22web%22%2C%22helper%22%5D%7D
+Nov 29, 2017 8:55:02 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [24 2017-11-29 08:54:43.532][subscriber1000] [http://10.157.11.57:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.coreapps.common.data.mock.LongPollSsp: Notification HTTP long poll response failed
+Nov 29, 2017 9:33:41 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [22 2017-11-29 09:31:11.509][subscriber1000] [http://10.157.11.57:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.coreapps.common.data.mock.LongPollSsp: Notification HTTP long poll response failed
+Nov 29, 2017 9:33:41 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [25 2017-11-29 09:30:43.492][subscriber1000] [http://10.157.11.57:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.coreapps.common.data.mock.LongPollSsp: Notification HTTP long poll response failed
+Nov 29, 2017 9:58:28 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [27 2017-11-29 09:46:49.026][subscriber1000] [http://10.157.11.57:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.coreapps.common.data.mock.LongPollSsp: Notification HTTP long poll response failed
+Nov 29, 2017 9:58:28 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [24 2017-11-29 09:47:17.025][subscriber1000] [http://10.157.11.57:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.coreapps.common.data.mock.LongPollSsp: Notification HTTP long poll response failed
+Nov 29, 2017 10:41:30 AM com.ericsson.iptv.portal.fw.constraint.mbean.ConstraintManager getDeviceConstraints
+INFO: cookie.value=%7B%22build-mode%22%3A%5B%22live%22%5D%2C%22capability%22%3A%5B%22storage%22%2C%22http%22%5D%2C%22markup%22%3A%5B%22html%22%5D%2C%22run-mode%22%3A%5B%22twoway%22%5D%2C%22browser%22%3A%5B%22firefox%22%5D%2C%22backend%22%3A%5B%22mock%22%5D%2C%22pluginArchitecture%22%3A%5B%22NPAPI%22%5D%2C%22device%22%3A%5B%22ott_web%22%2C%22web%22%2C%22helper%22%5D%7D
+Nov 29, 2017 10:56:28 AM com.ericsson.iptv.portal.fw.constraint.mbean.ConstraintManager getDeviceConstraints
+INFO: cookie.value=%7B%22build-mode%22%3A%5B%22live%22%5D%2C%22capability%22%3A%5B%22storage%22%2C%22http%22%5D%2C%22markup%22%3A%5B%22html%22%5D%2C%22run-mode%22%3A%5B%22twoway%22%5D%2C%22browser%22%3A%5B%22firefox%22%5D%2C%22backend%22%3A%5B%22mock%22%5D%2C%22pluginArchitecture%22%3A%5B%22NPAPI%22%5D%2C%22device%22%3A%5B%22ott_web%22%2C%22web%22%2C%22helper%22%5D%7D
+Nov 29, 2017 12:41:36 PM com.ericsson.iptv.portal.fw.constraint.mbean.ConstraintManager getDeviceConstraints
+INFO: cookie.value=%7B%22build-mode%22%3A%5B%22live%22%5D%2C%22capability%22%3A%5B%22storage%22%2C%22http%22%5D%2C%22markup%22%3A%5B%22html%22%5D%2C%22run-mode%22%3A%5B%22twoway%22%5D%2C%22browser%22%3A%5B%22firefox%22%5D%2C%22backend%22%3A%5B%22mock%22%5D%2C%22pluginArchitecture%22%3A%5B%22NPAPI%22%5D%2C%22device%22%3A%5B%22ott_web%22%2C%22web%22%2C%22helper%22%5D%7D
+Nov 29, 2017 12:56:34 PM com.ericsson.iptv.portal.fw.constraint.mbean.ConstraintManager getDeviceConstraints
+INFO: cookie.value=%7B%22build-mode%22%3A%5B%22live%22%5D%2C%22capability%22%3A%5B%22storage%22%2C%22http%22%5D%2C%22markup%22%3A%5B%22html%22%5D%2C%22run-mode%22%3A%5B%22twoway%22%5D%2C%22browser%22%3A%5B%22firefox%22%5D%2C%22backend%22%3A%5B%22mock%22%5D%2C%22pluginArchitecture%22%3A%5B%22NPAPI%22%5D%2C%22device%22%3A%5B%22ott_web%22%2C%22web%22%2C%22helper%22%5D%7D
+Nov 29, 2017 2:41:47 PM com.ericsson.iptv.portal.fw.constraint.mbean.ConstraintManager getDeviceConstraints
+INFO: cookie.value=%7B%22build-mode%22%3A%5B%22live%22%5D%2C%22capability%22%3A%5B%22storage%22%2C%22http%22%5D%2C%22markup%22%3A%5B%22html%22%5D%2C%22run-mode%22%3A%5B%22twoway%22%5D%2C%22browser%22%3A%5B%22firefox%22%5D%2C%22backend%22%3A%5B%22mock%22%5D%2C%22pluginArchitecture%22%3A%5B%22NPAPI%22%5D%2C%22device%22%3A%5B%22ott_web%22%2C%22web%22%2C%22helper%22%5D%7D
+Nov 29, 2017 2:56:45 PM com.ericsson.iptv.portal.fw.constraint.mbean.ConstraintManager getDeviceConstraints
+INFO: cookie.value=%7B%22build-mode%22%3A%5B%22live%22%5D%2C%22capability%22%3A%5B%22storage%22%2C%22http%22%5D%2C%22markup%22%3A%5B%22html%22%5D%2C%22run-mode%22%3A%5B%22twoway%22%5D%2C%22browser%22%3A%5B%22firefox%22%5D%2C%22backend%22%3A%5B%22mock%22%5D%2C%22pluginArchitecture%22%3A%5B%22NPAPI%22%5D%2C%22device%22%3A%5B%22ott_web%22%2C%22web%22%2C%22helper%22%5D%7D
+Nov 29, 2017 3:07:16 PM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [25 2017-11-29 15:07:16.669][subscriber1000] [http://10.157.11.57:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.coreapps.common.data.mock.LongPollSsp: Notification HTTP long poll response failed
+Nov 29, 2017 3:07:16 PM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [28 2017-11-29 15:07:16.669][subscriber1000] [http://10.157.11.57:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.coreapps.common.data.mock.LongPollSsp: Notification HTTP long poll response failed
+Nov 29, 2017 3:23:06 PM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [29 2017-11-29 15:23:05.583][subscriber1000] [http://10.157.11.57:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.coreapps.common.data.mock.LongPollSsp: Notification HTTP long poll response failed
+Nov 29, 2017 3:23:06 PM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [26 2017-11-29 15:23:05.582][subscriber1000] [http://10.157.11.57:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.coreapps.common.data.mock.LongPollSsp: Notification HTTP long poll response failed
+Nov 29, 2017 3:24:53 PM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [30 2017-11-29 15:24:53.208][subscriber1000] [http://10.157.11.57:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.coreapps.common.data.mock.LongPollSsp: Notification HTTP long poll response failed
+Nov 29, 2017 3:24:53 PM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [27 2017-11-29 15:24:53.208][subscriber1000] [http://10.157.11.57:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.coreapps.common.data.mock.LongPollSsp: Notification HTTP long poll response failed
+Nov 29, 2017 3:26:16 PM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [31 2017-11-29 15:26:16.517][subscriber1000] [http://10.157.11.57:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.coreapps.common.data.mock.LongPollSsp: Notification HTTP long poll response failed
+Nov 29, 2017 3:26:17 PM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [28 2017-11-29 15:26:16.516][subscriber1000] [http://10.157.11.57:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.coreapps.common.data.mock.LongPollSsp: Notification HTTP long poll response failed
+Nov 29, 2017 3:39:31 PM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [32 2017-11-29 15:39:19.627][subscriber1000] [http://10.157.11.57:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.coreapps.common.data.mock.LongPollSsp: Notification HTTP long poll response failed
+Nov 29, 2017 3:39:31 PM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [29 2017-11-29 15:39:31.225][subscriber1000] [http://10.157.11.57:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.coreapps.common.data.mock.LongPollSsp: Notification HTTP long poll response failed
+Nov 29, 2017 3:47:14 PM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [30 2017-11-29 15:47:03.611][subscriber1000] [http://10.157.11.57:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.coreapps.common.data.mock.LongPollSsp: Notification HTTP long poll response failed
+Nov 29, 2017 3:47:14 PM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [33 2017-11-29 15:46:59.964][subscriber1000] [http://10.157.11.57:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.coreapps.common.data.mock.LongPollSsp: Notification HTTP long poll response failed

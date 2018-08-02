@@ -1,0 +1,1019 @@
+Apr 22, 2018 2:31:17 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/portal-imageprocessor-war-17.0.22]
+Apr 22, 2018 2:31:17 PM org.springframework.web.context.support.XmlWebApplicationContext doClose
+INFO: Closing WebApplicationContext for namespace 'stbportal-servlet': startup date [Wed Apr 18 12:20:00 IST 2018]; root of context hierarchy
+Apr 22, 2018 2:31:17 PM org.springframework.beans.factory.support.DefaultListableBeanFactory destroySingletons
+INFO: Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4f73c066: defining beans [imageScalerBean,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,configUser,currentRequestComponent,org.jboss.logging.JbossLoggingRuntimeCheck#0,validator,org.springframework.validation.beanvalidation.MethodValidationPostProcessor#0,txManager,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.transaction.annotation.AnnotationTransactionAttributeSource#0,org.springframework.transaction.interceptor.TransactionInterceptor#0,org.springframework.transaction.config.internalTransactionAdvisor,mbeanServer,artifactBase,artifactInfo,com.ericsson.iptv.portal.fw.logdisabler.LogDisabler#0,migrationManager,servletFilterManager,dynamicFilterManager,artifactFilterManager,filterManager,periodicPollManager,constraintManager,preferenceManager,fwModuleFactory,discoveryManager,notificationManager,fwConfigUser,initParameterManager,userModelUser,httpRequestUser,widgetConfigManager,interceptorManager,portalInterceptors,com.ericsson.iptv.portal.fw.spring.PatchedRequestMappingHandlerAdapter#0,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter#0,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.web.servlet.view.BeanNameViewResolver#0,jsonView,exceptionResolver,javax.servlet.http.HttpServletResponse.SC_BAD_REQUEST,defaultExceptionView,bindExceptionView,forbiddenView,methodNotAllowedView,mediaTypeNotSupportedView,parseExceptionView,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+Apr 22, 2018 2:31:17 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-imageprocessor-war-17.0.22/WEB-INF/lib/aopalliance-1.0.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:18 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/portal-root-war]
+Apr 22, 2018 2:31:18 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-root-war/WEB-INF/lib/commons-logging-1.2.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:18 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/portal-avalanche-common-cds-war-0.0.2]
+Apr 22, 2018 2:31:18 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-common-cds-war-0.0.2/WEB-INF/lib/commons-logging-1.2.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:19 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/portal-fw-war-17.0.22]
+Apr 22, 2018 2:31:19 PM org.springframework.web.context.support.XmlWebApplicationContext doClose
+INFO: Closing WebApplicationContext for namespace 'stbportal-servlet': startup date [Wed Apr 18 12:19:59 IST 2018]; root of context hierarchy
+Apr 22, 2018 2:31:19 PM org.springframework.beans.factory.support.DefaultListableBeanFactory destroySingletons
+INFO: Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6730f75f: defining beans [skinPreferenceOptions,cacheInterceptor,cacheInitParameter,staticDataCacheControl,publicDataCacheMaxAgePreference,dataSyncInitParameter,periodicPollInitParameter,devicePluginBean,GZIPServletFilter,deviceIdPreferenceStorage,userIdPreferenceStorage,baseUrlsInitParameter,logInitParameter,rollbackFilter,configuredFilterProvider,maxParallelRequestsInitParameter,subscriberLocaleInitParameter,splashScreenProviderSvg,restartMsgProviderSvg,splashScreenProviderHtml,coreModuleInitParameterProviderWidget,partitionPrefixInitParameterProvider,coreModuleInitParameterProvider,multiFetchInitParameterProvider,disableDirectoryListings,restartMsgProviderHtml,markupConstraintProvider,aspectConstraintProvider,skinConstraintProvider,stateConstraintProvider,buildModeConstraintProvider,authLevelConstraintProvider,localeConstraintProvider,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,urlMapping,viewResolver,htmlIndexController,svgIndexController,preferenceBean,pollBean,fwSwBean,deviceDiscoveryBean,getPreferencesController,putPreferencesController,defPreferencesController,swController,swMigrateController,multiModuleController,periodicPollController,periodicPoll2Controller,logBean,logController,batchLogController,deviceDiscoveryController,deviceInfoController,deviceRediscoveryController,cacheManager,com.ericsson.iptv.portal.fw.backend.request.mbean.HttpRequestManager#0,com.ericsson.iptv.portal.fw.backend.preferences.SubscriberIdPreferenceStorage#0,historyManagerFilter,currentRequestComponent,org.jboss.logging.JbossLoggingRuntimeCheck#0,validator,org.springframework.validation.beanvalidation.MethodValidationPostProcessor#0,txManager,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.transaction.annotation.AnnotationTransactionAttributeSource#0,org.springframework.transaction.interceptor.TransactionInterceptor#0,org.springframework.transaction.config.internalTransactionAdvisor,mbeanServer,artifactBase,artifactInfo,com.ericsson.iptv.portal.fw.logdisabler.LogDisabler#0,migrationManager,servletFilterManager,dynamicFilterManager,artifactFilterManager,filterManager,periodicPollManager,constraintManager,preferenceManager,fwModuleFactory,discoveryManager,notificationManager,fwConfigUser,initParameterManager,userModelUser,httpRequestUser,widgetConfigManager,interceptorManager,portalInterceptors,com.ericsson.iptv.portal.fw.spring.PatchedRequestMappingHandlerAdapter#0,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter#0,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.web.servlet.view.BeanNameViewResolver#0,jsonView,exceptionResolver,javax.servlet.http.HttpServletResponse.SC_BAD_REQUEST,defaultExceptionView,bindExceptionView,forbiddenView,methodNotAllowedView,mediaTypeNotSupportedView,parseExceptionView,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+Apr 22, 2018 2:31:19 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-fw-war-17.0.22/WEB-INF/lib/aopalliance-1.0.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:19 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/portal-coreapps-war-17.0.22]
+Apr 22, 2018 2:31:19 PM org.springframework.web.context.support.XmlWebApplicationContext doClose
+INFO: Closing WebApplicationContext for namespace 'stbportal-servlet': startup date [Wed Apr 18 12:20:10 IST 2018]; root of context hierarchy
+Apr 22, 2018 2:31:19 PM org.springframework.beans.factory.support.DefaultListableBeanFactory destroySingletons
+INFO: Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@c11d23f: defining beans [com.ericsson.iptv.portal.coreapps.preferences.UpgradeAvailableTimePreferenceBasis#0,com.ericsson.iptv.portal.coreapps.preferences.LoadToStandbyAfterRebootPreferenceBasis#0,com.ericsson.iptv.portal.coreapps.preferences.EpgCacheDaysPreferenceDefinition#0,com.ericsson.iptv.portal.reboot.RebootLogicFilter#0,com.ericsson.iptv.portal.pvr.RecorderProxyFilter#0,currentRequestComponent,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.jboss.logging.JbossLoggingRuntimeCheck#0,validator,org.springframework.validation.beanvalidation.MethodValidationPostProcessor#0,txManager,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.transaction.annotation.AnnotationTransactionAttributeSource#0,org.springframework.transaction.interceptor.TransactionInterceptor#0,org.springframework.transaction.config.internalTransactionAdvisor,mbeanServer,artifactBase,artifactInfo,com.ericsson.iptv.portal.fw.logdisabler.LogDisabler#0,migrationManager,servletFilterManager,dynamicFilterManager,artifactFilterManager,filterManager,periodicPollManager,constraintManager,preferenceManager,fwModuleFactory,discoveryManager,notificationManager,fwConfigUser,initParameterManager,userModelUser,httpRequestUser,widgetConfigManager,interceptorManager,portalInterceptors,com.ericsson.iptv.portal.fw.spring.PatchedRequestMappingHandlerAdapter#0,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter#0,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.web.servlet.view.BeanNameViewResolver#0,jsonView,exceptionResolver,javax.servlet.http.HttpServletResponse.SC_BAD_REQUEST,defaultExceptionView,bindExceptionView,forbiddenView,methodNotAllowedView,mediaTypeNotSupportedView,parseExceptionView,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+Apr 22, 2018 2:31:19 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-coreapps-war-17.0.22/WEB-INF/lib/aopalliance-1.0.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:20 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/portal-avalanche-secondscreen-csscomponents-war-0.0.2]
+Apr 22, 2018 2:31:20 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-secondscreen-csscomponents-war-0.0.2/WEB-INF/lib/commons-logging-1.2.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:20 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/portal-form-based-auth-war-17.0.22]
+Apr 22, 2018 2:31:20 PM org.springframework.web.context.support.XmlWebApplicationContext doClose
+INFO: Closing WebApplicationContext for namespace 'stbportal-servlet': startup date [Wed Apr 18 12:20:04 IST 2018]; root of context hierarchy
+Apr 22, 2018 2:31:20 PM org.springframework.beans.factory.support.DefaultListableBeanFactory destroySingletons
+INFO: Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@687fa891: defining beans [authMethodConstraintProvider,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,currentRequestComponent,org.jboss.logging.JbossLoggingRuntimeCheck#0,validator,org.springframework.validation.beanvalidation.MethodValidationPostProcessor#0,txManager,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.transaction.annotation.AnnotationTransactionAttributeSource#0,org.springframework.transaction.interceptor.TransactionInterceptor#0,org.springframework.transaction.config.internalTransactionAdvisor,mbeanServer,artifactBase,artifactInfo,com.ericsson.iptv.portal.fw.logdisabler.LogDisabler#0,migrationManager,servletFilterManager,dynamicFilterManager,artifactFilterManager,filterManager,periodicPollManager,constraintManager,preferenceManager,fwModuleFactory,discoveryManager,notificationManager,fwConfigUser,initParameterManager,userModelUser,httpRequestUser,widgetConfigManager,interceptorManager,portalInterceptors,com.ericsson.iptv.portal.fw.spring.PatchedRequestMappingHandlerAdapter#0,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter#0,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.web.servlet.view.BeanNameViewResolver#0,jsonView,exceptionResolver,javax.servlet.http.HttpServletResponse.SC_BAD_REQUEST,defaultExceptionView,bindExceptionView,forbiddenView,methodNotAllowedView,mediaTypeNotSupportedView,parseExceptionView,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+Apr 22, 2018 2:31:20 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-form-based-auth-war-17.0.22/WEB-INF/lib/aopalliance-1.0.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:21 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/private]
+Apr 22, 2018 2:31:21 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/private/WEB-INF/lib/commons-logging-1.2.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:21 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/portal-avalanche-secondscreen-locale-svse-war-0.0.2]
+Apr 22, 2018 2:31:21 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-secondscreen-locale-svse-war-0.0.2/WEB-INF/lib/commons-logging-1.2.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:22 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/portal-avalanche-secondscreen-apps-war-0.0.2]
+Apr 22, 2018 2:31:22 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-secondscreen-apps-war-0.0.2/WEB-INF/lib/commons-logging-1.2.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:22 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/portal-avalanche-secondscreen-locale-enus-war-0.0.2]
+Apr 22, 2018 2:31:22 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-secondscreen-locale-enus-war-0.0.2/WEB-INF/lib/commons-logging-1.2.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:23 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/static]
+Apr 22, 2018 2:31:23 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/static/WEB-INF/lib/commons-logging-1.2.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:24 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/portal-multiscreen-device-ott-war-3.5.1]
+Apr 22, 2018 2:31:24 PM org.springframework.web.context.support.XmlWebApplicationContext doClose
+INFO: Closing WebApplicationContext for namespace 'portal-servlet': startup date [Wed Apr 18 12:20:11 IST 2018]; root of context hierarchy
+Apr 22, 2018 2:31:24 PM org.springframework.beans.factory.support.DefaultListableBeanFactory destroySingletons
+INFO: Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@18fe4a33: defining beans [com.ericsson.iptv.portal.multiscreenapps.device.ott.ServiceControl.ServiceControlPreferenceBasis#0,currentRequestComponent,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.jboss.logging.JbossLoggingRuntimeCheck#0,validator,org.springframework.validation.beanvalidation.MethodValidationPostProcessor#0,txManager,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.transaction.annotation.AnnotationTransactionAttributeSource#0,org.springframework.transaction.interceptor.TransactionInterceptor#0,org.springframework.transaction.config.internalTransactionAdvisor,mbeanServer,artifactBase,artifactInfo,com.ericsson.iptv.portal.fw.logdisabler.LogDisabler#0,migrationManager,servletFilterManager,dynamicFilterManager,artifactFilterManager,filterManager,periodicPollManager,constraintManager,preferenceManager,fwModuleFactory,discoveryManager,notificationManager,fwConfigUser,initParameterManager,userModelUser,httpRequestUser,widgetConfigManager,interceptorManager,portalInterceptors,com.ericsson.iptv.portal.fw.spring.PatchedRequestMappingHandlerAdapter#0,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter#0,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.web.servlet.view.BeanNameViewResolver#0,jsonView,exceptionResolver,javax.servlet.http.HttpServletResponse.SC_BAD_REQUEST,defaultExceptionView,bindExceptionView,forbiddenView,methodNotAllowedView,mediaTypeNotSupportedView,parseExceptionView,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+Apr 22, 2018 2:31:24 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-multiscreen-device-ott-war-3.5.1/WEB-INF/lib/aopalliance-1.0.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:24 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/portal-avalanche-secondscreen-skin-karbon-war-0.0.2]
+Apr 22, 2018 2:31:24 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-secondscreen-skin-karbon-war-0.0.2/WEB-INF/lib/commons-logging-1.2.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:25 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/portal-avalanche-secondscreen-skin-common-war-0.0.2]
+Apr 22, 2018 2:31:25 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-secondscreen-skin-common-war-0.0.2/WEB-INF/lib/commons-logging-1.2.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:25 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/portal-ott-device-web-war-2.6.1]
+Apr 22, 2018 2:31:25 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-ott-device-web-war-2.6.1/WEB-INF/lib/commons-logging-1.2.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:26 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/public]
+Apr 22, 2018 2:31:26 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/public/WEB-INF/lib/commons-logging-1.2.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:26 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/portal-coreapps-backend-mock-war-17.0.22]
+Apr 22, 2018 2:31:26 PM org.springframework.web.context.support.XmlWebApplicationContext doClose
+INFO: Closing WebApplicationContext for namespace 'stbportal-servlet': startup date [Wed Apr 18 12:20:07 IST 2018]; root of context hierarchy
+Apr 22, 2018 2:31:26 PM org.springframework.beans.factory.support.DefaultListableBeanFactory destroySingletons
+INFO: Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6f1838e5: defining beans [subscriptionModel,defaultRecordingTimeToLivePreferenceStorage,bookmarksPreferenceStorage,preferenceNotifierMbean,preferenceNotifier,scfUriPreferenceStorage,bookmarkBean,subscriberTypeConstraintProvider,authInterceptor,pvrBean,pvrModel,scfUrlGenerator,mockFilesBean,subscriptionBean,channelsBean,beanUtil,mockVodBean,epgBean,corsRequestFilter,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,vodCategoryTreeController,vodDownloadFailedController,vodDownloadInfoController,playlistDownloadInfoController,myRentalsController,vodPlaybackInfoController,playlistPlaybackInfoController,vodPlaybackInfoDownloadController,playlistPlaybackInfoDownloadController,vodServicesController,setBookmarkController,setBookmarkPlaylistController,vodSubscribedServicesController,vodOfferingPageIndexController,vodOfferingsController,vodOfferingListForCategoriesController,vodOfferingsByIdController,svodListController,vodDetailsController,vodDetailsPAIDController,vodListForCategoryController,vodListForServicesController,vodRentCancelController,vodRentConfirmController,vodRentController,vodDownloadOptionsController,vodDownloadOptionsPlaylistController,bandwidthBean,com.ericsson.iptv.portal.mock.bcrcb.BrPreferenceBasis#0,com.ericsson.iptv.portal.mock.pvr.DeviceRecordingPreferenceBasis#0,com.ericsson.iptv.portal.mock.pvr.DeviceRecordingProgramsPreferenceBasis#0,com.ericsson.iptv.portal.mock.pvr.DeviceRecordingProgramListsPreferenceBasis#0,statisticsBean,com.ericsson.iptv.portal.mock.statistics.StatisticsEntriesLimitPreferenceStorage#0,com.ericsson.iptv.portal.mock.statistics.StatisticsUploadIntervalPreferenceStorage#0,sendEventsController,getStatisticsConfigController,chargingBean,chargingModel,purchaseHistoryController,getBalanceController,setBandwidthController,getBandwidthUsageController,stopSessionController,reportConflictController,clearConflictController,getConflictsController,conditionalAccessBean,getEquipmentInformationController,getEquipmentInformationListController,setEquipmentInformationController,setEquipmentInformationMapController,getEquipmentContentAccessInformationController,epgAttributeSelectorManager,channelLineupBean,com.ericsson.iptv.portal.mock.channellineup.ChannelLineupPreferenceOptions#0,createChannelLineupController,deleteChannelLineupController,getChannelLineupController,getAvailableChannelLineupsController,updateChannelLineupDetailsController,updateChannelLineupItemsController,resetChannelLineupItemsController,syncChannelLineupController,getManagedStreamsController,getEpgSlidingWindowController,programListController,getProgramsForTimeSlotController,getProgramsWithinTimeWindowController,programController,ProgramInfoForIdsController,currentProgramController,getCatchupInfoController,getUserChannelListController,setUserChannelListController,resetUserChannelListController,getSubscriberChannelListController,getAllChannelsController,getAllOfflineChannelsController,getPhysicalChannelListController,getBroadcastLocationController,getQoeConfigController,getTimeshiftInfoController,broadcastReminderClientBasedBean,searchController,advancedSearchController,searchResultController,autoCompleteController,mockSearchBean,mockAutoCompleteBean,brDeleteReminderController,brGetAllRemindersController,brSetReminderController,brSnoozeReminderController,brUpdateReminderController,com.ericsson.iptv.portal.mock.bandwidth.BandwidthManagementDiscovery#0,com.ericsson.iptv.portal.mock.discovery.EquipmentCapabilityDiscovery#0,payPerViewBean,listAllPurchasesController,listBundleOfferingsController,listOfferingsController,listProgramsForBundleController,listPurchasesController,getEventOfferingsForDaysController,purchaseBlockController,purchaseBundleController,purchaseCancelController,cancelPurchasedOfferingController,purchaseConfirmController,purchaseEventController,sspMessageBean,sspMessageToDeviceController,sspMessageToSubscriberController,urlMapping,adminUrlMapping,viewResolver,com.ericsson.iptv.portal.mock.startup.InitConstraintProvider#0,com.ericsson.iptv.portal.mock.startup.ConstraintProvider#0,com.ericsson.iptv.portal.mock.constraints.DeviceConstraintsProvider#0,com.ericsson.iptv.portal.mock.constraints.HttpConstraintProvider#0,com.ericsson.iptv.portal.mock.constraints.IndexUrlInitialConstraintProvider#0,generalPrefStorageMgr,com.ericsson.iptv.portal.mock.preferences.AppsPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.ServicesPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.AvatarPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.DeviceEbcPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.DefaultUserPreferenceOptions#0,com.ericsson.iptv.portal.mock.preferences.DefaultUserPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.FirstNamePreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.DeviceNamePreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.ImpuPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.IsSuperPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.LastNamePreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.LocalePreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.LocaleConstraintsPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.MobilePhoneNumberPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.NickNamePreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.PinPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.RatingPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.RatingAsStringPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.AuthenticationIdPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.GeoLocationPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.RegionPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.MaxRecordingBufferTimePreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.MaxRecordingTimeDurationPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.PreferredEquipmentIdPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.PreferredEquipmentIdPreferenceOptions#0,com.ericsson.iptv.portal.mock.preferences.OthersViewMinePreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.ViewAcrossDevicePreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.ViewOthersRemindersPreferenceStorage#0,com.ericsson.iptv.portal.mock.periodicpoll.PortalSelectorPoll#0,com.ericsson.iptv.portal.mock.upgrade.UpgradeGraceHoursPreferenceStorage#0,com.ericsson.iptv.portal.mock.upgrade.UpgradeNotificationHoursPreferenceStorage#0,com.ericsson.iptv.portal.mock.upgrade.UpgradeRandomHoursPreferenceStorage#0,com.ericsson.iptv.portal.mock.upgrade.UpgradeReloadHourPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.EpgPolicyPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.UserCentricRecordingPreferenceStorage#0,mockCdsBean,cdsController,cdsConfController,mockConfController,longPollController,com.ericsson.iptv.portal.mock.cds.LongPollConstraint#0,com.ericsson.iptv.portal.mock.cds.SspUrlPreferenceStorage#0,multipartResolver,sspMockSenderController,reloadMockDataController,exportMockDataController,importMockDataController,configRegister,fwMockConfigManager,fwConfigReader,com.ericsson.iptv.portal.mock.fwconfig.mbean.FwConfigManager#0,com.ericsson.iptv.portal.mock.usermodel.mbean.UserModelManager#0,imageprocessorConfigManager,currentRequestComponent,org.jboss.logging.JbossLoggingRuntimeCheck#0,validator,org.springframework.validation.beanvalidation.MethodValidationPostProcessor#0,txManager,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.transaction.annotation.AnnotationTransactionAttributeSource#0,org.springframework.transaction.interceptor.TransactionInterceptor#0,org.springframework.transaction.config.internalTransactionAdvisor,mbeanServer,artifactBase,artifactInfo,com.ericsson.iptv.portal.fw.logdisabler.LogDisabler#0,migrationManager,servletFilterManager,dynamicFilterManager,artifactFilterManager,filterManager,periodicPollManager,constraintManager,preferenceManager,fwModuleFactory,discoveryManager,notificationManager,fwConfigUser,initParameterManager,userModelUser,httpRequestUser,widgetConfigManager,interceptorManager,portalInterceptors,com.ericsson.iptv.portal.fw.spring.PatchedRequestMappingHandlerAdapter#0,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter#0,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.web.servlet.view.BeanNameViewResolver#0,jsonView,exceptionResolver,javax.servlet.http.HttpServletResponse.SC_BAD_REQUEST,defaultExceptionView,bindExceptionView,forbiddenView,methodNotAllowedView,mediaTypeNotSupportedView,parseExceptionView,mockCommonConfigReader,mockDataManager,com.ericsson.iptv.portal.common.backend.mock.MockMBeanInterceptor#0,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+Apr 22, 2018 2:31:26 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-coreapps-backend-mock-war-17.0.22/WEB-INF/lib/aopalliance-1.0.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:27 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/portal-avalanche-common-war-0.0.2]
+Apr 22, 2018 2:31:27 PM org.springframework.web.context.support.XmlWebApplicationContext doClose
+INFO: Closing WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Wed Apr 18 12:19:57 IST 2018]; root of context hierarchy
+Apr 22, 2018 2:31:27 PM org.springframework.beans.factory.support.DefaultListableBeanFactory destroySingletons
+INFO: Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2bda9263: defining beans [epgAttributeSelectorManager,com.ericsson.iptv.portal.avalanche.common.ViewActivityInitParameter#0,com.ericsson.iptv.portal.avalanche.common.DocTypeInitParameter#0,com.ericsson.iptv.portal.avalanche.common.epg.ProgramImageAttribute#0,com.ericsson.iptv.portal.avalanche.common.epg.ProgramDescriptionAttribute#0,com.ericsson.iptv.portal.avalanche.common.epg.ProgramGenreAttribute#0,com.ericsson.iptv.portal.avalanche.common.epg.ProgramEpisodeIdentityAttribute#0,com.ericsson.iptv.portal.avalanche.common.preferences.UserAtDeviceChannelLineupPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.SubscriberPurchasePinPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.UserPurchasePinPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.AdultServiceIdsPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.UserUsingParentalControlPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.LastBookmarkedVodPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.LastTunedChannelPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.ActiveChannelFilterPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.UserAtDeviceGuidePreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.VideoCategoryPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.MovieCategoryPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.AdultCategoryPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.BroadcastTVGenresPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.DeviceTypesPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.DeviceDefaultUserPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.DisabledEpgCatchupPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.VodAudioLanguagesPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.VodGenresPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.device.constraints.devicetype.SmallPhoneConstraintProvider#0,com.ericsson.iptv.portal.avalanche.common.device.constraints.devicetype.NormalPhoneConstraintProvider#0,com.ericsson.iptv.portal.avalanche.common.device.constraints.devicetype.LargePhoneConstraintProvider#0,com.ericsson.iptv.portal.avalanche.common.device.constraints.devicetype.XlargeTabletConstraintProvider#0,com.ericsson.iptv.portal.avalanche.common.device.constraints.devicetype.WebConstraintProvider#0,mockPreference,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#0,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#1,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#2,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#3,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#4,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#5,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#6,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#7,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#8,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#9,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#10,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#11,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#12,currentRequestComponent,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.jboss.logging.JbossLoggingRuntimeCheck#0,validator,org.springframework.validation.beanvalidation.MethodValidationPostProcessor#0,txManager,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.transaction.annotation.AnnotationTransactionAttributeSource#0,org.springframework.transaction.interceptor.TransactionInterceptor#0,org.springframework.transaction.config.internalTransactionAdvisor,mbeanServer,artifactBase,artifactInfo,com.ericsson.iptv.portal.fw.logdisabler.LogDisabler#0,migrationManager,servletFilterManager,dynamicFilterManager,artifactFilterManager,filterManager,periodicPollManager,constraintManager,preferenceManager,fwModuleFactory,discoveryManager,notificationManager,fwConfigUser,initParameterManager,userModelUser,httpRequestUser,widgetConfigManager,interceptorManager,portalInterceptors,com.ericsson.iptv.portal.fw.spring.PatchedRequestMappingHandlerAdapter#0,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter#0,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.web.servlet.view.BeanNameViewResolver#0,jsonView,exceptionResolver,javax.servlet.http.HttpServletResponse.SC_BAD_REQUEST,defaultExceptionView,bindExceptionView,forbiddenView,methodNotAllowedView,mediaTypeNotSupportedView,parseExceptionView,mockCommonConfigReader,mockDataManager,com.ericsson.iptv.portal.common.backend.mock.MockMBeanInterceptor#0,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+Apr 22, 2018 2:31:27 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-common-war-0.0.2/WEB-INF/lib/aopalliance-1.0.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:27 PM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+SEVERE: The web application [/portal-avalanche-common-war-0.0.2] appears to have started a thread named [Timer-0] but has failed to stop it. This is very likely to create a memory leak.
+Apr 22, 2018 2:31:27 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/portal-avalanche-common-init-war-0.0.2]
+Apr 22, 2018 2:31:27 PM org.springframework.web.context.support.XmlWebApplicationContext doClose
+INFO: Closing WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Wed Apr 18 12:20:03 IST 2018]; root of context hierarchy
+Apr 22, 2018 2:31:27 PM org.springframework.beans.factory.support.DefaultListableBeanFactory destroySingletons
+INFO: Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6ab00941: defining beans [com.ericsson.iptv.portal.avalanche.common.init.SplashScreenProvider#0,com.ericsson.iptv.portal.avalanche.common.init.ViewportProvider#0,com.ericsson.iptv.portal.avalanche.common.init.ReloadMessageProvider#0,com.ericsson.iptv.portal.avalanche.common.init.FontProvider#0,currentRequestComponent,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.jboss.logging.JbossLoggingRuntimeCheck#0,validator,org.springframework.validation.beanvalidation.MethodValidationPostProcessor#0,txManager,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.transaction.annotation.AnnotationTransactionAttributeSource#0,org.springframework.transaction.interceptor.TransactionInterceptor#0,org.springframework.transaction.config.internalTransactionAdvisor,mbeanServer,artifactBase,artifactInfo,com.ericsson.iptv.portal.fw.logdisabler.LogDisabler#0,migrationManager,servletFilterManager,dynamicFilterManager,artifactFilterManager,filterManager,periodicPollManager,constraintManager,preferenceManager,fwModuleFactory,discoveryManager,notificationManager,fwConfigUser,initParameterManager,userModelUser,httpRequestUser,widgetConfigManager,interceptorManager,portalInterceptors,com.ericsson.iptv.portal.fw.spring.PatchedRequestMappingHandlerAdapter#0,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter#0,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.web.servlet.view.BeanNameViewResolver#0,jsonView,exceptionResolver,javax.servlet.http.HttpServletResponse.SC_BAD_REQUEST,defaultExceptionView,bindExceptionView,forbiddenView,methodNotAllowedView,mediaTypeNotSupportedView,parseExceptionView,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+Apr 22, 2018 2:31:27 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-common-init-war-0.0.2/WEB-INF/lib/aopalliance-1.0.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:28 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/PNaCl]
+Apr 22, 2018 2:31:28 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/portal-widgettool-war-17.0.22]
+Apr 22, 2018 2:31:28 PM org.springframework.web.context.support.XmlWebApplicationContext doClose
+INFO: Closing WebApplicationContext for namespace 'stbportal-servlet': startup date [Wed Apr 18 12:20:06 IST 2018]; root of context hierarchy
+Apr 22, 2018 2:31:28 PM org.springframework.beans.factory.support.DefaultListableBeanFactory destroySingletons
+INFO: Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@27791ef4: defining beans [filterManager,urlMapping,viewResolver,swArchiveBean,com.ericsson.iptv.portal.fw.widgettool.provider.UrlParameterProvider#0,artifactFilterWidget,widgetToolServlet,currentRequestComponent,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.jboss.logging.JbossLoggingRuntimeCheck#0,validator,org.springframework.validation.beanvalidation.MethodValidationPostProcessor#0,txManager,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.transaction.annotation.AnnotationTransactionAttributeSource#0,org.springframework.transaction.interceptor.TransactionInterceptor#0,org.springframework.transaction.config.internalTransactionAdvisor,mbeanServer,artifactBase,artifactInfo,com.ericsson.iptv.portal.fw.logdisabler.LogDisabler#0,migrationManager,servletFilterManager,dynamicFilterManager,artifactFilterManager,periodicPollManager,constraintManager,preferenceManager,fwModuleFactory,discoveryManager,notificationManager,fwConfigUser,initParameterManager,userModelUser,httpRequestUser,widgetConfigManager,interceptorManager,portalInterceptors,com.ericsson.iptv.portal.fw.spring.PatchedRequestMappingHandlerAdapter#0,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter#0,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.web.servlet.view.BeanNameViewResolver#0,jsonView,exceptionResolver,javax.servlet.http.HttpServletResponse.SC_BAD_REQUEST,defaultExceptionView,bindExceptionView,forbiddenView,methodNotAllowedView,mediaTypeNotSupportedView,parseExceptionView,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+Apr 22, 2018 2:31:28 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-widgettool-war-17.0.22/WEB-INF/lib/aopalliance-1.0.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:29 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/scf-backend-mock]
+Apr 22, 2018 2:31:29 PM org.springframework.web.context.support.XmlWebApplicationContext doClose
+INFO: Closing WebApplicationContext for namespace 'scfmock-servlet': startup date [Wed Apr 18 12:20:02 IST 2018]; root of context hierarchy
+Apr 22, 2018 2:31:29 PM org.springframework.beans.factory.support.DefaultListableBeanFactory destroySingletons
+INFO: Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@3975fb1d: defining beans [mockScfBean,scfSpringErrorHandler,mockScfModel,restrictionPolicyService,contentUrlResolver,sessionDao,restrictionDao,scfVersionManager,scfConfigMBeanImpl,scfResponseErrorMapper,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,mbeanExporter,mvcContentNegotiationManager,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.format.support.FormattingConversionServiceFactoryBean#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter#0,org.springframework.web.servlet.handler.MappedInterceptor#0,org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver#0,org.springframework.web.servlet.mvc.annotation.ResponseStatusExceptionResolver#0,org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver#0,org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter,sessionIdGenerator,tokenGenerator,tokenExpiryTimeConfiguration,heartbeatIntervalConfiguration,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+Apr 22, 2018 2:31:29 PM org.springframework.jmx.export.annotation.AnnotationMBeanExporter destroy
+INFO: Unregistering JMX-exposed beans on shutdown
+Apr 22, 2018 2:31:29 PM org.apache.catalina.loader.WebappClassLoaderBase openJARs
+WARNING: Failed to open JAR [null]
+java.io.FileNotFoundException: /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/scf-backend-mock/WEB-INF/lib/aopalliance-1.0.jar (No such file or directory)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:225)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:155)
+	at java.util.jar.JarFile.<init>(JarFile.java:166)
+	at java.util.jar.JarFile.<init>(JarFile.java:130)
+	at org.apache.catalina.loader.WebappClassLoaderBase.openJARs(WebappClassLoaderBase.java:3108)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResourceInternal(WebappClassLoaderBase.java:3397)
+	at org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:1458)
+	at org.apache.catalina.loader.WebappClassLoaderBase.getResourceAsStream(WebappClassLoaderBase.java:1686)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc(WebappClassLoaderBase.java:2282)
+	at org.apache.catalina.loader.WebappClassLoaderBase.clearReferences(WebappClassLoaderBase.java:2223)
+	at org.apache.catalina.loader.WebappClassLoaderBase.stop(WebappClassLoaderBase.java:2123)
+	at org.apache.catalina.loader.WebappLoader.stopInternal(WebappLoader.java:663)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.StandardContext.stopInternal(StandardContext.java:5875)
+	at org.apache.catalina.util.LifecycleBase.stop(LifecycleBase.java:221)
+	at org.apache.catalina.core.ContainerBase.removeChild(ContainerBase.java:1135)
+	at org.apache.catalina.startup.HostConfig.undeploy(HostConfig.java:1598)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1524)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1784)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:366)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1500)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1671)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1681)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1649)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 22, 2018 2:31:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.82
+Apr 22, 2018 2:31:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Sep 29 2017 12:23:15 UTC
+Apr 22, 2018 2:31:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.82.0
+Apr 22, 2018 2:31:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Mac OS X
+Apr 22, 2018 2:31:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.13.4
+Apr 22, 2018 2:31:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          x86_64
+Apr 22, 2018 2:31:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre
+Apr 22, 2018 2:31:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_161-b12
+Apr 22, 2018 2:31:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Apr 22, 2018 2:31:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /Users/mmp-testlab/MCS_CODE/MCS/tomcat
+Apr 22, 2018 2:31:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /Users/mmp-testlab/MCS_CODE/MCS/tomcat
+Apr 22, 2018 2:31:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/Users/mmp-testlab/MCS_CODE/MCS/tomcat/conf/logging.properties
+Apr 22, 2018 2:31:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Apr 22, 2018 2:31:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Apr 22, 2018 2:31:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/Users/mmp-testlab/MCS_CODE/MCS/tomcat/endorsed
+Apr 22, 2018 2:31:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/Users/mmp-testlab/MCS_CODE/MCS/tomcat
+Apr 22, 2018 2:31:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/Users/mmp-testlab/MCS_CODE/MCS/tomcat
+Apr 22, 2018 2:31:56 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/Users/mmp-testlab/MCS_CODE/MCS/tomcat/temp
+Apr 22, 2018 2:31:56 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/mmp-testlab/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+Apr 22, 2018 2:31:56 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8186"]
+Apr 22, 2018 2:31:56 PM org.apache.coyote.AbstractProtocol init
+SEVERE: Failed to initialize end point associated with ProtocolHandler ["http-bio-8186"]
+java.net.BindException: Address already in use (Bind failed) <null>:8186
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:413)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:728)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:452)
+	at org.apache.coyote.http11.AbstractHttp11JsseProtocol.init(AbstractHttp11JsseProtocol.java:119)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:978)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:560)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:840)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:643)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:668)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:253)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:427)
+Caused by: java.net.BindException: Address already in use (Bind failed)
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:181)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:49)
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:400)
+	... 17 more
+
+Apr 22, 2018 2:31:56 PM org.apache.catalina.core.StandardService initInternal
+SEVERE: Failed to initialize connector [Connector[HTTP/1.1-8186]]
+org.apache.catalina.LifecycleException: Failed to initialize component [Connector[HTTP/1.1-8186]]
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:560)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:840)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:643)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:668)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:253)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:427)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler initialization failed
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:980)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	... 12 more
+Caused by: java.net.BindException: Address already in use (Bind failed) <null>:8186
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:413)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:728)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:452)
+	at org.apache.coyote.http11.AbstractHttp11JsseProtocol.init(AbstractHttp11JsseProtocol.java:119)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:978)
+	... 13 more
+Caused by: java.net.BindException: Address already in use (Bind failed)
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:181)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:49)
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:400)
+	... 17 more
+
+Apr 22, 2018 2:31:56 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Apr 22, 2018 2:31:56 PM org.apache.coyote.AbstractProtocol init
+SEVERE: Failed to initialize end point associated with ProtocolHandler ["ajp-bio-8009"]
+java.net.BindException: Address already in use (Bind failed) <null>:8009
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:413)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:728)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:452)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:978)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:560)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:840)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:643)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:668)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:253)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:427)
+Caused by: java.net.BindException: Address already in use (Bind failed)
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:181)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:49)
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:400)
+	... 16 more
+
+Apr 22, 2018 2:31:56 PM org.apache.catalina.core.StandardService initInternal
+SEVERE: Failed to initialize connector [Connector[AJP/1.3-8009]]
+org.apache.catalina.LifecycleException: Failed to initialize component [Connector[AJP/1.3-8009]]
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:560)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:840)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:643)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:668)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:253)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:427)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler initialization failed
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:980)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:102)
+	... 12 more
+Caused by: java.net.BindException: Address already in use (Bind failed) <null>:8009
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:413)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:728)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:452)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:978)
+	... 13 more
+Caused by: java.net.BindException: Address already in use (Bind failed)
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at java.net.ServerSocket.<init>(ServerSocket.java:181)
+	at org.apache.tomcat.util.net.DefaultServerSocketFactory.createSocket(DefaultServerSocketFactory.java:49)
+	at org.apache.tomcat.util.net.JIoEndpoint.bind(JIoEndpoint.java:400)
+	... 16 more
+
+Apr 22, 2018 2:31:56 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 727 ms
+Apr 22, 2018 2:31:56 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Apr 22, 2018 2:31:56 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.82
+Apr 22, 2018 2:31:56 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 38 ms
+Apr 22, 2018 2:31:56 PM org.apache.catalina.core.StandardServer await
+SEVERE: StandardServer.await: create[localhost:8005]: 
+java.net.BindException: Address already in use (Bind failed)
+	at java.net.PlainSocketImpl.socketBind(Native Method)
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:387)
+	at java.net.ServerSocket.bind(ServerSocket.java:375)
+	at java.net.ServerSocket.<init>(ServerSocket.java:237)
+	at org.apache.catalina.core.StandardServer.await(StandardServer.java:444)
+	at org.apache.catalina.startup.Catalina.await(Catalina.java:782)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:728)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:294)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:428)
+
+Apr 22, 2018 2:31:56 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8186"]
+Apr 22, 2018 2:31:56 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Apr 22, 2018 2:31:56 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Apr 22, 2018 2:31:56 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8186"]
+Apr 22, 2018 2:31:56 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8186"]
+Apr 22, 2018 2:31:56 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Apr 22, 2018 2:31:56 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+Apr 22, 2018 2:35:09 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/root
+Apr 22, 2018 2:35:09 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/root has finished in 57 ms
+Apr 22, 2018 2:36:00 PM org.apache.catalina.startup.HostConfig undeploy
+INFO: Undeploying context [/root]
+Apr 22, 2018 2:36:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/vid
+Apr 22, 2018 2:36:00 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/vid has finished in 22 ms

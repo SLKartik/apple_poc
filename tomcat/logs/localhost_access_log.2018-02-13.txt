@@ -1,0 +1,14 @@
+172.17.163.190 - - [13/Feb/2018:01:47:54 +0530] "POST /public/portal-coreapps-backend-mock-war/getCdsData.ajax?equipmentId=OJme9a/ihAH4cAE6aejGjE99MWo=-1518433738616 HTTP/1.1" 200 56
+172.17.163.190 - - [13/Feb/2018:03:48:18 +0530] "POST /public/portal-coreapps-backend-mock-war/getCdsData.ajax?equipmentId=OJme9a/ihAH4cAE6aejGjE99MWo=-1518439076220 HTTP/1.1" 200 56
+172.17.163.190 - - [13/Feb/2018:07:48:35 +0530] "POST /public/portal-coreapps-backend-mock-war/getCdsData.ajax?equipmentId=OJme9a/ihAH4cAE6aejGjE99MWo=-1518433738616 HTTP/1.1" 200 56
+172.17.163.190 - - [13/Feb/2018:08:48:37 +0530] "POST /public/portal-coreapps-backend-mock-war/getCdsData.ajax?equipmentId=OJme9a/ihAH4cAE6aejGjE99MWo=-1518439076220 HTTP/1.1" 200 56
+172.17.163.190 - - [13/Feb/2018:12:07:16 +0530] "POST /public/portal-coreapps-backend-mock-war/getCdsData.ajax?equipmentId=OJme9a/ihAH4cAE6aejGjE99MWo=-1518433738616 HTTP/1.1" 200 56
+172.17.163.190 - - [13/Feb/2018:12:08:21 +0530] "POST /public/portal-coreapps-backend-mock-war/getCdsData.ajax?equipmentId=OJme9a/ihAH4cAE6aejGjE99MWo=-1518439076220 HTTP/1.1" 200 56
+172.17.163.190 - - [13/Feb/2018:13:06:41 +0530] "POST /public/portal-coreapps-backend-mock-war/getCdsData.ajax?equipmentId=OJme9a/ihAH4cAE6aejGjE99MWo=-1518433738616 HTTP/1.1" 200 56
+172.17.163.190 - - [13/Feb/2018:13:07:07 +0530] "POST /public/portal-coreapps-backend-mock-war/getCdsData.ajax?equipmentId=OJme9a/ihAH4cAE6aejGjE99MWo=-1518439076220 HTTP/1.1" 200 56
+172.17.163.190 - - [13/Feb/2018:13:07:09 +0530] "GET /public/portal-coreapps-backend-mock-war/epg/getProgramsForTimeSlot.ajax?language=en-US&start=1518448500000&length=1800000&version=1 HTTP/1.1" 200 2421
+172.17.163.190 - - [13/Feb/2018:13:07:09 +0530] "GET /portal-coreapps-backend-mock-war-17.0.22/images/ProgramPoster.jpg HTTP/1.1" 404 1081
+172.17.163.190 - - [13/Feb/2018:13:07:09 +0530] "GET /static/portal-imageprocessor-war/imageScaler.ajax?imageURL=http%3A%2F%2F172.17.163.190%3A8186%2Fportal-coreapps-backend-mock-war-17.0.22%2Fimages%2FProgramPoster.jpg&maxWidth=400&maxHeight=225 HTTP/1.1" 500 155
+172.17.163.190 - - [13/Feb/2018:13:07:41 +0530] "POST /public/portal-coreapps-backend-mock-war/getCdsData.ajax?equipmentId=OJme9a/ihAH4cAE6aejGjE99MWo=-1518433738616 HTTP/1.1" 200 56
+172.17.163.190 - - [13/Feb/2018:13:08:07 +0530] "POST /public/portal-coreapps-backend-mock-war/getCdsData.ajax?equipmentId=OJme9a/ihAH4cAE6aejGjE99MWo=-1518439076220 HTTP/1.1" 200 56
+172.17.163.190 - - [13/Feb/2018:13:08:41 +0530] "POST /public/portal-coreapps-backend-mock-war/getCdsData.ajax?equipmentId=OJme9a/ihAH4cAE6aejGjE99MWo=-1518433738616 HTTP/1.1" 200 56

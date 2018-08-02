@@ -1,0 +1,684 @@
+Mar 26, 2018 6:02:23 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.82
+Mar 26, 2018 6:02:23 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Sep 29 2017 12:23:15 UTC
+Mar 26, 2018 6:02:23 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.82.0
+Mar 26, 2018 6:02:23 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Mac OS X
+Mar 26, 2018 6:02:23 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            10.12.6
+Mar 26, 2018 6:02:23 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          x86_64
+Mar 26, 2018 6:02:23 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre
+Mar 26, 2018 6:02:23 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_161-b12
+Mar 26, 2018 6:02:23 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Mar 26, 2018 6:02:23 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /Users/mmp-testlab/MCS_CODE/MCS/tomcat
+Mar 26, 2018 6:02:23 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /Users/mmp-testlab/MCS_CODE/MCS/tomcat
+Mar 26, 2018 6:02:23 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/Users/mmp-testlab/MCS_CODE/MCS/tomcat/conf/logging.properties
+Mar 26, 2018 6:02:23 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Mar 26, 2018 6:02:23 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+Mar 26, 2018 6:02:23 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/Users/mmp-testlab/MCS_CODE/MCS/tomcat/endorsed
+Mar 26, 2018 6:02:23 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/Users/mmp-testlab/MCS_CODE/MCS/tomcat
+Mar 26, 2018 6:02:23 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/Users/mmp-testlab/MCS_CODE/MCS/tomcat
+Mar 26, 2018 6:02:23 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/Users/mmp-testlab/MCS_CODE/MCS/tomcat/temp
+Mar 26, 2018 6:02:23 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /Users/mmp-testlab/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+Mar 26, 2018 6:02:23 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8186"]
+Mar 26, 2018 6:02:24 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Mar 26, 2018 6:02:24 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 618 ms
+Mar 26, 2018 6:02:24 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Mar 26, 2018 6:02:24 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.82
+Mar 26, 2018 6:02:24 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/PNaCl.war
+Mar 26, 2018 6:02:24 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/PNaCl.war has finished in 233 ms
+Mar 26, 2018 6:02:24 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-common-cds-war-0.0.2.war
+Mar 26, 2018 6:02:24 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:24 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-common-cds-war-0.0.2.war has finished in 97 ms
+Mar 26, 2018 6:02:24 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-common-init-war-0.0.2.war
+Mar 26, 2018 6:02:24 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:24 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'dispatcherServlet': initialization started
+Mar 26, 2018 6:02:24 PM org.springframework.web.context.support.XmlWebApplicationContext prepareRefresh
+INFO: Refreshing WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Mon Mar 26 18:02:24 IST 2018]; root of context hierarchy
+Mar 26, 2018 6:02:25 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from ServletContext resource [/WEB-INF/portal-servlet.xml]
+Mar 26, 2018 6:02:25 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from class path resource [META-INF/common-mvc-beans.xml]
+Mar 26, 2018 6:02:25 PM org.hibernate.validator.internal.util.Version <clinit>
+INFO: HV000001: Hibernate Validator 4.3.1.Final
+Mar 26, 2018 6:02:25 PM org.springframework.beans.factory.support.DefaultListableBeanFactory preInstantiateSingletons
+INFO: Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@91328ab: defining beans [com.ericsson.iptv.portal.avalanche.common.init.SplashScreenProvider#0,com.ericsson.iptv.portal.avalanche.common.init.ViewportProvider#0,com.ericsson.iptv.portal.avalanche.common.init.ReloadMessageProvider#0,com.ericsson.iptv.portal.avalanche.common.init.FontProvider#0,currentRequestComponent,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.jboss.logging.JbossLoggingRuntimeCheck#0,validator,org.springframework.validation.beanvalidation.MethodValidationPostProcessor#0,txManager,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.transaction.annotation.AnnotationTransactionAttributeSource#0,org.springframework.transaction.interceptor.TransactionInterceptor#0,org.springframework.transaction.config.internalTransactionAdvisor,mbeanServer,artifactBase,artifactInfo,com.ericsson.iptv.portal.fw.logdisabler.LogDisabler#0,migrationManager,servletFilterManager,dynamicFilterManager,artifactFilterManager,filterManager,periodicPollManager,constraintManager,preferenceManager,fwModuleFactory,discoveryManager,notificationManager,fwConfigUser,initParameterManager,userModelUser,httpRequestUser,widgetConfigManager,interceptorManager,portalInterceptors,com.ericsson.iptv.portal.fw.spring.PatchedRequestMappingHandlerAdapter#0,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter#0,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.web.servlet.view.BeanNameViewResolver#0,jsonView,exceptionResolver,javax.servlet.http.HttpServletResponse.SC_BAD_REQUEST,defaultExceptionView,bindExceptionView,forbiddenView,methodNotAllowedView,mediaTypeNotSupportedView,parseExceptionView,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+Mar 26, 2018 6:02:25 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'dispatcherServlet': initialization completed in 999 ms
+Mar 26, 2018 6:02:25 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-common-init-war-0.0.2.war has finished in 1,577 ms
+Mar 26, 2018 6:02:25 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-common-war-0.0.2.war
+Mar 26, 2018 6:02:26 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:26 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'dispatcherServlet': initialization started
+Mar 26, 2018 6:02:26 PM org.springframework.web.context.support.XmlWebApplicationContext prepareRefresh
+INFO: Refreshing WebApplicationContext for namespace 'dispatcherServlet-servlet': startup date [Mon Mar 26 18:02:26 IST 2018]; root of context hierarchy
+Mar 26, 2018 6:02:26 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from ServletContext resource [/WEB-INF/portal-servlet.xml]
+Mar 26, 2018 6:02:26 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from class path resource [META-INF/common-mvc-beans.xml]
+Mar 26, 2018 6:02:26 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from class path resource [META-INF/common-mock-beans.xml]
+Mar 26, 2018 6:02:26 PM org.hibernate.validator.internal.util.Version <clinit>
+INFO: HV000001: Hibernate Validator 4.3.1.Final
+Mar 26, 2018 6:02:26 PM org.springframework.beans.factory.support.DefaultListableBeanFactory preInstantiateSingletons
+INFO: Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6c81b3a9: defining beans [epgAttributeSelectorManager,com.ericsson.iptv.portal.avalanche.common.ViewActivityInitParameter#0,com.ericsson.iptv.portal.avalanche.common.DocTypeInitParameter#0,com.ericsson.iptv.portal.avalanche.common.epg.ProgramImageAttribute#0,com.ericsson.iptv.portal.avalanche.common.epg.ProgramDescriptionAttribute#0,com.ericsson.iptv.portal.avalanche.common.epg.ProgramGenreAttribute#0,com.ericsson.iptv.portal.avalanche.common.epg.ProgramEpisodeIdentityAttribute#0,com.ericsson.iptv.portal.avalanche.common.preferences.UserAtDeviceChannelLineupPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.SubscriberPurchasePinPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.UserPurchasePinPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.AdultServiceIdsPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.UserUsingParentalControlPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.LastBookmarkedVodPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.LastTunedChannelPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.ActiveChannelFilterPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.UserAtDeviceGuidePreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.VideoCategoryPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.MovieCategoryPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.AdultCategoryPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.BroadcastTVGenresPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.DeviceTypesPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.DeviceDefaultUserPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.DisabledEpgCatchupPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.VodAudioLanguagesPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.preferences.VodGenresPreferenceBasis#0,com.ericsson.iptv.portal.avalanche.common.device.constraints.devicetype.SmallPhoneConstraintProvider#0,com.ericsson.iptv.portal.avalanche.common.device.constraints.devicetype.NormalPhoneConstraintProvider#0,com.ericsson.iptv.portal.avalanche.common.device.constraints.devicetype.LargePhoneConstraintProvider#0,com.ericsson.iptv.portal.avalanche.common.device.constraints.devicetype.XlargeTabletConstraintProvider#0,com.ericsson.iptv.portal.avalanche.common.device.constraints.devicetype.WebConstraintProvider#0,mockPreference,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#0,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#1,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#2,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#3,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#4,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#5,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#6,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#7,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#8,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#9,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#10,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#11,com.ericsson.iptv.portal.avalanche.common.preferences.mock.MockPreferenceStorageBean#12,currentRequestComponent,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.jboss.logging.JbossLoggingRuntimeCheck#0,validator,org.springframework.validation.beanvalidation.MethodValidationPostProcessor#0,txManager,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.transaction.annotation.AnnotationTransactionAttributeSource#0,org.springframework.transaction.interceptor.TransactionInterceptor#0,org.springframework.transaction.config.internalTransactionAdvisor,mbeanServer,artifactBase,artifactInfo,com.ericsson.iptv.portal.fw.logdisabler.LogDisabler#0,migrationManager,servletFilterManager,dynamicFilterManager,artifactFilterManager,filterManager,periodicPollManager,constraintManager,preferenceManager,fwModuleFactory,discoveryManager,notificationManager,fwConfigUser,initParameterManager,userModelUser,httpRequestUser,widgetConfigManager,interceptorManager,portalInterceptors,com.ericsson.iptv.portal.fw.spring.PatchedRequestMappingHandlerAdapter#0,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter#0,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.web.servlet.view.BeanNameViewResolver#0,jsonView,exceptionResolver,javax.servlet.http.HttpServletResponse.SC_BAD_REQUEST,defaultExceptionView,bindExceptionView,forbiddenView,methodNotAllowedView,mediaTypeNotSupportedView,parseExceptionView,mockCommonConfigReader,mockDataManager,com.ericsson.iptv.portal.common.backend.mock.MockMBeanInterceptor#0,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+Mar 26, 2018 6:02:27 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'dispatcherServlet': initialization completed in 1063 ms
+Mar 26, 2018 6:02:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-common-war-0.0.2.war has finished in 1,612 ms
+Mar 26, 2018 6:02:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-secondscreen-apps-war-0.0.2.war
+Mar 26, 2018 6:02:27 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-secondscreen-apps-war-0.0.2.war has finished in 170 ms
+Mar 26, 2018 6:02:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-secondscreen-csscomponents-war-0.0.2.war
+Mar 26, 2018 6:02:27 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-secondscreen-csscomponents-war-0.0.2.war has finished in 53 ms
+Mar 26, 2018 6:02:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-secondscreen-locale-enus-war-0.0.2.war
+Mar 26, 2018 6:02:27 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-secondscreen-locale-enus-war-0.0.2.war has finished in 51 ms
+Mar 26, 2018 6:02:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-secondscreen-locale-svse-war-0.0.2.war
+Mar 26, 2018 6:02:27 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-secondscreen-locale-svse-war-0.0.2.war has finished in 50 ms
+Mar 26, 2018 6:02:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-secondscreen-skin-common-war-0.0.2.war
+Mar 26, 2018 6:02:27 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-secondscreen-skin-common-war-0.0.2.war has finished in 52 ms
+Mar 26, 2018 6:02:27 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-secondscreen-skin-karbon-war-0.0.2.war
+Mar 26, 2018 6:02:27 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:28 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-avalanche-secondscreen-skin-karbon-war-0.0.2.war has finished in 65 ms
+Mar 26, 2018 6:02:28 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-coreapps-backend-mock-war-17.0.22.war
+Mar 26, 2018 6:02:28 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:28 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'stbportal': initialization started
+Mar 26, 2018 6:02:28 PM org.springframework.web.context.support.XmlWebApplicationContext prepareRefresh
+INFO: Refreshing WebApplicationContext for namespace 'stbportal-servlet': startup date [Mon Mar 26 18:02:28 IST 2018]; root of context hierarchy
+Mar 26, 2018 6:02:28 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from ServletContext resource [/WEB-INF/stbportal-servlet.xml]
+Mar 26, 2018 6:02:28 PM org.springframework.beans.factory.support.DefaultListableBeanFactory registerBeanDefinition
+INFO: Overriding bean definition for bean 'epgBean': replacing [Generic bean: class [com.ericsson.iptv.portal.mock.epg.EpgBean]; scope=singleton; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [/Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-coreapps-backend-mock-war-17.0.22/WEB-INF/classes/com/ericsson/iptv/portal/mock/epg/EpgBean.class]] with [Generic bean: class [com.ericsson.iptv.portal.mock.epg.EpgBean]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in ServletContext resource [/WEB-INF/stbportal-servlet.xml]]
+Mar 26, 2018 6:02:28 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from class path resource [META-INF/common-mvc-beans.xml]
+Mar 26, 2018 6:02:28 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from class path resource [META-INF/common-mock-beans.xml]
+Mar 26, 2018 6:02:29 PM org.hibernate.validator.internal.util.Version <clinit>
+INFO: HV000001: Hibernate Validator 4.3.1.Final
+Mar 26, 2018 6:02:29 PM org.springframework.beans.factory.support.DefaultListableBeanFactory preInstantiateSingletons
+INFO: Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@3fe0a6f6: defining beans [subscriptionModel,authInterceptor,bookmarkBean,channelsBean,beanUtil,subscriberTypeConstraintProvider,corsRequestFilter,epgBean,mockFilesBean,bookmarksPreferenceStorage,defaultRecordingTimeToLivePreferenceStorage,preferenceNotifier,preferenceNotifierMbean,scfUriPreferenceStorage,pvrBean,pvrModel,scfUrlGenerator,subscriptionBean,mockVodBean,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,vodCategoryTreeController,vodDownloadFailedController,vodDownloadInfoController,playlistDownloadInfoController,myRentalsController,vodPlaybackInfoController,playlistPlaybackInfoController,vodPlaybackInfoDownloadController,playlistPlaybackInfoDownloadController,vodServicesController,setBookmarkController,setBookmarkPlaylistController,vodSubscribedServicesController,vodOfferingPageIndexController,vodOfferingsController,vodOfferingListForCategoriesController,vodOfferingsByIdController,svodListController,vodDetailsController,vodDetailsPAIDController,vodListForCategoryController,vodListForServicesController,vodRentCancelController,vodRentConfirmController,vodRentController,vodDownloadOptionsController,vodDownloadOptionsPlaylistController,bandwidthBean,com.ericsson.iptv.portal.mock.bcrcb.BrPreferenceBasis#0,com.ericsson.iptv.portal.mock.pvr.DeviceRecordingPreferenceBasis#0,com.ericsson.iptv.portal.mock.pvr.DeviceRecordingProgramsPreferenceBasis#0,com.ericsson.iptv.portal.mock.pvr.DeviceRecordingProgramListsPreferenceBasis#0,statisticsBean,com.ericsson.iptv.portal.mock.statistics.StatisticsEntriesLimitPreferenceStorage#0,com.ericsson.iptv.portal.mock.statistics.StatisticsUploadIntervalPreferenceStorage#0,sendEventsController,getStatisticsConfigController,chargingBean,chargingModel,purchaseHistoryController,getBalanceController,setBandwidthController,getBandwidthUsageController,stopSessionController,reportConflictController,clearConflictController,getConflictsController,conditionalAccessBean,getEquipmentInformationController,getEquipmentInformationListController,setEquipmentInformationController,setEquipmentInformationMapController,getEquipmentContentAccessInformationController,epgAttributeSelectorManager,channelLineupBean,com.ericsson.iptv.portal.mock.channellineup.ChannelLineupPreferenceOptions#0,createChannelLineupController,deleteChannelLineupController,getChannelLineupController,getAvailableChannelLineupsController,updateChannelLineupDetailsController,updateChannelLineupItemsController,resetChannelLineupItemsController,syncChannelLineupController,getManagedStreamsController,getEpgSlidingWindowController,programListController,getProgramsForTimeSlotController,getProgramsWithinTimeWindowController,programController,ProgramInfoForIdsController,currentProgramController,getCatchupInfoController,getUserChannelListController,setUserChannelListController,resetUserChannelListController,getSubscriberChannelListController,getAllChannelsController,getAllOfflineChannelsController,getPhysicalChannelListController,getBroadcastLocationController,getQoeConfigController,getTimeshiftInfoController,broadcastReminderClientBasedBean,searchController,advancedSearchController,searchResultController,autoCompleteController,mockSearchBean,mockAutoCompleteBean,brDeleteReminderController,brGetAllRemindersController,brSetReminderController,brSnoozeReminderController,brUpdateReminderController,com.ericsson.iptv.portal.mock.bandwidth.BandwidthManagementDiscovery#0,com.ericsson.iptv.portal.mock.discovery.EquipmentCapabilityDiscovery#0,payPerViewBean,listAllPurchasesController,listBundleOfferingsController,listOfferingsController,listProgramsForBundleController,listPurchasesController,getEventOfferingsForDaysController,purchaseBlockController,purchaseBundleController,purchaseCancelController,cancelPurchasedOfferingController,purchaseConfirmController,purchaseEventController,sspMessageBean,sspMessageToDeviceController,sspMessageToSubscriberController,urlMapping,adminUrlMapping,viewResolver,com.ericsson.iptv.portal.mock.startup.InitConstraintProvider#0,com.ericsson.iptv.portal.mock.startup.ConstraintProvider#0,com.ericsson.iptv.portal.mock.constraints.DeviceConstraintsProvider#0,com.ericsson.iptv.portal.mock.constraints.HttpConstraintProvider#0,com.ericsson.iptv.portal.mock.constraints.IndexUrlInitialConstraintProvider#0,generalPrefStorageMgr,com.ericsson.iptv.portal.mock.preferences.AppsPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.ServicesPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.AvatarPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.DeviceEbcPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.DefaultUserPreferenceOptions#0,com.ericsson.iptv.portal.mock.preferences.DefaultUserPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.FirstNamePreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.DeviceNamePreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.ImpuPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.IsSuperPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.LastNamePreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.LocalePreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.LocaleConstraintsPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.MobilePhoneNumberPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.NickNamePreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.PinPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.RatingPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.RatingAsStringPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.AuthenticationIdPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.GeoLocationPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.RegionPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.MaxRecordingBufferTimePreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.MaxRecordingTimeDurationPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.PreferredEquipmentIdPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.PreferredEquipmentIdPreferenceOptions#0,com.ericsson.iptv.portal.mock.preferences.OthersViewMinePreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.ViewAcrossDevicePreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.ViewOthersRemindersPreferenceStorage#0,com.ericsson.iptv.portal.mock.periodicpoll.PortalSelectorPoll#0,com.ericsson.iptv.portal.mock.upgrade.UpgradeGraceHoursPreferenceStorage#0,com.ericsson.iptv.portal.mock.upgrade.UpgradeNotificationHoursPreferenceStorage#0,com.ericsson.iptv.portal.mock.upgrade.UpgradeRandomHoursPreferenceStorage#0,com.ericsson.iptv.portal.mock.upgrade.UpgradeReloadHourPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.EpgPolicyPreferenceStorage#0,com.ericsson.iptv.portal.mock.preferences.UserCentricRecordingPreferenceStorage#0,mockCdsBean,cdsController,cdsConfController,mockConfController,longPollController,com.ericsson.iptv.portal.mock.cds.LongPollConstraint#0,com.ericsson.iptv.portal.mock.cds.SspUrlPreferenceStorage#0,multipartResolver,sspMockSenderController,reloadMockDataController,exportMockDataController,importMockDataController,configRegister,fwMockConfigManager,fwConfigReader,com.ericsson.iptv.portal.mock.fwconfig.mbean.FwConfigManager#0,com.ericsson.iptv.portal.mock.usermodel.mbean.UserModelManager#0,imageprocessorConfigManager,currentRequestComponent,org.jboss.logging.JbossLoggingRuntimeCheck#0,validator,org.springframework.validation.beanvalidation.MethodValidationPostProcessor#0,txManager,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.transaction.annotation.AnnotationTransactionAttributeSource#0,org.springframework.transaction.interceptor.TransactionInterceptor#0,org.springframework.transaction.config.internalTransactionAdvisor,mbeanServer,artifactBase,artifactInfo,com.ericsson.iptv.portal.fw.logdisabler.LogDisabler#0,migrationManager,servletFilterManager,dynamicFilterManager,artifactFilterManager,filterManager,periodicPollManager,constraintManager,preferenceManager,fwModuleFactory,discoveryManager,notificationManager,fwConfigUser,initParameterManager,userModelUser,httpRequestUser,widgetConfigManager,interceptorManager,portalInterceptors,com.ericsson.iptv.portal.fw.spring.PatchedRequestMappingHandlerAdapter#0,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter#0,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.web.servlet.view.BeanNameViewResolver#0,jsonView,exceptionResolver,javax.servlet.http.HttpServletResponse.SC_BAD_REQUEST,defaultExceptionView,bindExceptionView,forbiddenView,methodNotAllowedView,mediaTypeNotSupportedView,parseExceptionView,mockCommonConfigReader,mockDataManager,com.ericsson.iptv.portal.common.backend.mock.MockMBeanInterceptor#0,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/lineup/syncChannelLineups.ajax] onto handler 'syncChannelLineupController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/payPerView/listPurchases2.ajax] onto handler 'listAllPurchasesController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/vod/vodDetails.ajax] onto handler 'vodDetailsController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/channel/setUserChannelList.ajax] onto handler 'setUserChannelListController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/payPerView/listBundleOfferings.ajax] onto handler 'listBundleOfferingsController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/channel/getAllOfflineChannels.ajax] onto handler 'getAllOfflineChannelsController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/bandwidth/stopSession.ajax] onto handler 'stopSessionController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/vod/downloadOptionsPlaylist.ajax] onto handler 'vodDownloadOptionsPlaylistController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/br/snoozeReminder.ajax] onto handler 'brSnoozeReminderController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/conditionalAccess/getEquipmentInformationList.ajax] onto handler 'getEquipmentInformationListController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/br/setReminder.ajax] onto handler 'brSetReminderController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/mockConf.ajax] onto handler 'mockConfController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/vod/vodOfferings.ajax] onto handler 'vodOfferingsController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/bandwidth/setBandwidth.ajax] onto handler 'setBandwidthController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/vod/vodOfferingPageIndex.ajax] onto handler 'vodOfferingPageIndexController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/epg/getProgram.ajax] onto handler 'programController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/channel/getBroadcastLocation.ajax] onto handler 'getBroadcastLocationController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/vod/vodOfferingListForCategories.ajax] onto handler 'vodOfferingListForCategoriesController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/vod/setBookmark.ajax] onto handler 'setBookmarkController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/getCdsData.ajax] onto handler 'cdsController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/vod/vodDetailsPAID.ajax] onto handler 'vodDetailsPAIDController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/lineup/getChannelLineup.ajax] onto handler 'getChannelLineupController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/payPerView/getEventOfferingsForDays.ajax] onto handler 'getEventOfferingsForDaysController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/payPerView/purchaseCancel.ajax] onto handler 'purchaseCancelController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/br/updateReminder.ajax] onto handler 'brUpdateReminderController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/epg/getProgramsWithinTimeWindow.ajax] onto handler 'getProgramsWithinTimeWindowController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/vod/playlistPlaybackInfo.ajax] onto handler 'playlistPlaybackInfoController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/longPoll.ajax] onto handler 'longPollController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/lineup/getAvailableChannelLineups.ajax] onto handler 'getAvailableChannelLineupsController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/conditionalAccess/setEquipmentInformationMap.ajax] onto handler 'setEquipmentInformationMapController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/conditionalAccess/getEquipmentInformation.ajax] onto handler 'getEquipmentInformationController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/payPerView/purchaseEvent.ajax] onto handler 'purchaseEventController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/vod/vodOfferingsById.ajax] onto handler 'vodOfferingsByIdController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/vod/downloadOptions.ajax] onto handler 'vodDownloadOptionsController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/lineup/resetChannelLineupItems.ajax] onto handler 'resetChannelLineupItemsController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/bandwidth/clearConflict.ajax] onto handler 'clearConflictController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/epg/getProgramsForTimeSlot.ajax] onto handler 'getProgramsForTimeSlotController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/payPerView/listOfferings.ajax] onto handler 'listOfferingsController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/epg/getEpgSlidingWindow.ajax] onto handler 'getEpgSlidingWindowController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/vod/vodCategoryTree.ajax] onto handler 'vodCategoryTreeController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/vod/playbackInfo.ajax] onto handler 'vodPlaybackInfoController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/payPerView/purchaseBlock.ajax] onto handler 'purchaseBlockController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/sspmessage/toSubscriber.ajax] onto handler 'sspMessageToSubscriberController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/statistics/getConfiguration.ajax] onto handler 'getStatisticsConfigController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/br/deleteReminder.ajax] onto handler 'brDeleteReminderController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/payPerView/purchaseBundle.ajax] onto handler 'purchaseBundleController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/vod/playbackInfoDownload.ajax] onto handler 'vodPlaybackInfoDownloadController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/vod/vodListForCategory.ajax] onto handler 'vodListForCategoryController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/vod/vodSubscribedServices.ajax] onto handler 'vodSubscribedServicesController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/vod/vodListForServices.ajax] onto handler 'vodListForServicesController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/centralSearch/autocomplete.ajax] onto handler 'autoCompleteController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/epg/getCatchupInfo.ajax] onto handler 'getCatchupInfoController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/vod/downloadFailed.ajax] onto handler 'vodDownloadFailedController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/vod/vodRentConfirm.ajax] onto handler 'vodRentConfirmController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/vod/setBookmarkPlaylist.ajax] onto handler 'setBookmarkPlaylistController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/statistics/sendEvents.ajax] onto handler 'sendEventsController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/epg/getCurrentProgram.ajax] onto handler 'currentProgramController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/channel/getManagedStreams.ajax] onto handler 'getManagedStreamsController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/charging/getBalance.ajax] onto handler 'getBalanceController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/vod/vodRent.ajax] onto handler 'vodRentController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/payPerView/cancelPurchasedOffering.ajax] onto handler 'cancelPurchasedOfferingController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/lineup/updateChannelLineupDetails.ajax] onto handler 'updateChannelLineupDetailsController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/vod/svodList.ajax] onto handler 'svodListController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/channel/getTimeshiftInfo.ajax] onto handler 'getTimeshiftInfoController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/vod/vodRentCancel.ajax] onto handler 'vodRentCancelController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/vod/playlistDownloadInfo.ajax] onto handler 'playlistDownloadInfoController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/lineup/updateChannelLineupItems.ajax] onto handler 'updateChannelLineupItemsController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/bandwidth/getBandwidth.ajax] onto handler 'getBandwidthUsageController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/vod/downloadInfo.ajax] onto handler 'vodDownloadInfoController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/bandwidth/getConflicts.ajax] onto handler 'getConflictsController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/epg/getProgramList.ajax] onto handler 'programListController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/channel/getAllChannels.ajax] onto handler 'getAllChannelsController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/channel/resetUserChannelList.ajax] onto handler 'resetUserChannelListController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/epg/getProgramsForIds.ajax] onto handler 'ProgramInfoForIdsController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/channel/getQoeConfig.ajax] onto handler 'getQoeConfigController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/conditionalAccess/getEquipmentContentAccessInformation.ajax] onto handler 'getEquipmentContentAccessInformationController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/br/getAllReminders.ajax] onto handler 'brGetAllRemindersController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/sspmessage/toDevice.ajax] onto handler 'sspMessageToDeviceController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/lineup/createChannelLineup.ajax] onto handler 'createChannelLineupController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/centralSearch/search.ajax] onto handler 'searchController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/vod/vodRentals.ajax] onto handler 'myRentalsController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/payPerView/listProgramsForBundle.ajax] onto handler 'listProgramsForBundleController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/vod/playlistPlaybackInfoDownload.ajax] onto handler 'playlistPlaybackInfoDownloadController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/channel/getPhysicalChannelList.ajax] onto handler 'getPhysicalChannelListController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/centralSearch/searchResult.ajax] onto handler 'searchResultController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/channel/getSubscriberChannelList.ajax] onto handler 'getSubscriberChannelListController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/lineup/deleteChannelLineup.ajax] onto handler 'deleteChannelLineupController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/charging/history.ajax] onto handler 'purchaseHistoryController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/payPerView/listPurchases.ajax] onto handler 'listPurchasesController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/centralSearch/advancedSearch.ajax] onto handler 'advancedSearchController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/channel/getUserChannelList.ajax] onto handler 'getUserChannelListController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/conditionalAccess/setEquipmentInformation.ajax] onto handler 'setEquipmentInformationController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/vod/vodServices.ajax] onto handler 'vodServicesController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/bandwidth/reportConflict.ajax] onto handler 'reportConflictController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/cdsConf.ajax] onto handler 'cdsConfController'
+Mar 26, 2018 6:02:30 PM com.ericsson.iptv.portal.fw.spring.ValidatingUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/payPerView/purchaseConfirm.ajax] onto handler 'purchaseConfirmController'
+Mar 26, 2018 6:02:30 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/sspSender.html] onto handler 'sspMockSenderController'
+Mar 26, 2018 6:02:30 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/exportMockData.html] onto handler 'exportMockDataController'
+Mar 26, 2018 6:02:30 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/reloadMockData.html] onto handler 'reloadMockDataController'
+Mar 26, 2018 6:02:30 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/importMockData.html] onto handler 'importMockDataController'
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/bookmark/setBookmark.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.bookmark.BookmarkInfo com.ericsson.iptv.portal.backend.bookmark.BookmarkService.setBookmark(java.lang.String,java.lang.String,com.ericsson.iptv.portal.backend.bookmark.CreateBookmarkInfo) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/bookmark/deleteBookmarks.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract void com.ericsson.iptv.portal.backend.bookmark.BookmarkService.deleteBookmarks(java.lang.String,com.ericsson.iptv.portal.backend.bookmark.DeleteInfoObject) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/bookmark/getBookmarks.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract java.util.List<com.ericsson.iptv.portal.backend.bookmark.BookmarkInfo> com.ericsson.iptv.portal.backend.bookmark.BookmarkService.getBookmarks(java.lang.String) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/getAllRecordingsOld.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract java.util.List<com.ericsson.iptv.portal.backend.pvr.RecordingInfo> com.ericsson.iptv.portal.backend.pvr.PvrService.getAllRecordingsOld(java.lang.String,java.lang.String,java.lang.String,com.ericsson.iptv.portal.backend.pvr.RecordingType,boolean) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/getConflictingRecordingIds.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract java.util.List<java.lang.String> com.ericsson.iptv.portal.backend.pvr.PvrService.getConflictingRecordingIds(java.lang.String,java.lang.String) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/getLpvrPlaybackInfo.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.pvr.LpvrPlaybackInfo com.ericsson.iptv.portal.backend.pvr.PvrService.getLpvrPlaybackInfo(java.lang.String,java.lang.String,java.lang.String) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/getNpvrPlaybackInfo.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.pvr.PvrPlaybackObject com.ericsson.iptv.portal.backend.pvr.PvrService.getNpvrPlaybackInfo(java.lang.String,java.lang.String,java.lang.String,com.ericsson.iptv.portal.common.backend.PortalMode,java.util.List<com.ericsson.iptv.portal.backend.channel.PortalStreamType>) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/scheduleProgramBasedRecording.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.pvr.RecordingInfo com.ericsson.iptv.portal.backend.pvr.PvrService.scheduleProgramBasedRecording(java.lang.String,java.lang.String,com.ericsson.iptv.portal.backend.pvr.ProgramBasedRecordingInfo) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/scheduleTimeBasedRecording.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.pvr.RecordingInfo com.ericsson.iptv.portal.backend.pvr.PvrService.scheduleTimeBasedRecording(java.lang.String,java.lang.String,com.ericsson.iptv.portal.backend.pvr.TimeBasedRecordingInfo) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/scheduleCriteriaBasedRecordingSet.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.pvr.RecordingSetInfo com.ericsson.iptv.portal.backend.pvr.PvrService.scheduleCriteriaBasedRecordingSet(java.lang.String,java.lang.String,com.ericsson.iptv.portal.backend.pvr.CriteriaBasedRecordingSetInfo) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/scheduleRecurringTimeBasedRecordingSet.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.pvr.RecordingSetInfo com.ericsson.iptv.portal.backend.pvr.PvrService.scheduleRecurringTimeBasedRecordingSet(java.lang.String,java.lang.String,com.ericsson.iptv.portal.backend.pvr.RecurringTimeBasedRecordingSetInfo) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/cancelRecordingSet.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract java.util.List<com.ericsson.iptv.portal.backend.pvr.RecordingSetInfo> com.ericsson.iptv.portal.backend.pvr.PvrService.cancelRecordingSet(java.lang.String,java.lang.String,java.lang.String,com.ericsson.iptv.portal.backend.pvr.CancelRecordingSet) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/deleteRecordingSet.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract java.util.List<com.ericsson.iptv.portal.backend.pvr.RecordingSetInfo> com.ericsson.iptv.portal.backend.pvr.PvrService.deleteRecordingSet(java.lang.String,java.lang.String,java.lang.String,com.ericsson.iptv.portal.backend.pvr.DeleteRecordingSet) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/syncLocalRecordings.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.pvr.SyncedRecordings com.ericsson.iptv.portal.backend.pvr.PvrService.syncLocalRecordings(java.lang.String,java.lang.String,com.ericsson.iptv.portal.backend.pvr.SyncLocalRecordingInfo) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/getLocalRecordingVersions.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract java.util.Map<java.lang.String, java.lang.Long> com.ericsson.iptv.portal.backend.pvr.PvrService.getLocalRecordingVersions(java.lang.String) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/updateLocalRecordingCaptureInfo.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract java.util.List<com.ericsson.iptv.portal.backend.pvr.LocalRecordingInfo> com.ericsson.iptv.portal.backend.pvr.PvrService.updateLocalRecordingCaptureInfo(java.lang.String,java.lang.String,com.ericsson.iptv.portal.backend.pvr.RecordingCaptureInfos) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/getLocalRecordingsById.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract java.util.Map<java.lang.String, com.ericsson.iptv.portal.backend.pvr.LocalRecordingInfo> com.ericsson.iptv.portal.backend.pvr.PvrService.getLocalRecordingsById(java.lang.String,java.lang.String,java.util.List<java.lang.String>) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/scheduleTimeBasedLocalRecordingOnDevice.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.pvr.LocalRecordingInfo com.ericsson.iptv.portal.backend.pvr.PvrService.scheduleTimeBasedLocalRecordingOnDevice(java.lang.String,java.lang.String,com.ericsson.iptv.portal.backend.pvr.TimeBasedRecordingInfo) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/scheduleProgramBasedLocalRecordingOnDevice.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.pvr.LocalRecordingInfo com.ericsson.iptv.portal.backend.pvr.PvrService.scheduleProgramBasedLocalRecordingOnDevice(java.lang.String,java.lang.String,com.ericsson.iptv.portal.backend.pvr.ProgramBasedRecordingInfo) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/updateRecordingOnDevice.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.pvr.LocalRecordingInfo com.ericsson.iptv.portal.backend.pvr.PvrService.updateRecordingOnDevice(java.lang.String,java.lang.String,com.ericsson.iptv.portal.backend.pvr.RecordingUpdateInfo) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/getConflictingInformation.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.pvr.ConflictingInfo com.ericsson.iptv.portal.backend.pvr.PvrService.getConflictingInformation(java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/getUserPvrInfo.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.pvr.UserPvrInfo com.ericsson.iptv.portal.backend.pvr.PvrService.getUserPvrInfo(java.lang.String) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/getAllRecordings.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.pvr.Recordings com.ericsson.iptv.portal.backend.pvr.PvrService.getAllRecordings(java.lang.String,java.lang.String,java.lang.String,com.ericsson.iptv.portal.backend.pvr.RecordingType,boolean,boolean) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/getAllRecordingSets.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract java.util.List<com.ericsson.iptv.portal.backend.pvr.RecordingSetInfo> com.ericsson.iptv.portal.backend.pvr.PvrService.getAllRecordingSets(java.lang.String,java.lang.String,java.lang.String,boolean) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/getDeviceRecordings.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract java.util.List<com.ericsson.iptv.portal.backend.pvr.RecordingInfo> com.ericsson.iptv.portal.backend.pvr.PvrService.getDeviceRecordings(java.lang.String,java.lang.String) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/deleteRecording.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.pvr.Recordings com.ericsson.iptv.portal.backend.pvr.PvrService.deleteRecording(java.lang.String,java.lang.String,java.lang.String,com.ericsson.iptv.portal.backend.pvr.DeleteRecording) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/updateRecording.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.pvr.Recordings com.ericsson.iptv.portal.backend.pvr.PvrService.updateRecording(java.lang.String,java.lang.String,java.lang.String,com.ericsson.iptv.portal.backend.pvr.RecordingUpdateInfo) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/updateRecordingSet.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract java.util.List<com.ericsson.iptv.portal.backend.pvr.RecordingSetInfo> com.ericsson.iptv.portal.backend.pvr.PvrService.updateRecordingSet(java.lang.String,java.lang.String,java.lang.String,com.ericsson.iptv.portal.backend.pvr.RecordingSetUpdateInfo) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/updateRecordingCaptureInfo.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.pvr.Recordings com.ericsson.iptv.portal.backend.pvr.PvrService.updateRecordingCaptureInfo(java.lang.String,java.lang.String,java.lang.String,com.ericsson.iptv.portal.backend.pvr.RecordingCaptureInfo) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/getNetworkQuota.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.pvr.NetworkQuota com.ericsson.iptv.portal.backend.pvr.PvrService.getNetworkQuota(java.lang.String) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/pvr/getPrograms.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract java.util.Map<java.lang.String, com.ericsson.iptv.portal.backend.epg.ProgramInfo> com.ericsson.iptv.portal.backend.pvr.PvrService.getProgramsForChannel(java.lang.String,java.lang.String,java.lang.Long,java.lang.String,java.lang.String,java.lang.Boolean) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/subscription/removeAccount.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract void com.ericsson.iptv.portal.backend.subscription.SubscriptionService.removeUser(java.lang.String,com.ericsson.iptv.portal.fw.usermodel.UserType,com.ericsson.iptv.portal.backend.subscription.RemoveUser) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/subscription/logout.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract void com.ericsson.iptv.portal.backend.subscription.SubscriptionService.logout() throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/subscription/addAccount.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.subscription.UserInfo com.ericsson.iptv.portal.backend.subscription.SubscriptionService.addUser(java.lang.String,java.lang.String,com.ericsson.iptv.portal.backend.subscription.CreateUser) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/subscription/login.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract void com.ericsson.iptv.portal.backend.subscription.SubscriptionService.validatePin(java.lang.String,java.lang.String,com.ericsson.iptv.portal.backend.subscription.ValidatePin) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/subscription/listAccounts.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.subscription.UserList com.ericsson.iptv.portal.backend.subscription.SubscriptionService.getUserList(java.lang.String,java.lang.String) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/subscription/getUserInformation.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.subscription.UserInfo com.ericsson.iptv.portal.backend.subscription.SubscriptionService.getUserInformation(java.lang.String,java.lang.String,java.lang.String) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/subscription/listDevices.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract java.util.List<com.ericsson.iptv.portal.backend.subscription.DeviceInfo> com.ericsson.iptv.portal.backend.subscription.SubscriptionService.getDeviceList(java.lang.String) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/subscription/getSubscriberInformation.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.subscription.SubscriberInfo com.ericsson.iptv.portal.backend.subscription.SubscriptionService.getSubscriptionInformation(java.lang.String) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/subscription/updateAccount.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract void com.ericsson.iptv.portal.backend.subscription.SubscriptionService.updateUser(java.lang.String,com.ericsson.iptv.portal.fw.usermodel.UserType,com.ericsson.iptv.portal.backend.subscription.UpdateUser) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/subscription/addDevice.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract com.ericsson.iptv.portal.backend.subscription.DeviceInfo com.ericsson.iptv.portal.backend.subscription.SubscriptionService.addDevice(java.lang.String,com.ericsson.iptv.portal.backend.subscription.CreateDevice) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/subscription/removeDevice.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract void com.ericsson.iptv.portal.backend.subscription.SubscriptionService.removeDevice(java.lang.String,com.ericsson.iptv.portal.backend.subscription.RemoveDevice) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/subscription/updateDevice.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract java.util.List<com.ericsson.iptv.portal.backend.subscription.DeviceInfo> com.ericsson.iptv.portal.backend.subscription.SubscriptionService.updateDevice(java.lang.String,com.ericsson.iptv.portal.backend.subscription.UpdateDevice) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/private/subscription/setModel.ajax],methods=[POST],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract void com.ericsson.iptv.portal.mock.subscription.UpdateModelService.setModel(java.lang.String,com.ericsson.iptv.portal.mock.subscription.SetModel) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'stbportal': initialization completed in 2453 ms
+Mar 26, 2018 6:02:31 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-coreapps-backend-mock-war-17.0.22.war has finished in 3,120 ms
+Mar 26, 2018 6:02:31 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-coreapps-war-17.0.22.war
+Mar 26, 2018 6:02:31 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:31 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'stbportal': initialization started
+Mar 26, 2018 6:02:31 PM org.springframework.web.context.support.XmlWebApplicationContext prepareRefresh
+INFO: Refreshing WebApplicationContext for namespace 'stbportal-servlet': startup date [Mon Mar 26 18:02:31 IST 2018]; root of context hierarchy
+Mar 26, 2018 6:02:31 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from ServletContext resource [/WEB-INF/stbportal-servlet.xml]
+Mar 26, 2018 6:02:31 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from class path resource [META-INF/common-mvc-beans.xml]
+Mar 26, 2018 6:02:31 PM org.hibernate.validator.internal.util.Version <clinit>
+INFO: HV000001: Hibernate Validator 4.3.1.Final
+Mar 26, 2018 6:02:31 PM org.springframework.beans.factory.support.DefaultListableBeanFactory preInstantiateSingletons
+INFO: Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@26606839: defining beans [com.ericsson.iptv.portal.coreapps.preferences.UpgradeAvailableTimePreferenceBasis#0,com.ericsson.iptv.portal.coreapps.preferences.LoadToStandbyAfterRebootPreferenceBasis#0,com.ericsson.iptv.portal.coreapps.preferences.EpgCacheDaysPreferenceDefinition#0,com.ericsson.iptv.portal.reboot.RebootLogicFilter#0,com.ericsson.iptv.portal.pvr.RecorderProxyFilter#0,currentRequestComponent,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.jboss.logging.JbossLoggingRuntimeCheck#0,validator,org.springframework.validation.beanvalidation.MethodValidationPostProcessor#0,txManager,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.transaction.annotation.AnnotationTransactionAttributeSource#0,org.springframework.transaction.interceptor.TransactionInterceptor#0,org.springframework.transaction.config.internalTransactionAdvisor,mbeanServer,artifactBase,artifactInfo,com.ericsson.iptv.portal.fw.logdisabler.LogDisabler#0,migrationManager,servletFilterManager,dynamicFilterManager,artifactFilterManager,filterManager,periodicPollManager,constraintManager,preferenceManager,fwModuleFactory,discoveryManager,notificationManager,fwConfigUser,initParameterManager,userModelUser,httpRequestUser,widgetConfigManager,interceptorManager,portalInterceptors,com.ericsson.iptv.portal.fw.spring.PatchedRequestMappingHandlerAdapter#0,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter#0,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.web.servlet.view.BeanNameViewResolver#0,jsonView,exceptionResolver,javax.servlet.http.HttpServletResponse.SC_BAD_REQUEST,defaultExceptionView,bindExceptionView,forbiddenView,methodNotAllowedView,mediaTypeNotSupportedView,parseExceptionView,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+Mar 26, 2018 6:02:32 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'stbportal': initialization completed in 843 ms
+Mar 26, 2018 6:02:32 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-coreapps-war-17.0.22.war has finished in 1,280 ms
+Mar 26, 2018 6:02:32 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-form-based-auth-war-17.0.22.war
+Mar 26, 2018 6:02:32 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:32 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'stbportal': initialization started
+Mar 26, 2018 6:02:32 PM org.springframework.web.context.support.XmlWebApplicationContext prepareRefresh
+INFO: Refreshing WebApplicationContext for namespace 'stbportal-servlet': startup date [Mon Mar 26 18:02:32 IST 2018]; root of context hierarchy
+Mar 26, 2018 6:02:32 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from ServletContext resource [/WEB-INF/stbportal-servlet.xml]
+Mar 26, 2018 6:02:32 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from class path resource [META-INF/common-mvc-beans.xml]
+Mar 26, 2018 6:02:33 PM org.hibernate.validator.internal.util.Version <clinit>
+INFO: HV000001: Hibernate Validator 4.3.1.Final
+Mar 26, 2018 6:02:33 PM org.springframework.beans.factory.support.DefaultListableBeanFactory preInstantiateSingletons
+INFO: Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@45da8280: defining beans [authMethodConstraintProvider,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,currentRequestComponent,org.jboss.logging.JbossLoggingRuntimeCheck#0,validator,org.springframework.validation.beanvalidation.MethodValidationPostProcessor#0,txManager,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.transaction.annotation.AnnotationTransactionAttributeSource#0,org.springframework.transaction.interceptor.TransactionInterceptor#0,org.springframework.transaction.config.internalTransactionAdvisor,mbeanServer,artifactBase,artifactInfo,com.ericsson.iptv.portal.fw.logdisabler.LogDisabler#0,migrationManager,servletFilterManager,dynamicFilterManager,artifactFilterManager,filterManager,periodicPollManager,constraintManager,preferenceManager,fwModuleFactory,discoveryManager,notificationManager,fwConfigUser,initParameterManager,userModelUser,httpRequestUser,widgetConfigManager,interceptorManager,portalInterceptors,com.ericsson.iptv.portal.fw.spring.PatchedRequestMappingHandlerAdapter#0,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter#0,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.web.servlet.view.BeanNameViewResolver#0,jsonView,exceptionResolver,javax.servlet.http.HttpServletResponse.SC_BAD_REQUEST,defaultExceptionView,bindExceptionView,forbiddenView,methodNotAllowedView,mediaTypeNotSupportedView,parseExceptionView,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+Mar 26, 2018 6:02:33 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'stbportal': initialization completed in 545 ms
+Mar 26, 2018 6:02:33 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-form-based-auth-war-17.0.22.war has finished in 929 ms
+Mar 26, 2018 6:02:33 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-fw-war-17.0.22.war
+Mar 26, 2018 6:02:33 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:33 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'stbportal': initialization started
+Mar 26, 2018 6:02:33 PM org.springframework.web.context.support.XmlWebApplicationContext prepareRefresh
+INFO: Refreshing WebApplicationContext for namespace 'stbportal-servlet': startup date [Mon Mar 26 18:02:33 IST 2018]; root of context hierarchy
+Mar 26, 2018 6:02:33 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from ServletContext resource [/WEB-INF/stbportal-servlet.xml]
+Mar 26, 2018 6:02:33 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from class path resource [META-INF/common-mvc-beans.xml]
+Mar 26, 2018 6:02:34 PM org.hibernate.validator.internal.util.Version <clinit>
+INFO: HV000001: Hibernate Validator 4.3.1.Final
+Mar 26, 2018 6:02:34 PM org.springframework.beans.factory.support.DefaultListableBeanFactory preInstantiateSingletons
+INFO: Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2aed4c80: defining beans [cacheInitParameter,cacheInterceptor,publicDataCacheMaxAgePreference,staticDataCacheControl,aspectConstraintProvider,authLevelConstraintProvider,buildModeConstraintProvider,localeConstraintProvider,markupConstraintProvider,skinConstraintProvider,stateConstraintProvider,baseUrlsInitParameter,dataSyncInitParameter,configuredFilterProvider,GZIPServletFilter,logInitParameter,periodicPollInitParameter,devicePluginBean,rollbackFilter,skinPreferenceOptions,coreModuleInitParameterProvider,coreModuleInitParameterProviderWidget,disableDirectoryListings,maxParallelRequestsInitParameter,multiFetchInitParameterProvider,partitionPrefixInitParameterProvider,restartMsgProviderHtml,restartMsgProviderSvg,splashScreenProviderHtml,splashScreenProviderSvg,subscriberLocaleInitParameter,deviceIdPreferenceStorage,userIdPreferenceStorage,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,urlMapping,viewResolver,htmlIndexController,svgIndexController,preferenceBean,pollBean,fwSwBean,deviceDiscoveryBean,getPreferencesController,putPreferencesController,defPreferencesController,swController,swMigrateController,multiModuleController,periodicPollController,periodicPoll2Controller,logBean,logController,batchLogController,deviceDiscoveryController,deviceInfoController,deviceRediscoveryController,cacheManager,com.ericsson.iptv.portal.fw.backend.request.mbean.HttpRequestManager#0,com.ericsson.iptv.portal.fw.backend.preferences.SubscriberIdPreferenceStorage#0,historyManagerFilter,currentRequestComponent,org.jboss.logging.JbossLoggingRuntimeCheck#0,validator,org.springframework.validation.beanvalidation.MethodValidationPostProcessor#0,txManager,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.transaction.annotation.AnnotationTransactionAttributeSource#0,org.springframework.transaction.interceptor.TransactionInterceptor#0,org.springframework.transaction.config.internalTransactionAdvisor,mbeanServer,artifactBase,artifactInfo,com.ericsson.iptv.portal.fw.logdisabler.LogDisabler#0,migrationManager,servletFilterManager,dynamicFilterManager,artifactFilterManager,filterManager,periodicPollManager,constraintManager,preferenceManager,fwModuleFactory,discoveryManager,notificationManager,fwConfigUser,initParameterManager,userModelUser,httpRequestUser,widgetConfigManager,interceptorManager,portalInterceptors,com.ericsson.iptv.portal.fw.spring.PatchedRequestMappingHandlerAdapter#0,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter#0,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.web.servlet.view.BeanNameViewResolver#0,jsonView,exceptionResolver,javax.servlet.http.HttpServletResponse.SC_BAD_REQUEST,defaultExceptionView,bindExceptionView,forbiddenView,methodNotAllowedView,mediaTypeNotSupportedView,parseExceptionView,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+Mar 26, 2018 6:02:34 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/poll.ajax] onto handler 'periodicPollController'
+Mar 26, 2018 6:02:34 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/public/modules.ajax] onto handler 'multiModuleController'
+Mar 26, 2018 6:02:34 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/devicediscovery.ajax] onto handler 'deviceDiscoveryController'
+Mar 26, 2018 6:02:34 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/index*.svg] onto handler 'svgIndexController'
+Mar 26, 2018 6:02:34 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/index*.html] onto handler 'htmlIndexController'
+Mar 26, 2018 6:02:34 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/sw_migrate.ajax] onto handler 'swMigrateController'
+Mar 26, 2018 6:02:34 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/devicediscovery/deviceInfo.ajax] onto handler 'deviceInfoController'
+Mar 26, 2018 6:02:34 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/sw.ajax] onto handler 'swController'
+Mar 26, 2018 6:02:34 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/lifecycle/rediscover.ajax] onto handler 'deviceRediscoveryController'
+Mar 26, 2018 6:02:34 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/poll2.ajax] onto handler 'periodicPoll2Controller'
+Mar 26, 2018 6:02:34 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/preferences/put.ajax] onto handler 'putPreferencesController'
+Mar 26, 2018 6:02:34 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/preferences/def.ajax] onto handler 'defPreferencesController'
+Mar 26, 2018 6:02:34 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/batchLog.ajax] onto handler 'batchLogController'
+Mar 26, 2018 6:02:34 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/devicediscovery/discover.ajax] onto handler 'deviceDiscoveryController'
+Mar 26, 2018 6:02:34 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/preferences/get.ajax] onto handler 'getPreferencesController'
+Mar 26, 2018 6:02:34 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/private/log.ajax] onto handler 'logController'
+Mar 26, 2018 6:02:34 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/public/deviceplugin/getPlugins.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract java.util.List<com.ericsson.iptv.portal.fw.backend.plugin.DevicePluginInfo> com.ericsson.iptv.portal.fw.backend.plugin.DevicePluginService.getPluginInfo(java.lang.String,java.lang.String) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:34 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'stbportal': initialization completed in 864 ms
+Mar 26, 2018 6:02:34 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-fw-war-17.0.22.war has finished in 1,312 ms
+Mar 26, 2018 6:02:34 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-imageprocessor-war-17.0.22.war
+Mar 26, 2018 6:02:35 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:35 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'stbportal': initialization started
+Mar 26, 2018 6:02:35 PM org.springframework.web.context.support.XmlWebApplicationContext prepareRefresh
+INFO: Refreshing WebApplicationContext for namespace 'stbportal-servlet': startup date [Mon Mar 26 18:02:35 IST 2018]; root of context hierarchy
+Mar 26, 2018 6:02:35 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from ServletContext resource [/WEB-INF/stbportal-servlet.xml]
+Mar 26, 2018 6:02:35 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from class path resource [META-INF/common-mvc-beans.xml]
+Mar 26, 2018 6:02:35 PM org.hibernate.validator.internal.util.Version <clinit>
+INFO: HV000001: Hibernate Validator 4.3.1.Final
+Mar 26, 2018 6:02:35 PM org.springframework.beans.factory.support.DefaultListableBeanFactory preInstantiateSingletons
+INFO: Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7179dcd8: defining beans [imageScalerBean,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,configUser,currentRequestComponent,org.jboss.logging.JbossLoggingRuntimeCheck#0,validator,org.springframework.validation.beanvalidation.MethodValidationPostProcessor#0,txManager,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.transaction.annotation.AnnotationTransactionAttributeSource#0,org.springframework.transaction.interceptor.TransactionInterceptor#0,org.springframework.transaction.config.internalTransactionAdvisor,mbeanServer,artifactBase,artifactInfo,com.ericsson.iptv.portal.fw.logdisabler.LogDisabler#0,migrationManager,servletFilterManager,dynamicFilterManager,artifactFilterManager,filterManager,periodicPollManager,constraintManager,preferenceManager,fwModuleFactory,discoveryManager,notificationManager,fwConfigUser,initParameterManager,userModelUser,httpRequestUser,widgetConfigManager,interceptorManager,portalInterceptors,com.ericsson.iptv.portal.fw.spring.PatchedRequestMappingHandlerAdapter#0,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter#0,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.web.servlet.view.BeanNameViewResolver#0,jsonView,exceptionResolver,javax.servlet.http.HttpServletResponse.SC_BAD_REQUEST,defaultExceptionView,bindExceptionView,forbiddenView,methodNotAllowedView,mediaTypeNotSupportedView,parseExceptionView,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+Mar 26, 2018 6:02:35 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/static/imageCoverScaler.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract void com.ericsson.iptv.portal.common.imagescaler.ImageScalerService.getScaledCoverImage(javax.servlet.http.HttpServletResponse,int,int,int,java.net.URI) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:35 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/public/imageScaler.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract void com.ericsson.iptv.portal.common.imagescaler.ImageScalerService.getScaledImageOld(javax.servlet.http.HttpServletResponse,int,int,int,java.net.URI) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:35 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/static/imageScaler.ajax],methods=[GET],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public abstract void com.ericsson.iptv.portal.common.imagescaler.ImageScalerService.getScaledImage(javax.servlet.http.HttpServletResponse,int,int,int,java.net.URI) throws com.ericsson.iptv.portal.fw.exceptions.PortalException
+Mar 26, 2018 6:02:35 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'stbportal': initialization completed in 850 ms
+Mar 26, 2018 6:02:35 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-imageprocessor-war-17.0.22.war has finished in 1,303 ms
+Mar 26, 2018 6:02:35 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-multiscreen-device-ott-war-3.5.1.war
+Mar 26, 2018 6:02:36 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:36 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'portal': initialization started
+Mar 26, 2018 6:02:36 PM org.springframework.web.context.support.XmlWebApplicationContext prepareRefresh
+INFO: Refreshing WebApplicationContext for namespace 'portal-servlet': startup date [Mon Mar 26 18:02:36 IST 2018]; root of context hierarchy
+Mar 26, 2018 6:02:36 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from ServletContext resource [/WEB-INF/portal-servlet.xml]
+Mar 26, 2018 6:02:36 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from class path resource [META-INF/common-mvc-beans.xml]
+Mar 26, 2018 6:02:36 PM org.hibernate.validator.internal.util.Version <clinit>
+INFO: HV000001: Hibernate Validator 4.3.1.Final
+Mar 26, 2018 6:02:36 PM org.springframework.beans.factory.support.DefaultListableBeanFactory preInstantiateSingletons
+INFO: Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1c651c9c: defining beans [com.ericsson.iptv.portal.multiscreenapps.device.ott.ServiceControl.ServiceControlPreferenceBasis#0,currentRequestComponent,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.jboss.logging.JbossLoggingRuntimeCheck#0,validator,org.springframework.validation.beanvalidation.MethodValidationPostProcessor#0,txManager,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.transaction.annotation.AnnotationTransactionAttributeSource#0,org.springframework.transaction.interceptor.TransactionInterceptor#0,org.springframework.transaction.config.internalTransactionAdvisor,mbeanServer,artifactBase,artifactInfo,com.ericsson.iptv.portal.fw.logdisabler.LogDisabler#0,migrationManager,servletFilterManager,dynamicFilterManager,artifactFilterManager,filterManager,periodicPollManager,constraintManager,preferenceManager,fwModuleFactory,discoveryManager,notificationManager,fwConfigUser,initParameterManager,userModelUser,httpRequestUser,widgetConfigManager,interceptorManager,portalInterceptors,com.ericsson.iptv.portal.fw.spring.PatchedRequestMappingHandlerAdapter#0,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter#0,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.web.servlet.view.BeanNameViewResolver#0,jsonView,exceptionResolver,javax.servlet.http.HttpServletResponse.SC_BAD_REQUEST,defaultExceptionView,bindExceptionView,forbiddenView,methodNotAllowedView,mediaTypeNotSupportedView,parseExceptionView,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+Mar 26, 2018 6:02:37 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'portal': initialization completed in 577 ms
+Mar 26, 2018 6:02:37 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-multiscreen-device-ott-war-3.5.1.war has finished in 1,100 ms
+Mar 26, 2018 6:02:37 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-ott-device-web-war-2.6.1.war
+Mar 26, 2018 6:02:37 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:37 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-ott-device-web-war-2.6.1.war has finished in 68 ms
+Mar 26, 2018 6:02:37 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-root-war.war
+Mar 26, 2018 6:02:37 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:37 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-root-war.war has finished in 53 ms
+Mar 26, 2018 6:02:37 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-widgettool-war-17.0.22.war
+Mar 26, 2018 6:02:37 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:37 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'stbportal': initialization started
+Mar 26, 2018 6:02:37 PM org.springframework.web.context.support.XmlWebApplicationContext prepareRefresh
+INFO: Refreshing WebApplicationContext for namespace 'stbportal-servlet': startup date [Mon Mar 26 18:02:37 IST 2018]; root of context hierarchy
+Mar 26, 2018 6:02:37 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from ServletContext resource [/WEB-INF/stbportal-servlet.xml]
+Mar 26, 2018 6:02:37 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from class path resource [META-INF/common-mvc-beans.xml]
+Mar 26, 2018 6:02:37 PM org.springframework.beans.factory.support.DefaultListableBeanFactory registerBeanDefinition
+INFO: Overriding bean definition for bean 'filterManager': replacing [Generic bean: class [com.ericsson.iptv.portal.fw.filter.mbean.FilterManager]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in ServletContext resource [/WEB-INF/stbportal-servlet.xml]] with [Generic bean: class [com.ericsson.iptv.portal.fw.filter.mbean.FilterManager]; scope=; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in class path resource [META-INF/common-mvc-beans.xml]]
+Mar 26, 2018 6:02:37 PM org.hibernate.validator.internal.util.Version <clinit>
+INFO: HV000001: Hibernate Validator 4.3.1.Final
+Mar 26, 2018 6:02:38 PM org.springframework.beans.factory.support.DefaultListableBeanFactory preInstantiateSingletons
+INFO: Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2cad34dd: defining beans [filterManager,urlMapping,viewResolver,swArchiveBean,com.ericsson.iptv.portal.fw.widgettool.provider.UrlParameterProvider#0,artifactFilterWidget,widgetToolServlet,currentRequestComponent,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.jboss.logging.JbossLoggingRuntimeCheck#0,validator,org.springframework.validation.beanvalidation.MethodValidationPostProcessor#0,txManager,org.springframework.aop.config.internalAutoProxyCreator,org.springframework.transaction.annotation.AnnotationTransactionAttributeSource#0,org.springframework.transaction.interceptor.TransactionInterceptor#0,org.springframework.transaction.config.internalTransactionAdvisor,mbeanServer,artifactBase,artifactInfo,com.ericsson.iptv.portal.fw.logdisabler.LogDisabler#0,migrationManager,servletFilterManager,dynamicFilterManager,artifactFilterManager,periodicPollManager,constraintManager,preferenceManager,fwModuleFactory,discoveryManager,notificationManager,fwConfigUser,initParameterManager,userModelUser,httpRequestUser,widgetConfigManager,interceptorManager,portalInterceptors,com.ericsson.iptv.portal.fw.spring.PatchedRequestMappingHandlerAdapter#0,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter#0,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.web.servlet.view.BeanNameViewResolver#0,jsonView,exceptionResolver,javax.servlet.http.HttpServletResponse.SC_BAD_REQUEST,defaultExceptionView,bindExceptionView,forbiddenView,methodNotAllowedView,mediaTypeNotSupportedView,parseExceptionView,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+Mar 26, 2018 6:02:38 PM org.springframework.web.servlet.handler.SimpleUrlHandlerMapping registerHandler
+INFO: Mapped URL path [/widgettool] onto handler 'widgetToolServlet'
+Mar 26, 2018 6:02:38 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'stbportal': initialization completed in 589 ms
+Mar 26, 2018 6:02:38 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/portal-widgettool-war-17.0.22.war has finished in 1,071 ms
+Mar 26, 2018 6:02:38 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/private.war
+Mar 26, 2018 6:02:38 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:38 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/private.war has finished in 52 ms
+Mar 26, 2018 6:02:38 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/public.war
+Mar 26, 2018 6:02:38 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:38 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/public.war has finished in 55 ms
+Mar 26, 2018 6:02:38 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/scf-backend-mock.war
+Mar 26, 2018 6:02:38 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:39 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'scfmock': initialization started
+Mar 26, 2018 6:02:39 PM org.springframework.web.context.support.XmlWebApplicationContext prepareRefresh
+INFO: Refreshing WebApplicationContext for namespace 'scfmock-servlet': startup date [Mon Mar 26 18:02:39 IST 2018]; root of context hierarchy
+Mar 26, 2018 6:02:39 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from ServletContext resource [/WEB-INF/scfmock-servlet.xml]
+Mar 26, 2018 6:02:39 PM org.springframework.beans.factory.support.DefaultListableBeanFactory preInstantiateSingletons
+INFO: Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@8593be8: defining beans [mockScfBean,mockScfModel,scfResponseErrorMapper,scfSpringErrorHandler,contentUrlResolver,restrictionDao,restrictionPolicyService,scfConfigMBeanImpl,scfVersionManager,sessionDao,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,mbeanExporter,mvcContentNegotiationManager,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.format.support.FormattingConversionServiceFactoryBean#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter#0,org.springframework.web.servlet.handler.MappedInterceptor#0,org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver#0,org.springframework.web.servlet.mvc.annotation.ResponseStatusExceptionResolver#0,org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver#0,org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter,sessionIdGenerator,tokenGenerator,tokenExpiryTimeConfiguration,heartbeatIntervalConfiguration,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; root of factory hierarchy
+Mar 26, 2018 6:02:39 PM org.springframework.jmx.export.annotation.AnnotationMBeanExporter afterPropertiesSet
+INFO: Registering beans for JMX exposure on startup
+Mar 26, 2018 6:02:39 PM org.springframework.jmx.export.annotation.AnnotationMBeanExporter autodetect
+INFO: Bean with name 'scfConfigMBeanImpl' has been autodetected for JMX exposure
+Mar 26, 2018 6:02:39 PM org.springframework.jmx.export.annotation.AnnotationMBeanExporter registerBeanInstance
+INFO: Located managed bean 'scfConfigMBeanImpl': registering with JMX server as MBean [com.ericsson.iptv.portal.mock.scf:name=ScfMockConfiguration]
+Mar 26, 2018 6:02:39 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/scf/sessions],methods=[POST],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public org.springframework.http.ResponseEntity<com.ericsson.iptv.portal.mock.scf.SessionSetupResponse> com.ericsson.iptv.portal.mock.scf.MockScfBean.setupSession(java.lang.String,com.ericsson.iptv.portal.mock.scf.model.Subscriber,com.ericsson.iptv.portal.mock.scf.model.User,com.ericsson.iptv.portal.mock.scf.model.InternalEquipmentId,com.ericsson.iptv.portal.mock.scf.model.AlternateEquipmentId,com.ericsson.iptv.portal.mock.scf.model.Content,com.ericsson.iptv.portal.mock.scf.model.Offering,com.ericsson.iptv.portal.mock.scf.model.ContentSegmentGroup,com.ericsson.iptv.portal.mock.scf.model.ContentSegment,com.ericsson.iptv.portal.mock.scf.model.ViewType,com.ericsson.iptv.portal.mock.scf.model.DeliveryMethod,java.util.List<com.ericsson.iptv.portal.mock.scf.model.Location>,java.util.List<com.ericsson.iptv.portal.mock.scf.model.Restriction>,com.ericsson.iptv.portal.mock.scf.model.Authentication,javax.servlet.http.HttpServletRequest) throws java.lang.Exception
+Mar 26, 2018 6:02:39 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/scf/sessions],methods=[GET],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public org.springframework.http.ResponseEntity<com.ericsson.iptv.portal.mock.scf.SessionQueryResponse> com.ericsson.iptv.portal.mock.scf.MockScfBean.querySessions(com.ericsson.iptv.portal.mock.scf.MockScfBean$SessionsInfoView,java.lang.String,com.ericsson.iptv.portal.mock.scf.model.Subscriber,com.ericsson.iptv.portal.mock.scf.model.User,com.ericsson.iptv.portal.mock.scf.model.InternalEquipmentId,com.ericsson.iptv.portal.mock.scf.model.AlternateEquipmentId,com.ericsson.iptv.portal.mock.scf.model.Content) throws java.lang.Exception
+Mar 26, 2018 6:02:39 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/scf/session/{sessionId}/heartbeat],methods=[PUT],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public org.springframework.http.ResponseEntity<?> com.ericsson.iptv.portal.mock.scf.MockScfBean.sessionHeartbeat(java.lang.String,java.lang.String,javax.servlet.http.HttpServletRequest) throws java.lang.Exception
+Mar 26, 2018 6:02:39 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/scf/session/{sessionId}],methods=[DELETE],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public org.springframework.http.ResponseEntity<?> com.ericsson.iptv.portal.mock.scf.MockScfBean.teardownSession(java.lang.String,java.lang.String) throws java.lang.Exception
+Mar 26, 2018 6:02:39 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/scf/session/{sessionId}],methods=[PUT],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public org.springframework.http.ResponseEntity<?> com.ericsson.iptv.portal.mock.scf.MockScfBean.updateSession(java.lang.String,java.lang.String,com.ericsson.iptv.portal.mock.scf.model.Subscriber,com.ericsson.iptv.portal.mock.scf.model.User,com.ericsson.iptv.portal.mock.scf.model.InternalEquipmentId,com.ericsson.iptv.portal.mock.scf.model.AlternateEquipmentId,com.ericsson.iptv.portal.mock.scf.model.Content,com.ericsson.iptv.portal.mock.scf.model.Offering,com.ericsson.iptv.portal.mock.scf.model.ContentSegmentGroup,com.ericsson.iptv.portal.mock.scf.model.ContentSegment,com.ericsson.iptv.portal.mock.scf.model.ViewType,com.ericsson.iptv.portal.mock.scf.model.DeliveryMethod,java.util.List<com.ericsson.iptv.portal.mock.scf.model.Location>,java.util.List<com.ericsson.iptv.portal.mock.scf.model.Restriction>,com.ericsson.iptv.portal.mock.scf.model.Authentication,javax.servlet.http.HttpServletRequest) throws java.lang.Exception
+Mar 26, 2018 6:02:39 PM org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping registerHandlerMethod
+INFO: Mapped "{[/scf/sessions],methods=[DELETE],params=[],headers=[],consumes=[],produces=[application/json],custom=[]}" onto public org.springframework.http.ResponseEntity<?> com.ericsson.iptv.portal.mock.scf.MockScfBean.deleteSessions(java.lang.String,com.ericsson.iptv.portal.mock.scf.model.Subscriber,com.ericsson.iptv.portal.mock.scf.model.User,com.ericsson.iptv.portal.mock.scf.model.InternalEquipmentId,com.ericsson.iptv.portal.mock.scf.model.AlternateEquipmentId,com.ericsson.iptv.portal.mock.scf.model.Content) throws java.lang.Exception
+Mar 26, 2018 6:02:39 PM org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver initExceptionHandlerAdviceCache
+INFO: Detected @ExceptionHandler methods in scfSpringErrorHandler
+Mar 26, 2018 6:02:39 PM org.springframework.web.servlet.DispatcherServlet initServletBean
+INFO: FrameworkServlet 'scfmock': initialization completed in 450 ms
+Mar 26, 2018 6:02:39 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/scf-backend-mock.war has finished in 1,113 ms
+Mar 26, 2018 6:02:39 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/static.war
+Mar 26, 2018 6:02:39 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Mar 26, 2018 6:02:39 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive /Users/mmp-testlab/MCS_CODE/MCS/tomcat/webapps/static.war has finished in 51 ms
+Mar 26, 2018 6:02:39 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8186"]
+Mar 26, 2018 6:02:39 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Mar 26, 2018 6:02:39 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 15637 ms

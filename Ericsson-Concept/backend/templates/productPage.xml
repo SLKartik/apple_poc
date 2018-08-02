@@ -1,0 +1,184 @@
+<document>
+    <productBundleTemplate>
+<!--        <background>-->
+<!--            <img id="poster" src=""/>-->
+<!--        </background>-->
+        <banner>
+            <stack>
+                <title id="title" style="font-weight:regular;">Movie Title</title>
+                <row>
+                    <badge id="tomato_badge" src="resource://tomato-fresh"/>
+                    <text id="tomato_rating" style="font-weight:regular;">99%</text>
+                    <text id="runtime" style="font-weight:regular;">1hr 54min</text>
+                    <text id="genre" style="font-weight:regular; ">Comedy</text>
+                    <text id="year" style="font-weight:regular; ">2015</text>
+                    <badge src="resource://mpaa-pg" class="badge" />
+                    <badge src="resource://cc" class="badge" />
+                </row>
+                <row style="margin:2.5"></row>
+                <row style="margin:2">
+                    <text style="font-weight:regular; color:black">Starring: </text>
+                    <text id="starring" style="font-weight:light; ">info not available</text>
+                </row>
+                <row>
+                    <text style="font-weight:regular; color:black">Director: </text>
+                    <text id="director" style="font-weight:light; ; ">info not available</text>
+                </row>
+                <description id="plot" style="font-weight:light; " allowsZooming="true" moreLabel="more">Plot Summary</description>
+                <row>
+                    <buttonLockup onselect="playMedia('path to video', 'video')">
+                        <badge src="resource://button-preview" />
+                        <title>Preview</title>
+                    </buttonLockup>
+                    <buttonLockup type="buy" onselect="playMedia('path to video', 'video')">
+                        <badge id="buyButton" src="resource://button-play"/>
+                        <title id="buyTitle">Play</title>
+                    </buttonLockup>
+                    <buttonLockup type ="favorite" onselect="toggleFavorite()">
+                        <badge id="favoriteButton" src="resource://button-rate" toggle="false" />
+                        <title id="likeButton">Like</title>
+                    </buttonLockup>
+                </row>
+            </stack>
+            <heroImg id="heroimg" src="http://192.168.43.140:9001/backend/resources/images/7.jpg"/>
+        </banner>
+        <shelf>
+            <header>
+                <title style="font-weight:regular; ">Related</title>
+            </header>
+            <section>
+                <lockup onselect="loadProductPage('moonlight','5')">
+                    <img src="http://192.168.43.140:9001/backend/resources/images/5.jpg" width="150" height="226" />
+                    <title>Moonlight</title>
+                </lockup>
+                <lockup onselect="loadProductPage('bright','6')">
+                    <img src="http://192.168.43.140:9001/backend/resources/images/6.jpg" width="150" height="226" />
+                    <title>Bright</title>
+                </lockup>
+                <lockup onselect="loadProductPage('coco','11')">
+                    <img src="http://192.168.43.140:9001/backend/resources/images/11.jpg" width="150" height="226" />
+                    <title>Coco</title>
+                </lockup>
+            </section>
+        </shelf>
+        <!-- Everything past this is below the fold -->
+        <shelf>
+            <header>
+                <title style="font-weight:regular">Reviews and Ratings</title>
+            </header>
+            <section>
+                <ratingCard>
+                    <title id="imdb_rating" >4.1 / 5</title>
+                    <ratingBadge id="rating_star" value="0.7"></ratingBadge>
+                    <description>Average of itune user ratings and reviews.</description>
+                </ratingCard>
+                <ratingCard>
+                    <title id="tomato_rating2"><badge id="tomato_badge2" src="resource://tomato-fresh" /></title>
+<!--                    <infoTable>-->
+<!--                        <info>-->
+<!--                            <header>-->
+<!--                                <title>175</title>-->
+<!--                            </header>-->
+<!--                            <text>Reviews</text>-->
+<!--                        </info>-->
+<!--                        <info>-->
+<!--                            <header>-->
+<!--                                <title>173</title>-->
+<!--                            </header>-->
+<!--                            <text>Fresh</text>-->
+<!--                        </info>-->
+<!--                        <info>-->
+<!--                            <header>-->
+<!--                                <title>2</title>-->
+<!--                            </header>-->
+<!--                            <text>Rotten</text>-->
+<!--                        </info>-->
+<!--                    </infoTable>-->
+                    <text>Tomatometer</text>
+                    <description>The tomatometer score is an aggregate of critics and users.</description>
+                </ratingCard>
+                <reviewCard>
+                    <badge src="resource://NZ-m" />
+                    <title id="metacritic"> 80 / 100</title>
+                    <text>Metacritic</text>
+                    <description>Metascores are weighted averages from publications.</description>
+                </reviewCard>
+            </section>
+        </shelf>
+        <shelf>
+            <header>
+                <title style="font-weight:regular">Cast and Crew</title>
+            </header>
+            <section>
+                <monogramLockup>
+                    <monogram id="crew1_mg" firstName="Anne" lastName="Johnson"/>
+                    <title id="crew1">Anne Johnson</title>
+                    <subtitle>Actor</subtitle>
+                </monogramLockup>
+                <monogramLockup>
+                    <monogram id="crew2_mg" firstName="Tom" lastName="Clark"/>
+                    <title id="crew2">Tom Clark</title>
+                    <subtitle>Actor</subtitle>
+                </monogramLockup>
+                <monogramLockup>
+                    <monogram id="crew3_mg" firstName="Maria" lastName="Ruiz"/>
+                    <title id="crew3">Maria Ruiz</title>
+                    <subtitle>Actor</subtitle>
+                </monogramLockup>
+            </section>
+        </shelf>
+        <productInfo>
+            <infoTable>
+                <header>
+                    <title style="font-weight:regular">Information</title>
+                </header>
+                <info>
+                    <header>
+                        <title>Studio</title>
+                    </header>
+                    <text id="studio">Apple</text>
+                </info>
+                <info>
+                    <header>
+                        <title>Runtime</title>
+                    </header>
+                    <text id="runtime2">1:54</text>
+                </info>
+                <info>
+                    <header>
+                        <title>Format</title>
+                    </header>
+                    <text>Widescreen</text>
+                </info>
+            </infoTable>
+            <infoTable>
+                <header>
+                    <title style="font-weight:regular">Languages</title>
+                </header>
+                <info>
+                    <header>
+                        <title>Primary</title>
+                    </header>
+                    <text>English (Dolby 5.1), Subtitles, CC</text>
+                </info>
+                <info>
+                    <header>
+                        <title>Additional</title>
+                    </header>
+                    <text>English (Subtitles)</text>
+                </info>
+            </infoTable>
+            <infoTable style="tv-line-spacing:10;">
+                <header>
+                    <title style="font-weight:regular">Accessibility</title>
+                </header>
+                <info>
+                    <header>
+                        <textBadge>SDH</textBadge>
+                    </header>
+                    <text>Subtitles for the deaf and Hard of Hearing (SDH) refer to subtitles in the original lanuage with the addition of relevant non-dialog information.</text>
+                </info>
+            </infoTable>
+        </productInfo>
+    </productBundleTemplate>
+</document>

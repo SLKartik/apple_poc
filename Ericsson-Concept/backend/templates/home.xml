@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<document>
+    <menuBarTemplate>
+        <menuBar>
+            <menuItem id="navigation_featured" selectTargetURL="backend/templates/featured.xml">
+                <title style="font-weight:regular">Featured</title>
+            </menuItem>
+<!--            <menuItem id="navigation_ontv"  selectTargetURL="backend/templates/featured.xml">-->
+<!--                <title style="font-weight:regular">OnTV</title>-->
+<!--            </menuItem>-->
+            <menuItem id="navigation_ondemand"  selectTargetURL="backend/templates/onDemand.xml">
+                <title style="font-weight:regular">OnDemand</title>
+            </menuItem>
+<!--            <menuItem id="navigation_guide" selectTargetURL="">-->
+<!--                <title style="font-weight:regular">Guide</title>-->
+<!--            </menuItem>-->
+            <menuItem id="navigation_genre" selectTargetURL="backend/templates/genre.xml">
+                <title style="font-weight:regular">Genre</title>
+            </menuItem>
+            <menuItem id="navigation_search" selectTargetURL="backend/templates/search.xml">
+                <title style="font-weight:regular">Search</title>
+            </menuItem>
+            <menuItem id="navigation_settings" selectTargetURL="backend/templates/setting.xml">
+                <title style="font-weight:regular">Settings</title>
+            </menuItem>
+        </menuBar>
+    </menuBarTemplate>
+</document>

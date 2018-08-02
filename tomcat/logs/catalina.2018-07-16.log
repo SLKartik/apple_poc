@@ -1,0 +1,16 @@
+Jul 16, 2018 11:06:03 AM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Jul 16, 2018 11:06:03 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8186"]
+Jul 16, 2018 11:06:03 AM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+Jul 16, 2018 11:06:03 AM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Jul 16, 2018 11:06:03 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8186"]
+Jul 16, 2018 11:06:03 AM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+Jul 16, 2018 11:06:03 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8186"]
+Jul 16, 2018 11:06:03 AM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]

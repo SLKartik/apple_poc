@@ -1,0 +1,258 @@
+Nov 17, 2017 10:31:37 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.avalanche.second.main.plugin.MissingPluginListener referred from com.ericsson.iptv.portal.avalanche.second.common.popup.view.MissingPluginPopup
+Nov 17, 2017 10:31:37 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.avalanche.channellist.code.ChannelListLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 10:31:37 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.news.logic.NewsLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 10:31:37 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [0 2017-11-17 10:31:37.755][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.vo.BrowserPluginInjector: initPluginType, user agent [ Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0 ]
+Nov 17, 2017 10:31:37 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [1 2017-11-17 10:31:37.756][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.vo.BrowserPluginInjector: You're running in single tenant mode
+Nov 17, 2017 10:31:37 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [2 2017-11-17 10:31:37.757][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.AsyncDiscovery: you're running at platform {browser:{name:Firefox,version:56.0},os:{name:Mac,version:10.12}}
+Nov 17, 2017 10:31:37 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [3 2017-11-17 10:31:37.775][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.AsyncDiscovery: you're running at limited-supported browsers!
+Nov 17, 2017 10:31:37 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [4 2017-11-17 10:31:37.776][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.multiscreenapps.device.ott.Discovery: Can't be identified as an Android or iOS device!
+Nov 17, 2017 10:31:37 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [5 2017-11-17 10:31:37.842][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Interval not cleared: 5 ( 100 ) function(){}
+Nov 17, 2017 10:31:37 AM com.ericsson.iptv.portal.fw.constraint.mbean.ConstraintManager getDeviceConstraints
+INFO: cookie.value=%7B%22build-mode%22%3A%5B%22live%22%5D%2C%22markup%22%3A%5B%22html%22%5D%2C%22backend%22%3A%5B%22mock%22%5D%2C%22browser%22%3A%5B%22firefox%22%5D%2C%22device%22%3A%5B%22ott_web%22%2C%22web%22%2C%22helper%22%5D%2C%22capability%22%3A%5B%22storage%22%2C%22http%22%5D%2C%22pluginArchitecture%22%3A%5B%22NPAPI%22%5D%2C%22run-mode%22%3A%5B%22twoway%22%5D%7D
+Nov 17, 2017 10:31:37 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.avalanche.channellist.code.ChannelListLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 10:31:37 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.news.logic.NewsLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 10:31:37 AM com.ericsson.iptv.portal.fw.constraint.mbean.ConstraintManager getDeviceConstraints
+INFO: cookie.value=%7B%22build-mode%22%3A%5B%22live%22%5D%2C%22markup%22%3A%5B%22html%22%5D%2C%22backend%22%3A%5B%22mock%22%5D%2C%22browser%22%3A%5B%22firefox%22%5D%2C%22device%22%3A%5B%22ott_web%22%2C%22web%22%2C%22helper%22%5D%2C%22capability%22%3A%5B%22storage%22%2C%22http%22%5D%2C%22pluginArchitecture%22%3A%5B%22NPAPI%22%5D%2C%22run-mode%22%3A%5B%22twoway%22%5D%7D
+Nov 17, 2017 10:31:38 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [6 2017-11-17 10:31:38.025][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.vo.BrowserPluginInjector: initPluginType, user agent [ Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0 ]
+Nov 17, 2017 10:31:38 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [7 2017-11-17 10:31:38.025][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.vo.BrowserPluginInjector: You're running in single tenant mode
+Nov 17, 2017 10:31:38 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [8 2017-11-17 10:31:38.026][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.Info: Could not get ca client id from DRM.
+Nov 17, 2017 10:31:38 AM com.ericsson.iptv.portal.fw.constraint.mbean.ConstraintManager getDeviceConstraints
+INFO: cookie.value=%7B%22build-mode%22%3A%5B%22live%22%5D%2C%22markup%22%3A%5B%22html%22%5D%2C%22backend%22%3A%5B%22mock%22%5D%2C%22browser%22%3A%5B%22firefox%22%5D%2C%22device%22%3A%5B%22ott_web%22%2C%22web%22%2C%22helper%22%5D%2C%22capability%22%3A%5B%22storage%22%2C%22http%22%5D%2C%22pluginArchitecture%22%3A%5B%22NPAPI%22%5D%2C%22run-mode%22%3A%5B%22twoway%22%5D%7D
+Nov 17, 2017 10:31:38 AM com.ericsson.iptv.portal.fw.constraint.mbean.ConstraintManager getDeviceConstraints
+INFO: cookie.value=%7B%22build-mode%22%3A%5B%22live%22%5D%2C%22markup%22%3A%5B%22html%22%5D%2C%22backend%22%3A%5B%22mock%22%5D%2C%22browser%22%3A%5B%22firefox%22%5D%2C%22device%22%3A%5B%22ott_web%22%2C%22web%22%2C%22helper%22%5D%2C%22capability%22%3A%5B%22storage%22%2C%22http%22%5D%2C%22pluginArchitecture%22%3A%5B%22NPAPI%22%5D%2C%22run-mode%22%3A%5B%22twoway%22%5D%7D
+Nov 17, 2017 10:31:38 AM com.ericsson.iptv.portal.fw.constraint.mbean.ConstraintManager getDeviceConstraints
+INFO: cookie.value=%7B%22build-mode%22%3A%5B%22live%22%5D%2C%22markup%22%3A%5B%22html%22%5D%2C%22backend%22%3A%5B%22mock%22%5D%2C%22browser%22%3A%5B%22firefox%22%5D%2C%22device%22%3A%5B%22ott_web%22%2C%22web%22%2C%22helper%22%5D%2C%22capability%22%3A%5B%22storage%22%2C%22http%22%5D%2C%22pluginArchitecture%22%3A%5B%22NPAPI%22%5D%2C%22run-mode%22%3A%5B%22twoway%22%5D%7D
+Nov 17, 2017 10:31:38 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [9 2017-11-17 10:31:38.094][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Interval not cleared: 14 ( 100 ) function(){}
+Nov 17, 2017 10:31:38 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.avalanche.channellist.code.ChannelListLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 10:31:38 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.news.logic.NewsLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 10:31:38 AM com.ericsson.iptv.portal.fw.constraint.mbean.ConstraintManager getDeviceConstraints
+INFO: cookie.value=%7B%22build-mode%22%3A%5B%22live%22%5D%2C%22markup%22%3A%5B%22html%22%5D%2C%22backend%22%3A%5B%22mock%22%5D%2C%22browser%22%3A%5B%22firefox%22%5D%2C%22device%22%3A%5B%22ott_web%22%2C%22web%22%2C%22helper%22%5D%2C%22capability%22%3A%5B%22storage%22%2C%22http%22%5D%2C%22pluginArchitecture%22%3A%5B%22NPAPI%22%5D%2C%22run-mode%22%3A%5B%22twoway%22%5D%7D
+Nov 17, 2017 10:31:38 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [10 2017-11-17 10:31:38.240][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.vo.BrowserPluginInjector: initPluginType, user agent [ Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0 ]
+Nov 17, 2017 10:31:38 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [11 2017-11-17 10:31:38.240][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.vo.BrowserPluginInjector: You're running in single tenant mode
+Nov 17, 2017 10:31:38 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [12 2017-11-17 10:31:38.241][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.Info: Could not get ca client id from DRM.
+Nov 17, 2017 10:31:38 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [13 2017-11-17 10:31:38.304][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.Info: getIpAddress() not implemented on ott-pc!
+Nov 17, 2017 10:31:47 AM com.ericsson.iptv.portal.fw.constraint.mbean.ConstraintManager getDeviceConstraints
+INFO: cookie.value=838C63C45D459204ABD382218521DCD8
+Nov 17, 2017 10:31:47 AM com.ericsson.iptv.portal.fw.constraint.mbean.ConstraintManager getDeviceConstraints
+INFO: cookie.value=%7B%22build-mode%22%3A%5B%22live%22%5D%2C%22markup%22%3A%5B%22html%22%5D%2C%22backend%22%3A%5B%22mock%22%5D%2C%22browser%22%3A%5B%22firefox%22%5D%2C%22device%22%3A%5B%22ott_web%22%2C%22web%22%2C%22helper%22%5D%2C%22capability%22%3A%5B%22storage%22%2C%22http%22%5D%2C%22pluginArchitecture%22%3A%5B%22NPAPI%22%5D%2C%22run-mode%22%3A%5B%22twoway%22%5D%7D
+Nov 17, 2017 10:31:47 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [14 2017-11-17 10:31:47.176][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Interval not cleared: 22 ( 100 ) function(){}
+Nov 17, 2017 10:31:47 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.avalanche.second.main.plugin.MissingPluginListener referred from com.ericsson.iptv.portal.avalanche.second.common.popup.view.MissingPluginPopup
+Nov 17, 2017 10:31:47 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.avalanche.channellist.code.ChannelListLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 10:31:47 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.news.logic.NewsLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 10:31:47 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [0 2017-11-17 10:31:47.738][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.vo.BrowserPluginInjector: initPluginType, user agent [ Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0 ]
+Nov 17, 2017 10:31:47 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [1 2017-11-17 10:31:47.739][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.vo.BrowserPluginInjector: You're running in single tenant mode
+Nov 17, 2017 10:31:47 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [2 2017-11-17 10:31:47.740][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.AsyncDiscovery: you're running at platform {browser:{name:Firefox,version:56.0},os:{name:Mac,version:10.12}}
+Nov 17, 2017 10:31:47 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [3 2017-11-17 10:31:47.773][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.AsyncDiscovery: you're running at limited-supported browsers!
+Nov 17, 2017 10:31:47 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [4 2017-11-17 10:31:47.774][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.multiscreenapps.device.ott.Discovery: Can't be identified as an Android or iOS device!
+Nov 17, 2017 10:31:47 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [5 2017-11-17 10:31:47.880][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Interval not cleared: 5 ( 100 ) function(){}
+Nov 17, 2017 10:31:47 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.news.logic.NewsLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 10:31:48 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [6 2017-11-17 10:31:48.237][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.vo.BrowserPluginInjector: initPluginType, user agent [ Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0 ]
+Nov 17, 2017 10:31:48 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [7 2017-11-17 10:31:48.237][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.vo.BrowserPluginInjector: You're running in single tenant mode
+Nov 17, 2017 10:31:48 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [8 2017-11-17 10:31:48.238][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.Info: Could not get ca client id from DRM.
+Nov 17, 2017 10:31:48 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [9 2017-11-17 10:31:48.303][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.Info: getIpAddress() not implemented on ott-pc!
+Nov 17, 2017 10:33:16 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [10 2017-11-17 10:33:16.217][desktopsubscriber1000] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Interval not cleared: 14 ( 100 ) function(){}
+Nov 17, 2017 10:33:16 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.news.logic.NewsLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 10:33:16 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [11 2017-11-17 10:33:16.308][desktopsubscriber1000] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.vo.BrowserPluginInjector: initPluginType, user agent [ Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0 ]
+Nov 17, 2017 10:33:16 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [12 2017-11-17 10:33:16.308][desktopsubscriber1000] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.vo.BrowserPluginInjector: You're running in single tenant mode
+Nov 17, 2017 10:33:16 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [13 2017-11-17 10:33:16.309][desktopsubscriber1000] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.Info: Could not get ca client id from DRM.
+Nov 17, 2017 10:33:16 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [14 2017-11-17 10:33:16.500][desktopsubscriber1000] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Several implementations found for abstraction com.ericsson.iptv.portal.coreapps.common.data.interfaces.ServerSidePushIF
+Nov 17, 2017 10:33:16 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [15 2017-11-17 10:33:16.501][desktopsubscriber1000] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.Info: getIpAddress() not implemented on ott-pc!
+Nov 17, 2017 10:33:17 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [16 2017-11-17 10:33:17.201][desktopsubscriber1000] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.VCAS: Could not set equipment information map, the plugin is not enabled!
+Nov 17, 2017 10:33:17 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [17 2017-11-17 10:33:17.201][desktopsubscriber1000] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.Pig: mediaPlayer activate:false
+Nov 17, 2017 10:34:11 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [18 2017-11-17 10:34:11.569][desktopsubscriber1000] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.MediaPlayer: playback not supported without clientId
+Nov 17, 2017 10:34:11 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [19 2017-11-17 10:34:11.571][desktopsubscriber1000] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.MediaPlayer: play() failed since URL is not set!
+Nov 17, 2017 10:38:45 AM com.ericsson.iptv.portal.fw.constraint.mbean.ConstraintManager getDeviceConstraints
+INFO: cookie.value=BFAD8EEAEF4A8FFBE9E44C5D704476DC
+Nov 17, 2017 10:38:45 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.avalanche.second.main.plugin.MissingPluginListener referred from com.ericsson.iptv.portal.avalanche.second.common.popup.view.MissingPluginPopup
+Nov 17, 2017 10:38:45 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.avalanche.channellist.code.ChannelListLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 10:38:45 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.news.logic.NewsLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 10:38:45 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [0 2017-11-17 10:38:42.632][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.vo.BrowserPluginInjector: initPluginType, user agent [ Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36 (4948318192) EricssonTV_DE/200.6 (iPhone 5s) com.ericsson.mstv.mcs.de.demo/200.6 ]
+Nov 17, 2017 10:38:45 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [1 2017-11-17 10:38:42.633][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.vo.BrowserPluginInjector: You're running in single tenant mode
+Nov 17, 2017 10:38:45 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [2 2017-11-17 10:38:42.634][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.AsyncDiscovery: you're running at platform {browser:{name:Safari,version:unknown},os:{name:iOS,version:9_3_5}}
+Nov 17, 2017 10:38:45 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [3 2017-11-17 10:38:42.835][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Timer not cleared: 6 ( 5000 ) function(){}
+Nov 17, 2017 10:38:45 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [4 2017-11-17 10:38:42.835][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Interval not cleared: 5 ( 100 ) function(){}
+Nov 17, 2017 10:38:45 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.news.logic.NewsLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 10:38:46 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [5 2017-11-17 10:38:42.971][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Several implementations found for abstraction com.ericsson.iptv.portal.fw.device.interfaces.InfoIF
+Nov 17, 2017 10:38:46 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.news.logic.NewsLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 10:38:46 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [6 2017-11-17 10:38:43.250][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Several implementations found for abstraction com.ericsson.iptv.portal.fw.device.interfaces.InfoIF
+Nov 17, 2017 10:38:46 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [7 2017-11-17 10:38:43.422][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.multiscreenapps.device.ott.ServiceControl: Service controller already disabled, do nothing!
+Nov 17, 2017 10:38:54 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.news.logic.NewsLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 10:38:54 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [8 2017-11-17 10:38:51.008][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Timer not cleared: 79 ( 50 ) function(){}
+Nov 17, 2017 10:38:54 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [9 2017-11-17 10:38:51.116][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Several implementations found for abstraction com.ericsson.iptv.portal.fw.device.interfaces.InfoIF
+Nov 17, 2017 10:38:54 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [10 2017-11-17 10:38:51.188][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Several implementations found for abstraction com.ericsson.iptv.portal.coreapps.common.data.interfaces.ServerSidePushIF
+Nov 17, 2017 10:38:54 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [11 2017-11-17 10:38:51.193][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.multiscreenapps.device.ott.ServiceControl: Service controller already disabled, do nothing!
+Nov 17, 2017 10:38:54 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [12 2017-11-17 10:38:51.255][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.multiscreenapps.device.ott.ServiceControl: Service controller already disabled, do nothing!
+Nov 17, 2017 10:38:54 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [13 2017-11-17 10:38:51.359][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.multiscreenapps.device.ott.ModuleListener: User already logged in, will trigger upgrade check here!
+Nov 17, 2017 10:38:55 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [14 2017-11-17 10:38:52.403][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.multiscreenapps.device.ott.VCAS: set vcas info success
+Nov 17, 2017 10:54:20 AM com.ericsson.iptv.portal.fw.constraint.mbean.ConstraintManager getDeviceConstraints
+INFO: cookie.value=F0A27E917A4FC13D76FD6B833739FF4C
+Nov 17, 2017 10:54:20 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.avalanche.second.main.plugin.MissingPluginListener referred from com.ericsson.iptv.portal.avalanche.second.common.popup.view.MissingPluginPopup
+Nov 17, 2017 10:54:20 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.avalanche.channellist.code.ChannelListLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 10:54:20 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.news.logic.NewsLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 10:54:20 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [0 2017-11-17 10:54:17.308][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.vo.BrowserPluginInjector: initPluginType, user agent [ Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36 (5080947744) EricssonTV_DE/200.6 (iPhone 5s) com.ericsson.mstv.mcs.de.demo/200.6 ]
+Nov 17, 2017 10:54:20 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [1 2017-11-17 10:54:17.309][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.vo.BrowserPluginInjector: You're running in single tenant mode
+Nov 17, 2017 10:54:20 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [2 2017-11-17 10:54:17.310][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.AsyncDiscovery: you're running at platform {browser:{name:Safari,version:unknown},os:{name:iOS,version:9_3_5}}
+Nov 17, 2017 10:54:20 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.news.logic.NewsLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 10:54:20 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [3 2017-11-17 10:54:17.458][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Timer not cleared: 6 ( 5000 ) function(){}
+Nov 17, 2017 10:54:20 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [4 2017-11-17 10:54:17.458][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Interval not cleared: 5 ( 100 ) function(){}
+Nov 17, 2017 10:54:20 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [5 2017-11-17 10:54:17.538][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Several implementations found for abstraction com.ericsson.iptv.portal.fw.device.interfaces.InfoIF
+Nov 17, 2017 10:54:20 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [6 2017-11-17 10:54:17.676][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.multiscreenapps.device.ott.ServiceControl: Service controller already disabled, do nothing!
+Nov 17, 2017 10:54:23 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.news.logic.NewsLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 10:54:23 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [7 2017-11-17 10:54:19.934][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Timer not cleared: 48 ( 50 ) function(){}
+Nov 17, 2017 10:54:23 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [8 2017-11-17 10:54:20.033][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Several implementations found for abstraction com.ericsson.iptv.portal.fw.device.interfaces.InfoIF
+Nov 17, 2017 10:54:23 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [9 2017-11-17 10:54:20.095][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Several implementations found for abstraction com.ericsson.iptv.portal.coreapps.common.data.interfaces.ServerSidePushIF
+Nov 17, 2017 10:54:23 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [10 2017-11-17 10:54:20.100][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.multiscreenapps.device.ott.ServiceControl: Service controller already disabled, do nothing!
+Nov 17, 2017 10:54:23 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [11 2017-11-17 10:54:20.143][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.multiscreenapps.device.ott.ServiceControl: Service controller already disabled, do nothing!
+Nov 17, 2017 10:54:23 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [12 2017-11-17 10:54:20.199][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.multiscreenapps.device.ott.ModuleListener: User already logged in, will trigger upgrade check here!
+Nov 17, 2017 10:54:23 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [13 2017-11-17 10:54:20.838][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.multiscreenapps.device.ott.VCAS: set vcas info success
+Nov 17, 2017 10:54:45 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [14 2017-11-17 10:54:42.209][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Module definition not found for module com.ericsson.iptv.portal.news.logic.NewsLogic
+Nov 17, 2017 10:54:45 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [15 2017-11-17 10:54:42.209][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Could not satisfy dependency to com.ericsson.iptv.portal.news.logic.NewsLogic for module com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 10:54:45 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [16 2017-11-17 10:54:42.209][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Unable to load module com.ericsson.iptv.portal.avalanche.second.news.view.News {}
+Nov 17, 2017 10:54:45 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+SEVERE: [17 2017-11-17 10:54:42.210][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.avalanche.second.common.main.code.ErrorLogicUtils: Failed to activate menuItem com.ericsson.iptv.portal.avalanche.second.news.view.MenuItem {faultId:com.ericsson.iptv.portal.fw.exceptions.CommonFault.INTERNAL_FAULT,message:The requested action could not be performed}
+Nov 17, 2017 10:56:37 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [18 2017-11-17 10:55:43.145][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.multiscreenapps.device.ott.Info_1_5: Portal Application Visibility status changed to :ON_REMOVE
+Nov 17, 2017 10:57:58 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [20 2017-11-17 10:57:44.809][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.multiscreenapps.device.ott.Info_1_5: Portal Application Visibility status changed to :ON_REMOVE
+Nov 17, 2017 10:59:23 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [22 2017-11-17 10:58:00.371][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.multiscreenapps.device.ott.Info_1_5: Portal Application Visibility status changed to :ON_REMOVE
+Nov 17, 2017 11:03:11 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [24 2017-11-17 10:59:57.805][ViewRightWebClientStubVDIS==] [subscriber1000] [user1] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.multiscreenapps.device.ott.Info_1_5: Portal Application Visibility status changed to :ON_REMOVE
+Nov 17, 2017 11:03:27 AM com.ericsson.iptv.portal.fw.constraint.mbean.ConstraintManager getDeviceConstraints
+INFO: cookie.value=08D9FACBBC9771E93CC3049C2A160E5D
+Nov 17, 2017 11:03:27 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.avalanche.second.main.plugin.MissingPluginListener referred from com.ericsson.iptv.portal.avalanche.second.common.popup.view.MissingPluginPopup
+Nov 17, 2017 11:03:27 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.avalanche.channellist.code.ChannelListLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 11:03:27 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.news.logic.NewsLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 11:03:27 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [0 2017-11-17 11:03:24.547][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.vo.BrowserPluginInjector: initPluginType, user agent [ Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36 (5467660576) EricssonTV_DE/200.6 (iPhone 5s) com.ericsson.mstv.mcs.de.demo/200.6 ]
+Nov 17, 2017 11:03:27 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [1 2017-11-17 11:03:24.549][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.vo.BrowserPluginInjector: You're running in single tenant mode
+Nov 17, 2017 11:03:27 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [2 2017-11-17 11:03:24.550][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.AsyncDiscovery: you're running at platform {browser:{name:Safari,version:unknown},os:{name:iOS,version:9_3_5}}
+Nov 17, 2017 11:03:27 AM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.news.logic.NewsLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 11:03:27 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [3 2017-11-17 11:03:24.676][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Timer not cleared: 6 ( 5000 ) function(){}
+Nov 17, 2017 11:03:27 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [4 2017-11-17 11:03:24.676][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Interval not cleared: 5 ( 100 ) function(){}
+Nov 17, 2017 11:03:27 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [5 2017-11-17 11:03:24.770][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Several implementations found for abstraction com.ericsson.iptv.portal.fw.device.interfaces.InfoIF
+Nov 17, 2017 11:03:28 AM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [6 2017-11-17 11:03:24.915][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.multiscreenapps.device.ott.ServiceControl: Service controller already disabled, do nothing!
+Nov 17, 2017 3:14:17 PM com.ericsson.iptv.portal.fw.constraint.mbean.ConstraintManager getDeviceConstraints
+INFO: cookie.value=27CCE88855C057F3C5995F1E5ABFB9AB
+Nov 17, 2017 3:14:17 PM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.avalanche.second.main.plugin.MissingPluginListener referred from com.ericsson.iptv.portal.avalanche.second.common.popup.view.MissingPluginPopup
+Nov 17, 2017 3:14:17 PM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.avalanche.channellist.code.ChannelListLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 3:14:17 PM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.news.logic.NewsLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 3:14:17 PM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [0 2017-11-17 15:14:17.637][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.vo.BrowserPluginInjector: initPluginType, user agent [ Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36 (5174120512) EricssonTV_DE/200.6 (iPhone 5s) com.ericsson.mstv.mcs.de.demo/200.6 ]
+Nov 17, 2017 3:14:17 PM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [1 2017-11-17 15:14:17.639][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.vo.BrowserPluginInjector: You're running in single tenant mode
+Nov 17, 2017 3:14:17 PM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [2 2017-11-17 15:14:17.639][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.ott.device.web.AsyncDiscovery: you're running at platform {browser:{name:Safari,version:unknown},os:{name:iOS,version:9_3_5}}
+Nov 17, 2017 3:14:17 PM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [3 2017-11-17 15:14:17.808][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Timer not cleared: 6 ( 5000 ) function(){}
+Nov 17, 2017 3:14:17 PM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [4 2017-11-17 15:14:17.808][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Interval not cleared: 5 ( 100 ) function(){}
+Nov 17, 2017 3:14:17 PM com.ericsson.iptv.portal.fw.backend.sw.FwSwBean getSwList
+WARNING: Missing dependency to com.ericsson.iptv.portal.news.logic.NewsLogic referred from com.ericsson.iptv.portal.avalanche.second.news.view.News
+Nov 17, 2017 3:14:17 PM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+WARNING: [5 2017-11-17 15:14:17.905][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.fw.core.DynamicLoad: Several implementations found for abstraction com.ericsson.iptv.portal.fw.device.interfaces.InfoIF
+Nov 17, 2017 3:14:18 PM com.ericsson.iptv.portal.fw.backend.log.controller.FwLogController log
+INFO: [6 2017-11-17 15:14:18.127][subscriber1000] [http://172.17.162.67:8080/portal-root-war/index_mock.html] com.ericsson.iptv.portal.multiscreenapps.device.ott.ServiceControl: Service controller already disabled, do nothing!
